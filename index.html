@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Unilorin Post-UTME — Understand, Don't Cram</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,500&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<!-- ============ TOP BAR ============ -->
+<div class="topbar">
+  <div class="topbar-inner">
+    <button class="brand" id="brandBtn"><span class="mark">UI</span> Post&#8209;UTME Prep</button>
+    <div class="topbar-stats" id="topbarStats"></div>
+  </div>
+</div>
+
+<!-- ============ HERO ============ -->
+<header class="hero">
+  <div class="cbt-strip"><div class="cbt-strip-inner">
+    <span><span class="dot"></span>CBT SIMULATION READY</span>
+    <span>UNIVERSITY OF ILORIN POST&#8209;UTME SCREENING</span>
+    <span id="heroBankCount">116 QUESTIONS IN BANK</span>
+  </div></div>
+  <div class="hero-body">
+    <p class="eyebrow">Built from real past questions, 2006&#8211;2017</p>
+    <h1>Understand the exam.<br><em>Don't just cram it.</em></h1>
+    <p class="lede">Every question here comes with the underlying rule and the fastest way to solve it &mdash; because on a 25&#8211;minute CBT screening, recognising the pattern beats re-reading the question twice.</p>
+    <div class="hero-facts">
+      <span class="fact-chip"><b>50</b> questions on exam day</span>
+      <span class="fact-chip"><b>25&#8211;30</b> minutes, computer-based</span>
+      <span class="fact-chip"><b>80%</b> English &middot; <b>10%</b> Maths &middot; <b>10%</b> G.K.</span>
+    </div>
+    <div class="hero-ctas">
+      <button class="btn btn-gold" id="ctaSimulate">Simulate the real CBT &rarr;</button>
+      <button class="btn btn-ghost-dark" id="ctaBrowse">Browse by topic</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <!-- ============ DASHBOARD VIEW ============ -->
+  <section id="view-dashboard">
+    <div class="section-head">
+      <p class="eyebrow">Where your study time actually pays off</p>
+      <h2>Ranked by real exam weight</h2>
+      <p>Unilorin's Post&#8209;UTME general paper is dominated by one subject. This ranking mirrors the pattern examiners have followed across the last decade &mdash; use it to decide what to open first, not what to open only.</p>
+    </div>
+    <div class="rank-list" id="rankList"></div>
+    <p class="dash-note"><b>Why English is worth 8&times; a Maths question:</b> the paper is a general screening test for every faculty, not a subject-specific exam &mdash; so it leans hard on English usage that every candidate, regardless of course, is expected to have. Spend roughly 4 of every 5 study sessions there.</p>
+
+    <div class="sim-band">
+      <div class="sim-band-text">
+        <h3>Ready to test yourself under real conditions?</h3>
+        <p>50 questions, weighted the same way the real paper is (40 English &middot; 5 Maths &middot; 5 G.K.), with a 25:00 countdown. No explanations until you finish &mdash; just like the real CBT hall.</p>
+      </div>
+      <div class="sim-band-cta"><button class="btn btn-gold" id="ctaSimulate2">Start simulation</button></div>
+    </div>
+  </section>
+
+  <!-- ============ SUBJECT / TOPIC VIEW ============ -->
+  <section id="view-subject" class="hide">
+    <div class="crumb"><button id="crumbBack">&larr; All subjects</button><span>/</span><span id="crumbSubject"></span></div>
+    <div class="section-head">
+      <p class="eyebrow" id="subjectEyebrow"></p>
+      <h2 id="subjectTitle"></h2>
+      <p id="subjectIntro"></p>
+    </div>
+    <div id="topicList"></div>
+  </section>
+
+  <!-- ============ QUIZ VIEW ============ -->
+  <section id="view-quiz" class="hide">
+    <div class="term" id="termBox">
+      <div class="term-topbar">
+        <div class="term-topbar-left">
+          <span id="termLabel">Practice</span>
+          <span class="term-progress"><span id="termProgressText">Q1 / 10</span><span class="term-progress-track"><i id="termProgressBar" style="width:0%"></i></span></span>
+        </div>
+        <div class="term-topbar-left">
+          <span class="term-timer hide" id="termTimer"></span>
+          <span class="term-score" id="termScore">Score 0 / 0</span>
+        </div>
+      </div>
+      <div class="term-body">
+        <span class="term-tag" id="termTag">Concord &amp; Grammar</span>
+        <p class="term-question" id="termQuestion">Loading question&hellip;</p>
+        <div class="term-options" id="termOptions"></div>
+        <div class="term-feedback" id="termFeedback">
+          <div class="feedback-verdict" id="fbVerdict"></div>
+          <div class="fb-row"><b>Core concept</b><span id="fbConcept"></span></div>
+          <div class="fb-row"><b>Fastest way to solve it</b><span id="fbMethod"></span></div>
+        </div>
+      </div>
+      <div class="term-footer">
+        <button class="btn-term-quit" id="termQuit">&larr; End session</button>
+        <span class="hint" id="termHint">Press 1&#8211;4 or click an option</span>
+        <button class="btn-term-next" id="termNext" disabled>Next &rarr;</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ SUMMARY VIEW ============ -->
+  <section id="view-summary" class="hide">
+    <div class="section-head">
+      <p class="eyebrow">Session complete</p>
+      <h2>Here's how it went</h2>
+    </div>
+    <div class="summary-hero">
+      <div class="score-ring" id="scoreRing"><span class="num" id="scoreNum">0%</span></div>
+      <div>
+        <h3 id="summaryHeadline">Nice work.</h3>
+        <p id="summaryBody"></p>
+        <div class="summary-actions">
+          <button class="btn btn-primary btn-sm" id="retryMissed">Review missed questions</button>
+          <button class="btn btn-outline btn-sm" id="backToDash">Back to dashboard</button>
+        </div>
+      </div>
+    </div>
+    <div id="reviewList" class="review-list"></div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>Built for focused revision, not memorisation.</span>
+    <span id="footerCount"></span>
+  </div>
+</footer>
+
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
