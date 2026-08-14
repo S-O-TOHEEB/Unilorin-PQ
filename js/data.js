@@ -1670,9 +1670,230 @@ const QUIZ_DATA = {
        "concept": "'By the time + present tense' describing a future milestone pairs with the future perfect in the main clause.",
        "method": "The 12-hour flight duration will be complete at that future point → will have been (not the conditional 'would have been').",
        "difficulty": "core"
+      },
+      {
+       "q": "'The man is your father.' What is the grammatical name of the underlined phrase 'your father'?",
+       "o": {
+        "A": "Adjectival phrase",
+        "B": "Adverbial phrase",
+        "C": "Nominal (noun) phrase",
+        "D": "Noun clause"
+       },
+       "a": "C",
+       "concept": "A group of words built around a noun, without a subject-verb structure of its own, is a nominal (noun) phrase, not a full clause.",
+       "method": "'Your father' has no verb and functions as a noun, renaming/describing 'the man' — a nominal phrase, not a clause.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What sentence structure is this: 'Although he is stingy, he still has a good heart'?",
+       "o": {
+        "A": "Compound sentence",
+        "B": "Compound-complex sentence",
+        "C": "Complex sentence",
+        "D": "Simple sentence"
+       },
+       "a": "C",
+       "concept": "A sentence with one subordinate clause (introduced by 'although') attached to one main clause is complex, not compound.",
+       "method": "'Although he is stingy' is a subordinate clause attached to the main clause 'he still has a good heart' — that combination defines a complex sentence.",
+       "difficulty": "core"
+      },
+      {
+       "q": "'Birds of ______ flock together.'",
+       "o": {
+        "A": "a feather",
+        "B": "the same feather",
+        "C": "same feathers",
+        "D": "a same feather"
+       },
+       "a": "A",
+       "concept": "This is a fixed proverb — its exact wording doesn't change, even though 'the same feather' might sound logical.",
+       "method": "The correct, unchangeable proverb is 'Birds of a feather flock together.'",
+       "difficulty": "core"
+      },
+      {
+       "q": "'CBT attendant didn't allow her to write the exam because she was late.' What type of clause is 'because she was late'?",
+       "o": {
+        "A": "Adverbial clause of reason",
+        "B": "Adverbial clause of time",
+        "C": "Adjectival clause",
+        "D": "Noun clause"
+       },
+       "a": "A",
+       "concept": "Clauses beginning with 'because' explain WHY something happened, making them adverbial clauses of reason.",
+       "method": "'Because she was late' explains the reason for the action, so it's an adverbial clause of reason.",
+       "difficulty": "core"
+      },
+      {
+       "q": "'When subordinating conjunctions come in a sentence, they are ______.'",
+       "o": {
+        "A": "capitalized and followed by a comma",
+        "B": "capitalized and followed by a hyphen",
+        "C": "capitalized and followed by a full stop",
+        "D": "written in lower case and followed by a comma"
+       },
+       "a": "D",
+       "concept": "Subordinating conjunctions (although, because, since, etc.) mid-sentence follow standard capitalisation rules — lower case unless starting a new sentence, with the subordinate clause often set off by a comma.",
+       "method": "Mid-sentence, subordinating conjunctions stay in lower case and the clause they introduce is typically followed by a comma.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A sentence that has two or more main clauses joined by coordinating conjunctions is called a ______.",
+       "o": {
+        "A": "simple sentence",
+        "B": "complex sentence",
+        "C": "compound-complex sentence",
+        "D": "compound sentence"
+       },
+       "a": "D",
+       "concept": "Compound sentences join two or more independent (main) clauses using coordinating conjunctions like 'and', 'but', or 'or'.",
+       "method": "Two main clauses joined by a coordinating conjunction defines a compound sentence.",
+       "difficulty": "core"
+      },
+      {
+       "q": "'I know whenever she is happy.' What is the grammatical name of the underlined clause 'whenever she is happy'?",
+       "o": {
+        "A": "Noun phrase",
+        "B": "Noun clause",
+        "C": "Adverbial clause",
+        "D": "Adjectival clause"
+       },
+       "a": "C",
+       "concept": "Clauses beginning with 'whenever' typically describe when an action happens, making them adverbial clauses of time.",
+       "method": "'Whenever she is happy' answers the question 'when?', making it an adverbial clause.",
+       "difficulty": "core"
+      },
+      {
+       "q": "An intransitive verb is a verb ______.",
+       "o": {
+        "A": "with an object",
+        "B": "with a subject",
+        "C": "with no object",
+        "D": "with only one object"
+       },
+       "a": "C",
+       "concept": "Transitive verbs need a direct object to complete their meaning; intransitive verbs don't.",
+       "method": "An intransitive verb makes complete sense without needing an object (e.g. 'she sleeps'), unlike a transitive verb (e.g. 'she reads a book').",
+       "difficulty": "core"
+      },
+      {
+       "q": "'The information contains the size of your parcel.' What is the grammatical name of the underlined phrase 'the size of your parcel'?",
+       "o": {
+        "A": "Relative phrase",
+        "B": "Adverbial phrase",
+        "C": "Adjectival phrase",
+        "D": "Noun phrase"
+       },
+       "a": "D",
+       "concept": "A group of words centred on a noun ('size'), without its own subject-verb structure, functions as a noun phrase.",
+       "method": "'The size of your parcel' is built around the noun 'size' and acts as the object of 'contains' — a noun phrase.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The plumbers have been toiling ______.",
+       "o": {
+        "A": "hard, on the job, all day.",
+        "B": "all day hard, on the job.",
+        "C": "on the job, hard, all day.",
+        "D": "on the job, all day, hard."
+       },
+       "a": "A",
+       "concept": "When manner, place, and time adverbs appear together, English follows a fixed order: Manner → Place → Time (the MPT rule).",
+       "method": "'Hard' (manner) comes first, then 'on the job' (place), then 'all day' (time) — following the MPT order.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Osaretin drove ______.",
+       "o": {
+        "A": "speedily at 8 o'clock to Oza-Nogogo.",
+        "B": "at 8 o'clock to Oza-Nogogo speedily.",
+        "C": "to Oza-Nogogo speedily at 8 o'clock.",
+        "D": "speedily to Oza-Nogogo at 8 o'clock."
+       },
+       "a": "D",
+       "concept": "Adverbs of manner, place, and time follow the fixed MPT order (Manner, then Place, then Time) in a single sentence.",
+       "method": "'Speedily' (manner) → 'to Oza-Nogogo' (place) → 'at 8 o'clock' (time) is the correct MPT order.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The little girl went ______.",
+       "o": {
+        "A": "reluctantly to the farm at 2 o'clock.",
+        "B": "to the farm at 2 o'clock reluctantly.",
+        "C": "at 2 o'clock to the farm reluctantly.",
+        "D": "reluctantly at 2 o'clock to the farm."
+       },
+       "a": "A",
+       "concept": "Apply the MPT rule: Manner adverb first, then Place, then Time.",
+       "method": "'Reluctantly' (manner) → 'to the farm' (place) → 'at 2 o'clock' (time).",
+       "difficulty": "core"
+      },
+      {
+       "q": "Mr Godswill Ogumbor was ______.",
+       "o": {
+        "A": "last week elected chairman unanimously.",
+        "B": "elected chairman last week unanimously.",
+        "C": "unanimously last week elected chairman.",
+        "D": "unanimously elected chairman last week."
+       },
+       "a": "D",
+       "concept": "With only manner and time adverbs present (no place), the MPT order still places manner before time.",
+       "method": "'Unanimously' (manner) comes before 'last week' (time), giving: unanimously elected chairman last week.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The match will be played ______.",
+       "o": {
+        "A": "at 4 o'clock on Saturday next week.",
+        "B": "next week at 4 o'clock on Saturday.",
+        "C": "on Saturday next week at 4 o'clock.",
+        "D": "at 4 o'clock next week on Saturday."
+       },
+       "a": "A",
+       "concept": "When several TIME adverbs appear together with no manner or place adverb, the smaller (more specific) unit of time comes before the bigger, more general one.",
+       "method": "'At 4 o'clock' (specific) → 'on Saturday' (less specific) → 'next week' (most general) — smallest to biggest.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The President was overthrown ______.",
+       "o": {
+        "A": "July on the 12th, 1998.",
+        "B": "1998 on the 12th of July.",
+        "C": "on the 12th of July, 1998.",
+        "D": "on the 12th of 1998, July."
+       },
+       "a": "C",
+       "concept": "Among multiple time expressions, the more specific (day) comes before the more general (year), following the small-to-big time rule.",
+       "method": "'On the 12th of July' (specific date) comes before '1998' (year) — smaller time unit before bigger.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The deceased was buried at 6am ______ his compound. Why does the adverb of time come before the adverb of place here?",
+       "o": {
+        "A": "Because 'MPT' order must always be followed exactly, with no exceptions",
+        "B": "Because the TIME of the burial is being emphasised",
+        "C": "Because 'place' adverbs must always come last",
+        "D": "Because this is a grammatical error"
+       },
+       "a": "B",
+       "concept": "The MPT rule is a general guideline, not a rigid law — place and time (or manner and place) can swap positions when the writer wants to emphasise one of them.",
+       "method": "Placing 'at 6am' before 'in his compound' shifts the emphasis onto WHEN the burial happened, rather than where.",
+       "difficulty": "core"
+      },
+      {
+       "q": "'A ______ family Bible lay open on the table.' Choose the option with the correct order of adjectives.",
+       "o": {
+        "A": "huge black gold-edged",
+        "B": "black huge gold-edged",
+        "C": "black gold-edged huge",
+        "D": "gold-edged black huge"
+       },
+       "a": "A",
+       "concept": "Adjectives follow a fixed order: Modifier, General, Size, Shape, Age, Colour, Verb-form, Noun, Head (remembered as MG S-SAC-VERB-NOUN-HEAD).",
+       "method": "Size ('huge') comes before Colour ('black'), which comes before the Verb-form adjective ('gold-edged') — giving: huge black gold-edged.",
+       "difficulty": "core"
       }
      ],
-     "freq": 217
+     "freq": 234
     },
     {
      "id": "prepositions",
@@ -2765,241 +2986,332 @@ const QUIZ_DATA = {
        "difficulty": "core"
       },
       {
-       "q": "You can confide _____ me; I won't tell anyone.",
+       "q": "The workers decided to abide ______ the new company policy.",
        "o": {
-        "A": "in",
-        "B": "to",
-        "C": "on",
-        "D": "with"
-       },
-       "a": "A",
-       "concept": "'Confide in' someone means to trust them with a secret.",
-       "method": "Pair 'confide' with 'in' when it means 'trust'; 'confide to' is used when it means 'tell/reveal'.",
-       "difficulty": "core"
-      },
-      {
-       "q": "The clerk was suspected of conniving _____ the fraud.",
-       "o": {
-        "A": "at",
-        "B": "in",
-        "C": "for",
-        "D": "by"
-       },
-       "a": "A",
-       "concept": "'Connive at' means to secretly allow or overlook a wrongdoing.",
-       "method": "'At' follows 'connive' when it means 'turn a blind eye to' something.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Grandma dotes _____ her only grandson.",
-       "o": {
-        "A": "with",
-        "B": "for",
-        "C": "on",
-        "D": "to"
-       },
-       "a": "C",
-       "concept": "'Dote on' means to show excessive love or fondness for someone.",
-       "method": "Remember the fixed phrase 'dote on' — it never takes 'for' or 'with'.",
-       "difficulty": "core"
-      },
-      {
-       "q": "The government continues to grapple _____ rising inflation.",
-       "o": {
-        "A": "with",
-        "B": "at",
-        "C": "for",
-        "D": "against"
-       },
-       "a": "A",
-       "concept": "'Grapple with' means to struggle to deal with a difficult problem.",
-       "method": "Picture wrestling ('grappling') WITH an opponent — the problem is the opponent here.",
-       "difficulty": "core"
-      },
-      {
-       "q": "He was warned not to meddle _____ other people's affairs.",
-       "o": {
-        "A": "on",
-        "B": "in",
-        "C": "at",
-        "D": "with"
-       },
-       "a": "B",
-       "concept": "'Meddle in' means to interfere in something that is not one's business.",
-       "method": "'Affairs' are things you get involved IN, so 'meddle in' fits naturally.",
-       "difficulty": "core"
-      },
-      {
-       "q": "She finally managed to prevail _____ her brother to apologise.",
-       "o": {
-        "A": "at",
-        "B": "with",
-        "C": "on",
-        "D": "for"
-       },
-       "a": "C",
-       "concept": "'Prevail on/upon' someone means to persuade them to do something.",
-       "method": "Don't confuse with 'prevail over' (to defeat); 'prevail on' is about persuasion, not victory.",
-       "difficulty": "core"
-      },
-      {
-       "q": "It took him years to reconcile himself _____ the loss of his job.",
-       "o": {
-        "A": "with",
-        "B": "to",
-        "C": "at",
-        "D": "for"
-       },
-       "a": "B",
-       "concept": "'Reconcile (oneself) to' something means to accept an unpleasant situation.",
-       "method": "Use 'reconcile...to' for accepting a fact, but 'reconcile...with' when comparing two things.",
-       "difficulty": "core"
-      },
-      {
-       "q": "The driver had to deviate _____ his usual route because of the flood.",
-       "o": {
-        "A": "from",
-        "B": "off",
-        "C": "of",
-        "D": "with"
-       },
-       "a": "A",
-       "concept": "'Deviate from' means to depart from an established course, plan, or standard.",
-       "method": "Think of 'deviate' as moving away FROM a set path.",
-       "difficulty": "core"
-      },
-      {
-       "q": "The report was completely devoid _____ facts.",
-       "o": {
-        "A": "from",
-        "B": "with",
-        "C": "of",
-        "D": "in"
-       },
-       "a": "C",
-       "concept": "'Devoid of' means completely lacking or without something.",
-       "method": "'Devoid' always pairs with 'of' — nothing else fits.",
-       "difficulty": "core"
-      },
-      {
-       "q": "My sister is engaged _____ a young lawyer.",
-       "o": {
-        "A": "with",
-        "B": "to",
-        "C": "for",
-        "D": "in"
-       },
-       "a": "B",
-       "concept": "'Engaged to' someone means promised in marriage to them ('engaged in' means busy doing something).",
-       "method": "Distinguish the two meanings: 'engaged TO' a person, 'engaged IN' an activity.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Senior citizens are exempt _____ the new toll charge.",
-       "o": {
-        "A": "of",
-        "B": "from",
-        "C": "for",
-        "D": "with"
-       },
-       "a": "B",
-       "concept": "'Exempt from' means officially excused from an obligation.",
-       "method": "You are freed FROM a duty, so 'exempt from' is the natural pairing.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Clear, honest communication is indispensable _____ good teamwork.",
-       "o": {
-        "A": "for",
+        "A": "by",
         "B": "with",
         "C": "to",
-        "D": "at"
-       },
-       "a": "C",
-       "concept": "'Indispensable to' means absolutely necessary for something.",
-       "method": "'Indispensable' pairs with 'to' when naming what it's essential for.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Young children are especially prone _____ colds in this weather.",
-       "o": {
-        "A": "with",
-        "B": "for",
-        "C": "at",
-        "D": "to"
-       },
-       "a": "D",
-       "concept": "'Prone to' means having a natural tendency toward something, usually negative.",
-       "method": "Fixed phrase: 'prone to' — it never changes preposition.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Under the constitution, executive power is vested _____ the President.",
-       "o": {
-        "A": "on",
-        "B": "with",
-        "C": "in",
-        "D": "by"
-       },
-       "a": "C",
-       "concept": "'Vested in' means officially and legally granted to a person or office.",
-       "method": "Power is placed/held IN an office, so 'vested in' is correct — not 'vested with' (that describes the person, e.g. 'the President is vested with power').",
-       "difficulty": "core"
-      },
-      {
-       "q": "It was a pleasure to converse _____ such an interesting man.",
-       "o": {
-        "A": "to",
-        "B": "with",
-        "C": "at",
         "D": "for"
        },
-       "a": "B",
-       "concept": "'Converse with' means to talk with someone.",
-       "method": "A conversation happens WITH another person, never 'to' them.",
-       "difficulty": "core"
-      },
-      {
-       "q": "The new fence encroaches _____ our neighbour's land.",
-       "o": {
-        "A": "on",
-        "B": "in",
-        "C": "for",
-        "D": "with"
-       },
        "a": "A",
-       "concept": "'Encroach on/upon' means to intrude gradually on someone else's territory or rights.",
-       "method": "Picture something creeping ON to land that isn't yours.",
+       "concept": "'Abide by' (meaning to comply with a rule or decision) is a fixed verb-preposition pairing.",
+       "method": "'Abide' always pairs with 'by', never 'with', 'to', or 'for'.",
        "difficulty": "core"
       },
       {
-       "q": "He has always been averse _____ taking unnecessary risks.",
+       "q": "He was accused ______ theft by his neighbours.",
+       "o": {
+        "A": "for",
+        "B": "of",
+        "C": "with",
+        "D": "on"
+       },
+       "a": "B",
+       "concept": "'Accuse someone OF something' is the standard fixed pattern.",
+       "method": "'Accused of' is the correct collocation, not 'accused for' or 'accused with'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The young boy has become addicted ______ video games.",
+       "o": {
+        "A": "with",
+        "B": "of",
+        "C": "to",
+        "D": "for"
+       },
+       "a": "C",
+       "concept": "'Addicted to' is a fixed verb-preposition pairing that never varies.",
+       "method": "'Addicted' always takes 'to', never 'with', 'of', or 'for'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "She is deeply afraid ______ spiders.",
        "o": {
         "A": "of",
         "B": "from",
         "C": "with",
-        "D": "to"
+        "D": "at"
        },
-       "a": "D",
-       "concept": "'Averse to' means strongly disliking or opposed to something.",
-       "method": "'Averse' pairs only with 'to', even though it can feel like it should take 'against'.",
+       "a": "A",
+       "concept": "'Afraid of' is the standard fixed pairing when expressing fear of something.",
+       "method": "'Afraid' collocates with 'of', not 'from' or 'with'.",
        "difficulty": "core"
       },
       {
-       "q": "Two of the judges chose to dissent _____ the majority ruling.",
+       "q": "The committee members did not agree ______ the proposal.",
+       "o": {
+        "A": "on",
+        "B": "of",
+        "C": "for",
+        "D": "to"
+       },
+       "a": "D",
+       "concept": "'Agree to a proposal' (accepting it) differs from 'agree with a person' (sharing their opinion) — choose the preposition based on what follows.",
+       "method": "When agreeing to a plan or proposal, use 'agree to'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Everyone was amazed ______ his sudden success.",
+       "o": {
+        "A": "with",
+        "B": "at",
+        "C": "for",
+        "D": "of"
+       },
+       "a": "B",
+       "concept": "'Amazed at' is the standard fixed collocation for expressing surprise at something.",
+       "method": "'Amazed' pairs with 'at', not 'with', 'for', or 'of'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The whole village was angry ______ the corrupt chief.",
+       "o": {
+        "A": "of",
+        "B": "for",
+        "C": "with",
+        "D": "about"
+       },
+       "a": "C",
+       "concept": "'Angry with' is used for a person, while 'angry about/at' is used for a situation or thing.",
+       "method": "Since 'the chief' is a person, the correct pairing here is 'angry with'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "She is quite anxious ______ the outcome of her exams.",
+       "o": {
+        "A": "of",
+        "B": "for",
+        "C": "with",
+        "D": "about"
+       },
+       "a": "D",
+       "concept": "'Anxious about' is used when worrying over a situation or outcome, distinct from 'anxious for' (eager for something to happen).",
+       "method": "Worrying over an exam OUTCOME takes 'anxious about'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "He finally apologised ______ his rude behaviour.",
+       "o": {
+        "A": "for",
+        "B": "of",
+        "C": "about",
+        "D": "with"
+       },
+       "a": "A",
+       "concept": "'Apologise to someone FOR something' is the fixed pattern — the reason for the apology takes 'for'.",
+       "method": "'Apologise for' the behaviour/reason, but 'apologise to' the person.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The students were not entirely satisfied and decided to appeal ______ the examiner for a re-mark.",
+       "o": {
+        "A": "for",
+        "B": "to",
+        "C": "with",
+        "D": "on"
+       },
+       "a": "B",
+       "concept": "'Appeal to someone FOR something' is the fixed pattern.",
+       "method": "Appealing TO a person (the examiner) uses 'to'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Nigeria is not the only country blessed with an appetite ______ progress.",
+       "o": {
+        "A": "of",
+        "B": "for",
+        "C": "with",
+        "D": "at"
+       },
+       "a": "B",
+       "concept": "'Appetite for' is the fixed collocation used with abstract desires, just as with literal food.",
+       "method": "'Appetite' always pairs with 'for'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The panel did not approve ______ his unconventional proposal.",
+       "o": {
+        "A": "of",
+        "B": "for",
+        "C": "on",
+        "D": "at"
+       },
+       "a": "A",
+       "concept": "'Approve of' is the fixed pattern when expressing agreement with or endorsement of something.",
+       "method": "'Approve' pairs with 'of', not 'for' or 'on'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The judge finally arrived ______ a decision after much deliberation.",
+       "o": {
+        "A": "to",
+        "B": "on",
+        "C": "at",
+        "D": "in"
+       },
+       "a": "C",
+       "concept": "'Arrive at a decision' is a fixed figurative expression, distinct from the literal 'arrive at/in a place'.",
+       "method": "'Arrive at a decision/conclusion' is the standard fixed collocation.",
+       "difficulty": "core"
+      },
+      {
+       "q": "He remains averse ______ any form of change in the office routine.",
        "o": {
         "A": "from",
+        "B": "of",
+        "C": "with",
+        "D": "to"
+       },
+       "a": "D",
+       "concept": "'Averse to' (strongly disliking or opposed to) is a fixed collocation.",
+       "method": "'Averse' always pairs with 'to'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The security guard was banned ______ entering the premises after the incident.",
+       "o": {
+        "A": "of",
+        "B": "from",
+        "C": "for",
+        "D": "with"
+       },
+       "a": "B",
+       "concept": "'Ban someone FROM doing something' is the fixed pattern.",
+       "method": "'Banned from' is correct, not 'banned of' or 'banned for'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The whole class is now busy ______ their final year projects.",
+       "o": {
+        "A": "in",
+        "B": "on",
+        "C": "with",
+        "D": "for"
+       },
+       "a": "C",
+       "concept": "'Busy with' is the fixed collocation when describing what someone is occupied doing.",
+       "method": "'Busy' pairs with 'with', not 'in', 'on', or 'for'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The minister was charged ______ corruption and abuse of office.",
+       "o": {
+        "A": "for",
+        "B": "of",
+        "C": "with",
+        "D": "on"
+       },
+       "a": "C",
+       "concept": "'Charge someone WITH an offence' is the standard legal collocation.",
+       "method": "'Charged with' is correct, distinct from 'accused of' (though both describe similar situations, the fixed prepositions differ).",
+       "difficulty": "core"
+      },
+      {
+       "q": "Nigeria's economy still depends heavily ______ oil revenue.",
+       "o": {
+        "A": "of",
+        "B": "on",
+        "C": "from",
+        "D": "with"
+       },
+       "a": "B",
+       "concept": "'Depend on/upon' is the standard fixed collocation.",
+       "method": "'Depend' pairs with 'on' (or 'upon'), never 'of' or 'from'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "He was later exempted ______ paying the full tuition fee.",
+       "o": {
+        "A": "of",
+        "B": "for",
+        "C": "from",
+        "D": "with"
+       },
+       "a": "C",
+       "concept": "'Exempt someone FROM an obligation' is the fixed pattern.",
+       "method": "'Exempted from' is correct.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The staff were entirely ignorant ______ the new policy changes.",
+       "o": {
+        "A": "with",
+        "B": "about",
+        "C": "for",
+        "D": "at"
+       },
+       "a": "B",
+       "concept": "'Ignorant of/about' is the standard fixed collocation when someone lacks knowledge of something.",
+       "method": "'Ignorant about' (or 'ignorant of') is correct.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The lawyer's argument was irrelevant ______ the actual case being tried.",
+       "o": {
+        "A": "for",
+        "B": "with",
+        "C": "to",
+        "D": "of"
+       },
+       "a": "C",
+       "concept": "'Irrelevant to' is the fixed collocation.",
+       "method": "'Irrelevant' pairs with 'to', not 'for', 'with', or 'of'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "She has always been keen ______ learning new languages.",
+       "o": {
+        "A": "for",
         "B": "with",
         "C": "at",
         "D": "on"
        },
+       "a": "D",
+       "concept": "'Keen on' is the fixed collocation expressing enthusiasm for something.",
+       "method": "'Keen' pairs with 'on', not 'for', 'with', or 'at'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The teacher warned the students not to meddle ______ affairs that do not concern them.",
+       "o": {
+        "A": "with",
+        "B": "in",
+        "C": "on",
+        "D": "at"
+       },
+       "a": "B",
+       "concept": "'Meddle in' is the fixed collocation for interfering in a matter.",
+       "method": "'Meddle in' someone's affairs is correct, not 'meddle with' (which has a slightly different everyday sense of tampering with an object).",
+       "difficulty": "core"
+      },
+      {
+       "q": "The whole country reacted with insistence ______ immediate reforms.",
+       "o": {
+        "A": "on",
+        "B": "of",
+        "C": "for",
+        "D": "at"
+       },
        "a": "A",
-       "concept": "'Dissent from' means to formally disagree with an official decision or opinion.",
-       "method": "You break away FROM the group's view, so 'dissent from' is correct.",
+       "concept": "'Insistence on' is the fixed collocation.",
+       "method": "'Insistence' pairs with 'on', not 'of', 'for', or 'at'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The community members finally reconciled themselves ______ the outcome of the election.",
+       "o": {
+        "A": "with",
+        "B": "for",
+        "C": "to",
+        "D": "of"
+       },
+       "a": "C",
+       "concept": "'Reconcile oneself TO something' means to accept an unwelcome situation.",
+       "method": "'Reconcile (oneself) to' is correct when accepting a difficult outcome.",
        "difficulty": "core"
       }
      ],
-     "freq": 102
+     "freq": 109
     },
     {
      "id": "synonyms",
@@ -4157,33 +4469,111 @@ const QUIZ_DATA = {
        "difficulty": "core"
       },
       {
-       "q": "The long war had begun to DEPLETE the country's food reserves. DEPLETE is closest in meaning to:",
+       "q": "Choose the option nearest in meaning to the underlined word: 'The man is loved by everyone because he is so kind and COMPASSIONATE.'",
        "o": {
-        "A": "decorate",
-        "B": "beg",
-        "C": "exhaust",
-        "D": "hurry"
+        "A": "cruel",
+        "B": "wicked",
+        "C": "loyal",
+        "D": "tenderhearted"
        },
-       "a": "C",
-       "concept": "'Deplete' means to reduce the amount of something substantially, exhausting a supply.",
-       "method": "'Deplete' and 'exhaust' both describe a resource being used up.",
+       "a": "D",
+       "concept": "'Compassionate' describes deep sympathy and care for others' suffering.",
+       "method": "'Tenderhearted' most closely captures the caring, sympathetic sense of 'compassionate'.",
        "difficulty": "core"
       },
       {
-       "q": "The dealer was arrested for trying to CHEAT his customers. CHEAT is closest in meaning to:",
+       "q": "Choose the option nearest in meaning to the underlined word: 'They looked CATASTROPHIC after the accident.'",
        "o": {
-        "A": "stingy",
-        "B": "argue",
-        "C": "freckle",
-        "D": "defraud"
+        "A": "sad",
+        "B": "glad",
+        "C": "pessimistic",
+        "D": "awful"
        },
        "a": "D",
-       "concept": "'Cheat' and 'defraud' both mean to deceive someone, usually to gain money or an advantage unfairly.",
-       "method": "Both words describe dishonestly taking something that isn't rightfully yours.",
+       "concept": "'Catastrophic' describes something disastrous or extremely bad in appearance/outcome.",
+       "method": "'Awful' is the closest match to the severe, disastrous sense of 'catastrophic'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Choose the option nearest in meaning to the underlined word: 'The story was so PATHETIC that everyone cried.'",
+       "o": {
+        "A": "pitiable",
+        "B": "awful",
+        "C": "interesting",
+        "D": "touching"
+       },
+       "a": "D",
+       "concept": "Note that 'pathetic' here means 'evoking pity or sadness' (its original sense), not the informal modern meaning of 'inadequate'.",
+       "method": "'Touching' best captures the emotionally moving sense of 'pathetic' as used in this sentence.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Choose the option nearest in meaning to the underlined word: 'The information is confidential and must not be REVEALED.'",
+       "o": {
+        "A": "told",
+        "B": "shown",
+        "C": "disclosed",
+        "D": "exposed"
+       },
+       "a": "C",
+       "concept": "'Revealed' in the context of confidential information matches formally 'disclosing' it.",
+       "method": "'Disclosed' is the term most specifically associated with confidential information being made known.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Choose the word nearest in meaning to 'EXCULPATED'.",
+       "o": {
+        "A": "Indicted",
+        "B": "Condemned",
+        "C": "Acquitted",
+        "D": "Inculcated"
+       },
+       "a": "C",
+       "concept": "'Exculpate' means to clear someone of blame or guilt — the legal opposite of being indicted or condemned.",
+       "method": "'Acquitted' (cleared of a charge) is the closest match to 'exculpated'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Choose the word nearest in meaning to 'ASTUTE'.",
+       "o": {
+        "A": "Slow",
+        "B": "Stupid",
+        "C": "Shrewd",
+        "D": "Compassionate"
+       },
+       "a": "C",
+       "concept": "'Astute' describes someone sharp-minded and good at making quick, accurate judgements.",
+       "method": "'Shrewd' is the closest synonym, both describing sharp, practical intelligence.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Choose the word nearest in meaning to the underlined word: 'She was taken to the hospital because her condition had WORSENED.'",
+       "o": {
+        "A": "deteriorated",
+        "B": "faulty",
+        "C": "improved",
+        "D": "declined slightly"
+       },
+       "a": "A",
+       "concept": "'Worsened' and 'deteriorated' both describe a condition getting progressively worse.",
+       "method": "'Deteriorated' most precisely matches 'worsened' in describing a declining medical condition.",
+       "difficulty": "core"
+      },
+      {
+       "q": "'She needs to know that she is a sine qua non of the assembly.' What is nearest in meaning to the underlined phrase?",
+       "o": {
+        "A": "Respected",
+        "B": "Dispensable",
+        "C": "Indispensable",
+        "D": "Unimportant"
+       },
+       "a": "C",
+       "concept": "'Sine qua non' is a Latin phrase meaning an essential, absolutely necessary condition or person.",
+       "method": "Being a 'sine qua non' means being indispensable — essential and impossible to do without.",
        "difficulty": "core"
       }
      ],
-     "freq": 92
+     "freq": 98
     },
     {
      "id": "antonyms",
@@ -5302,33 +5692,72 @@ const QUIZ_DATA = {
        "difficulty": "core"
       },
       {
-       "q": "\"The presidential system is meant to be an antidote to some political ailments.\" ANTIDOTE, as used here, is most opposite in meaning to:",
+       "q": "What is the antonym of NIGGARDLY?",
        "o": {
-        "A": "an answer",
-        "B": "a reply",
-        "C": "an inquiry",
-        "D": "an obstacle"
+        "A": "Parsimoniously",
+        "B": "Cheerfully",
+        "C": "Generously",
+        "D": "Willingly"
        },
-       "a": "D",
-       "concept": "In this sentence, 'antidote' means a remedy or solution to a problem; its contextual opposite is something that worsens or blocks a solution.",
-       "method": "Ask what would make the political 'ailments' worse rather than better — that's the obstacle.",
+       "a": "C",
+       "concept": "'Niggardly' means stingy or reluctant to spend/give — its opposite describes freely giving.",
+       "method": "'Generously' is the direct opposite of niggardly (stingy).",
        "difficulty": "core"
       },
       {
-       "q": "\"He was respected, though he held no temporal power.\" Here, TEMPORAL (used to mean 'lasting only for a time') is most opposite to:",
+       "q": "Choose the word opposite in meaning to the underlined word: 'My brother is LOQUACIOUS and fun to be with.'",
        "o": {
-        "A": "spiritual",
-        "B": "mundane",
-        "C": "permanent",
-        "D": "ephemeral"
+        "A": "talkative",
+        "B": "chatty",
+        "C": "garrulous",
+        "D": "reserved"
+       },
+       "a": "D",
+       "concept": "'Loquacious' means very talkative — talkative, chatty, and garrulous are all synonyms, not opposites.",
+       "method": "'Reserved' (quiet, restrained in speech) is the true opposite of loquacious; the other three options are simply synonyms of it.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Choose the word opposite in meaning to PROFANE.",
+       "o": {
+        "A": "Beautiful",
+        "B": "Sacred",
+        "C": "Profuse",
+        "D": "Stiff"
+       },
+       "a": "B",
+       "concept": "'Profane' describes something showing disrespect for what is holy; its opposite describes something holy or reverent.",
+       "method": "'Sacred' (holy, deserving reverence) is the direct opposite of profane.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Choose the word opposite in meaning to the underlined word: 'She was very much respected, though she had no PERMANENT position in the company.'",
+       "o": {
+        "A": "Stable",
+        "B": "Fixed",
+        "C": "Temporary",
+        "D": "Lasting"
        },
        "a": "C",
-       "concept": "Used loosely to mean 'temporary' or 'fleeting', 'temporal' here has 'permanent' as its natural opposite.",
-       "method": "Read 'temporal' in context as 'short-lived'; the direct opposite of short-lived is lasting/permanent.",
+       "concept": "'Permanent' describes something lasting indefinitely; its opposite describes something that only lasts for a limited time.",
+       "method": "'Temporary' (lasting only for a time) is the direct opposite of 'permanent' (lasting indefinitely).",
+       "difficulty": "core"
+      },
+      {
+       "q": "Choose the word opposite in meaning to 'AN ANTIDOTE' (as in 'the presidential system is an antidote to some political ailments').",
+       "o": {
+        "A": "An answer",
+        "B": "A reply",
+        "C": "An inquiry",
+        "D": "An obstacle"
+       },
+       "a": "D",
+       "concept": "An antidote counters or solves a problem; its opposite would instead hinder or block a solution.",
+       "method": "If an antidote helps cure an 'ailment', its opposite is something that gets in the way — an obstacle.",
        "difficulty": "core"
       }
      ],
-     "freq": 88
+     "freq": 91
     },
     {
      "id": "vocabcontext",
@@ -6772,215 +7201,618 @@ const QUIZ_DATA = {
        "difficulty": "core"
       },
       {
-       "q": "Which single word means 'the killing of a king'?",
+       "q": "What is an 'affix' in grammar?",
+       "o": {
+        "A": "A free morpheme",
+        "B": "Only a suffix",
+        "C": "Only a prefix",
+        "D": "A bound morpheme"
+       },
+       "a": "D",
+       "concept": "An affix (prefix, infix, or suffix) can never stand alone as a word — that's what makes it a 'bound' morpheme.",
+       "method": "Affixes are bound morphemes, attached to the beginning, middle, or end of a root word to change its meaning.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The lady called the ______ to fix her broken pipes in the bathroom.",
+       "o": {
+        "A": "Plumber",
+        "B": "Carpenter",
+        "C": "Bricklayer",
+        "D": "Electrician"
+       },
+       "a": "A",
+       "concept": "Match the tradesperson to the specific job described — pipes are a plumber's domain.",
+       "method": "A plumber specifically handles water pipes and fittings, unlike a carpenter (wood) or bricklayer (masonry).",
+       "difficulty": "core"
+      },
+      {
+       "q": "The student couldn't beat the principal, so he took the law ______ his own hands.",
+       "o": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "into"
+       },
+       "a": "D",
+       "concept": "'Take the law into one's own hands' is a fixed idiomatic expression meaning to act outside proper legal authority.",
+       "method": "The fixed idiom always uses 'into', not 'in', 'at', or 'on'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Here is the ______ which ______ he is innocent.",
+       "o": {
+        "A": "proof / prove",
+        "B": "proves / prove",
+        "C": "proof / proof",
+        "D": "proof / proves"
+       },
+       "a": "D",
+       "concept": "Match each blank's part of speech and number to its grammatical role — a noun subject needs a noun, and a singular subject needs a singular verb.",
+       "method": "The first blank needs a noun (proof); the second needs a verb agreeing with the singular relative pronoun 'which' — proves.",
+       "difficulty": "core"
+      },
+      {
+       "q": "While writing the letter, I made several ______.",
+       "o": {
+        "A": "ommissions",
+        "B": "omisions",
+        "C": "omissions",
+        "D": "omission's"
+       },
+       "a": "C",
+       "concept": "'Omission' is a commonly misspelt word — double 's', single 'm'.",
+       "method": "Correct spelling: omissions (double 's', not double 'm').",
+       "difficulty": "core"
+      },
+      {
+       "q": "Scarcely had he arrived ______ it began to rain.",
+       "o": {
+        "A": "than",
+        "B": "when",
+        "C": "that",
+        "D": "but"
+       },
+       "a": "B",
+       "concept": "'Scarcely...when' and 'no sooner...than' are the two fixed pairings in this construction — they aren't interchangeable.",
+       "method": "'Scarcely' collocates with 'when', not 'than' (that pairing belongs to 'no sooner').",
+       "difficulty": "core"
+      },
+      {
+       "q": "I chatted with my old friends via ______.",
+       "o": {
+        "A": "WhatsApp",
+        "B": "Whatapp",
+        "C": "Watsapp",
+        "D": "What'sapp"
+       },
+       "a": "A",
+       "concept": "Brand names have one correct spelling, even in casual usage.",
+       "method": "The app's correct name is WhatsApp, capitalised as shown.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A group of insects is called a ______.",
+       "o": {
+        "A": "Bevy",
+        "B": "Flight",
+        "C": "Swarm",
+        "D": "Herd"
+       },
+       "a": "C",
+       "concept": "Collective nouns for animal groups are specific to each type of animal — insects take 'swarm'.",
+       "method": "'Bevy' is for birds/girls, 'flight' is for birds, 'herd' is for large mammals; insects specifically form a swarm.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Another common term for the salutation ('Dear Sir/Madam') in a formal letter is ______.",
+       "o": {
+        "A": "Honour",
+        "B": "Respect",
+        "C": "Greetings",
+        "D": "Subscription"
+       },
+       "a": "C",
+       "concept": "'Salutation' and 'greeting' are near-synonyms in the context of letter-writing structure.",
+       "method": "The opening greeting of a letter is its salutation, also simply called the greeting.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The dog barks ______ the children.",
+       "o": {
+        "A": "at",
+        "B": "on",
+        "C": "with",
+        "D": "in"
+       },
+       "a": "A",
+       "concept": "'Bark at' is the standard preposition pairing when directing the action toward a target.",
+       "method": "'Bark at someone/something' is the fixed collocation.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A group of ants is called a(n) ______.",
+       "o": {
+        "A": "Herd",
+        "B": "Host",
+        "C": "Colony",
+        "D": "Army"
+       },
+       "a": "C",
+       "concept": "Collective nouns vary by species — ants specifically form a colony (though large groups are sometimes informally called an 'army').",
+       "method": "The standard biological/collective term for a group of ants is a colony.",
+       "difficulty": "core"
+      },
+      {
+       "q": "She ______ her way to the living room, clearly hurt.",
+       "o": {
+        "A": "staggered",
+        "B": "limped",
+        "C": "stumbled",
+        "D": "crawled"
+       },
+       "a": "A",
+       "concept": "Vocabulary-in-context questions test precise shades of meaning between similar verbs of movement.",
+       "method": "'Staggered' best fits an unsteady, off-balance walk consistent with being hurt.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The hotel is so precarious to our health, meaning it is ______.",
+       "o": {
+        "A": "Safer",
+        "B": "Fearful",
+        "C": "Dangerous",
+        "D": "Good"
+       },
+       "a": "C",
+       "concept": "'Precarious' means uncertain or risky, which in a health context translates to 'dangerous'.",
+       "method": "Something 'precarious to health' poses a danger or risk to it.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The wife is so submissive to her husband and family members, meaning she is ______.",
+       "o": {
+        "A": "Obedient",
+        "B": "Recalcitrant",
+        "C": "Stubborn",
+        "D": "Selfless"
+       },
+       "a": "A",
+       "concept": "'Submissive' describes a disposition of yielding or deferring to others — the opposite of stubborn or recalcitrant.",
+       "method": "Submissive most closely matches obedient; recalcitrant and stubborn are actually near-opposites of submissive.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Choose the odd one out.",
+       "o": {
+        "A": "men's wear",
+        "B": "women's wear",
+        "C": "mens' wear",
+        "D": "babies' wear"
+       },
+       "a": "C",
+       "concept": "'Men' is already plural, so its possessive apostrophe goes before the 's' (men's), not after (mens').",
+       "method": "'Mens'' is grammatically incorrect — the correct possessive of the plural noun 'men' is 'men's', making it the odd one out.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Whatever you say here will be used against you in the ______.",
+       "o": {
+        "A": "courts of law",
+        "B": "court of laws",
+        "C": "court of law",
+        "D": "court-of-law"
+       },
+       "a": "C",
+       "concept": "This is a fixed legal phrase, and only one arrangement of singular/plural is standard.",
+       "method": "The standard fixed phrase is 'a court of law' (singular court, singular law).",
+       "difficulty": "core"
+      },
+      {
+       "q": "The records of the ______ are inside my ______ on my table.",
+       "o": {
+        "A": "dairy / diary",
+        "B": "diary / dairy",
+        "C": "diary / diary",
+        "D": "dairy / dairy"
+       },
+       "a": "A",
+       "concept": "'Dairy' (a business dealing in milk products) and 'diary' (a personal notebook/journal) are commonly confused because they're near-anagrams of each other.",
+       "method": "Read it as: the records OF THE DAIRY (the milk business) are kept inside MY DIARY (my notebook) on the table — dairy first, diary second.",
+       "difficulty": "core"
+      },
+      {
+       "q": "I made a firm decision and _______ pass my exams no matter what.",
+       "o": {
+        "A": "I will try to",
+        "B": "I will try and",
+        "C": "I try",
+        "D": "trying"
+       },
+       "a": "A",
+       "concept": "'Try to + verb' is the grammatically standard construction; 'try and + verb' is common in informal speech but less accepted in formal written English tested here.",
+       "method": "'Try to pass' is the standard formal construction.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A group of whales is called a ______.",
+       "o": {
+        "A": "Fish",
+        "B": "Whale",
+        "C": "Pod",
+        "D": "Cat"
+       },
+       "a": "C",
+       "concept": "Whales, being highly social marine mammals, have their own specific collective noun.",
+       "method": "A group of whales is called a pod (sometimes also called a 'gam').",
+       "difficulty": "core"
+      },
+      {
+       "q": "I read the book by Shaw and that of ______.",
+       "o": {
+        "A": "Shakespeare",
+        "B": "Shakespeare's",
+        "C": "Shakespear",
+        "D": "Shakespear's"
+       },
+       "a": "B",
+       "concept": "When comparing two people's possessions/works with 'that of', the second name still needs its own possessive form.",
+       "method": "'That of Shakespeare's' mirrors the possessive structure already implied — correct spelling is Shakespeare, with the possessive 's.",
+       "difficulty": "core"
+      },
+      {
+       "q": "How many syllables are in the word 'REPELLENT'?",
+       "o": {
+        "A": "3",
+        "B": "2",
+        "C": "4",
+        "D": "1"
+       },
+       "a": "A",
+       "concept": "Break the word into its natural spoken syllables to count accurately: re-pel-lent.",
+       "method": "'Repellent' has three syllables: re-pel-lent.",
+       "difficulty": "core"
+      },
+      {
+       "q": "'She told him to go to the hog in his work.' This idiom means he has to ______.",
+       "o": {
+        "A": "finish his work thoroughly and completely",
+        "B": "search for a new job",
+        "C": "meet an actual hog",
+        "D": "give up on his work"
+       },
+       "a": "A",
+       "concept": "This regional idiom (common in some varieties of Nigerian English) means to commit fully and see something through to completion.",
+       "method": "'Go to the hog' (a variant of 'go the whole hog') means to do something completely and thoroughly.",
+       "difficulty": "core"
+      },
+      {
+       "q": "They all ran for ______.",
+       "o": {
+        "A": "their dear lives",
+        "B": "dear life",
+        "C": "dear lives",
+        "D": "their dear life"
+       },
+       "a": "A",
+       "concept": "'Run for dear life' is normally singular per person, but when the subject is plural ('they'), both the pronoun and noun should agree in number.",
+       "method": "With a plural subject ('they'), the fixed idiom becomes 'their dear lives', keeping pronoun and noun consistently plural.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The police ______ the case of the armed robbers, meaning they completed the investigation.",
+       "o": {
+        "A": "rounded up",
+        "B": "rounded off",
+        "C": "rounded of",
+        "D": "rounded out"
+       },
+       "a": "B",
+       "concept": "'Round off' means to complete or finish something, distinct from 'round up' (to gather people, e.g. arrest suspects).",
+       "method": "'Rounded off the case' means they concluded/finished it — not to be confused with 'rounded up' (arrested) the robbers themselves.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Pick the option nearly OPPOSITE in meaning to VERBOSE.",
+       "o": {
+        "A": "Garrulous",
+        "B": "Loquacious",
+        "C": "Concise",
+        "D": "Chatty"
+       },
+       "a": "C",
+       "concept": "'Verbose' means using more words than necessary; its opposite favours brevity.",
+       "method": "Garrulous, loquacious, and chatty are all near-synonyms of verbose (talkative); 'concise' (brief, to the point) is the true opposite.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Grandma frowned at the ______ of meat in the pot, feeling it was too big a piece.",
+       "o": {
+        "A": "Sum",
+        "B": "Chunk",
+        "C": "Block",
+        "D": "Little"
+       },
+       "a": "B",
+       "concept": "'Chunk' specifically describes a thick, irregular piece — fitting for meat, unlike 'block' (regular, geometric) or 'sum' (a quantity of money/numbers).",
+       "method": "'Chunk of meat' is the natural collocation for an oddly large piece.",
+       "difficulty": "core"
+      },
+      {
+       "q": "'A dog that usually barks seldom ______.'",
+       "o": {
+        "A": "bites",
+        "B": "cries",
+        "C": "eats",
+        "D": "runs"
+       },
+       "a": "A",
+       "concept": "This is a well-known English proverb about how the loudest threats are often the least dangerous.",
+       "method": "The full proverb is 'A barking dog seldom bites', meaning someone who makes a lot of noise rarely follows through with real action.",
+       "difficulty": "core"
+      },
+      {
+       "q": "As things are now, I have to look for ______ tyre.",
+       "o": {
+        "A": "a cheap, second-hand rubber",
+        "B": "a cheap, rubber, second-hand",
+        "C": "a rubber, cheap, second-hand",
+        "D": "a second-hand rubber cheap"
+       },
+       "a": "A",
+       "concept": "Adjectives follow a fixed order: General quality, then Age (second-hand), then Noun-material (rubber) — remembered as MG S-SAC-VERB-NOUN-HEAD.",
+       "method": "'Cheap' (general) → 'second-hand' (age) → 'rubber' (material/noun) is the correct adjective order.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The tourist bought ______.",
+       "o": {
+        "A": "a brown small Nigerian earthen pot",
+        "B": "a small brown Nigerian earthen pot",
+        "C": "an earthen brown small Nigerian pot",
+        "D": "a Nigerian small brown earthen pot"
+       },
+       "a": "B",
+       "concept": "The full adjective order is Size, then Colour, then Noun (origin), then Noun (material): small → brown → Nigerian → earthen.",
+       "method": "Size ('small') comes before Colour ('brown'), which comes before origin ('Nigerian'), which comes before material ('earthen').",
+       "difficulty": "core"
+      },
+      {
+       "q": "The ______ came here last week.",
+       "o": {
+        "A": "handsome tall young man",
+        "B": "young tall handsome man",
+        "C": "tall handsome young man",
+        "D": "young handsome tall man"
+       },
+       "a": "D",
+       "concept": "Following MG S-SAC order: Age ('young') comes before General quality ('handsome'), which comes before Size ('tall').",
+       "method": "Age → General → Size gives: young handsome tall man.",
+       "difficulty": "core"
+      },
+      {
+       "q": "John's father has just bought a ______ car.",
+       "o": {
+        "A": "brand new blue Japanese sports",
+        "B": "brand new Japanese blue sports",
+        "C": "brand new sports Japanese blue",
+        "D": "new brand blue sports Japanese"
+       },
+       "a": "A",
+       "concept": "Age ('brand new') comes before Colour ('blue'), which comes before the noun-as-adjective 'Japanese' (origin), which comes before 'sports' (a noun modifier closest to the head noun).",
+       "method": "Age → Colour → Origin → type gives: brand new blue Japanese sports (car).",
+       "difficulty": "core"
+      },
+      {
+       "q": "Mrs Ojo was one of ______ in my village.",
+       "o": {
+        "A": "the first two enlightened young ladies",
+        "B": "the two first enlightened young ladies",
+        "C": "the two first young enlightened ladies",
+        "D": "the first two young enlightened ladies"
+       },
+       "a": "D",
+       "concept": "Modifiers (the, first, two) come first as a group, followed by Age ('young'), then General quality ('enlightened').",
+       "method": "'The first two' (modifiers) → 'young' (age) → 'enlightened' (general) gives: the first two young enlightened ladies.",
+       "difficulty": "core"
+      },
+      {
+       "q": "He put ______ in a basket.",
+       "o": {
+        "A": "white dozen eggs",
+        "B": "a dozen white eggs",
+        "C": "a white dozen eggs",
+        "D": "dozen white eggs"
+       },
+       "a": "B",
+       "concept": "'A dozen' functions as a modifier/quantity and comes before the colour adjective 'white'.",
+       "method": "Modifier ('a dozen') → Colour ('white') gives: a dozen white eggs.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The ______ engineer designed a new machine.",
+       "o": {
+        "A": "brilliant Nigerian young",
+        "B": "Nigerian brilliant young",
+        "C": "young Nigerian brilliant",
+        "D": "brilliant young Nigerian"
+       },
+       "a": "D",
+       "concept": "General quality ('brilliant') comes before Age ('young'), which comes before origin ('Nigerian').",
+       "method": "General → Age → Noun(origin) gives: brilliant young Nigerian (engineer).",
+       "difficulty": "core"
+      },
+      {
+       "q": "What is the term for the murder of a king?",
        "o": {
         "A": "Homicide",
         "B": "Regicide",
-        "C": "Genocide",
-        "D": "Suicide"
+        "C": "Patricide",
+        "D": "Genocide"
        },
        "a": "B",
-       "concept": "'Regicide' combines 'reg-' (king, as in 'regal') with '-cide' (killing).",
-       "method": "Spot the root 'reg-' — the same one in 'regal' and 'regent' — pointing straight to a king.",
+       "concept": "Words ending in '-cide' name specific kinds of killing — each prefix identifies who or what is killed.",
+       "method": "'Regi-' relates to a king/ruler (as in 'regal', 'regent'), giving regicide: the killing of a king.",
        "difficulty": "core"
       },
       {
-       "q": "Which single word means 'the killing of one's own brother'?",
+       "q": "What is the term for the murder of one's own parents?",
        "o": {
         "A": "Fratricide",
-        "B": "Patricide",
-        "C": "Matricide",
-        "D": "Infanticide"
-       },
-       "a": "A",
-       "concept": "'Fratricide' comes from 'frater' (Latin for brother) plus '-cide'.",
-       "method": "'Frat-' as in 'fraternal twins' (brothers) signals the sibling connection.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Which single word means 'the killing of one's own mother'?",
-       "o": {
-        "A": "Patricide",
         "B": "Matricide",
-        "C": "Fratricide",
-        "D": "Regicide"
-       },
-       "a": "B",
-       "concept": "'Matricide' comes from 'mater' (Latin for mother) plus '-cide'.",
-       "method": "'Matri-' as in 'maternal' points to the mother.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Which single word means 'the killing of one's own father'?",
-       "o": {
-        "A": "Patricide",
-        "B": "Matricide",
-        "C": "Infanticide",
-        "D": "Sororicide"
-       },
-       "a": "A",
-       "concept": "'Patricide' comes from 'pater' (Latin for father) plus '-cide'.",
-       "method": "'Patri-' as in 'paternal' points to the father.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Which single word means 'the killing of a baby'?",
-       "o": {
-        "A": "Fratricide",
-        "B": "Regicide",
-        "C": "Infanticide",
-        "D": "Suicide"
+        "C": "Parricide",
+        "D": "Patricide"
        },
        "a": "C",
-       "concept": "'Infanticide' combines 'infant' with '-cide' (killing).",
-       "method": "The root word 'infant' is already inside 'infanticide' — no need to guess.",
+       "concept": "Distinguish 'parricide' (killing one's parent(s) or a close relative) from the more specific 'matricide' (mother) and 'patricide' (father).",
+       "method": "'Parri-' relates to parents generally, giving parricide.",
        "difficulty": "core"
       },
       {
-       "q": "A person who is married to only one spouse at a time is called a",
+       "q": "A person who has been married only once, to one spouse at a time, is called a ______.",
        "o": {
         "A": "Polygamist",
-        "B": "Misogamist",
+        "B": "Monogamist",
         "C": "Celibate",
-        "D": "Monogamist"
-       },
-       "a": "D",
-       "concept": "'Monogamist' combines 'mono-' (one) with '-gamist' (marriage partner).",
-       "method": "'Mono-' always means 'one', as in 'monologue' or 'monopoly'.",
-       "difficulty": "core"
-      },
-      {
-       "q": "A person who hates the institution of marriage is called a",
-       "o": {
-        "A": "Misogamist",
-        "B": "Misogynist",
-        "C": "Misandrist",
-        "D": "Polygamist"
-       },
-       "a": "A",
-       "concept": "'Misogamist' combines 'miso-' (hatred) with '-gamist' (marriage).",
-       "method": "Don't confuse it with 'misogynist' (hater of women) — 'misogamist' is about marriage itself.",
-       "difficulty": "core"
-      },
-      {
-       "q": "A person who hates women is called a",
-       "o": {
-        "A": "Misandrist",
-        "B": "Misogynist",
-        "C": "Misogamist",
-        "D": "Celibate"
+        "D": "Bigamist"
        },
        "a": "B",
-       "concept": "'Misogynist' combines 'miso-' (hatred) with 'gyne' (Greek for woman).",
-       "method": "'Gyne' also appears in 'gynaecology' (the study of women's health).",
+       "concept": "'Mono-' means one/single, distinguishing this from 'poly-' (many) in the related word 'polygamist'.",
+       "method": "'Mono-' (one) + 'gamist' (married person) gives monogamist: someone married to one spouse at a time.",
        "difficulty": "core"
       },
       {
-       "q": "A person who hates men is called a",
-       "o": {
-        "A": "Misandrist",
-        "B": "Misogynist",
-        "C": "Misogamist",
-        "D": "Sybarite"
-       },
-       "a": "A",
-       "concept": "'Misandrist' combines 'miso-' (hatred) with 'andros' (Greek for man).",
-       "method": "'Andro-' also appears in 'android' — a man-like machine.",
-       "difficulty": "core"
-      },
-      {
-       "q": "A person who has vowed to remain unmarried is called a",
-       "o": {
-        "A": "Widower",
-        "B": "Bachelor",
-        "C": "Celibate",
-        "D": "Polygamist"
-       },
-       "a": "C",
-       "concept": "'Celibate' describes someone who has deliberately chosen to abstain from marriage or sexual relations.",
-       "method": "Unlike 'bachelor' (simply unmarried), 'celibate' implies a deliberate vow or choice.",
-       "difficulty": "core"
-      },
-      {
-       "q": "A person who has more than one wife or husband at the same time is called a",
+       "q": "A person who has more than one spouse at the same time is called a ______.",
        "o": {
         "A": "Monogamist",
-        "B": "Bigamist only",
+        "B": "Widower",
         "C": "Polygamist",
-        "D": "Misogamist"
+        "D": "Bachelor"
        },
        "a": "C",
-       "concept": "'Polygamist' combines 'poly-' (many) with '-gamist' (marriage partner).",
-       "method": "'Poly-' always means 'many', as in 'polygon' (many sides).",
+       "concept": "'Poly-' means many, the opposite prefix to 'mono-' in this same word family.",
+       "method": "'Poly-' (many) + 'gamist' gives polygamist: someone with multiple spouses at once.",
        "difficulty": "core"
       },
       {
-       "q": "A person devoted to luxury and pleasure is called a",
+       "q": "A man whose wife has died is called a ______.",
        "o": {
-        "A": "Sybarite",
-        "B": "Altruist",
+        "A": "Widow",
+        "B": "Widower",
+        "C": "Bachelor",
+        "D": "Divorcee"
+       },
+       "a": "B",
+       "concept": "English uses different gendered terms for a surviving spouse — 'widow' is specifically for a woman.",
+       "method": "'Widower' is the male form; 'widow' (option A) is the female equivalent, used for a woman whose husband has died.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A person vowed to a single (unmarried) life is called a ______.",
+       "o": {
+        "A": "Bachelor",
+        "B": "Widower",
+        "C": "Celibate",
+        "D": "Spinster"
+       },
+       "a": "C",
+       "concept": "'Celibate' specifically implies a deliberate vow or commitment to remain unmarried/abstinent, unlike 'bachelor' which simply describes an unmarried man without implying a vow.",
+       "method": "'Celibate' describes someone who has made a conscious commitment to a single, often abstinent, life.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A person who hates marriage is called a ______.",
+       "o": {
+        "A": "Misogynist",
+        "B": "Misogamist",
+        "C": "Misandrist",
+        "D": "Misanthrope"
+       },
+       "a": "B",
+       "concept": "Distinguish 'misogamist' (hater of marriage) from the similarly-spelt 'misogynist' (hater of women).",
+       "method": "'Miso-' (hatred of) + 'gamist' (marriage) gives misogamist.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A person who hates women is called a ______.",
+       "o": {
+        "A": "Misogamist",
+        "B": "Misandrist",
+        "C": "Misogynist",
+        "D": "Misanthrope"
+       },
+       "a": "C",
+       "concept": "Don't confuse this with 'misogamist' (hater of marriage) or 'misandrist' (hater of men).",
+       "method": "'Miso-' (hatred of) + 'gyn' (woman, as in gynaecology) gives misogynist.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A person who hates men is called a ______.",
+       "o": {
+        "A": "Misogynist",
+        "B": "Misogamist",
+        "C": "Misandrist",
+        "D": "Misanthrope"
+       },
+       "a": "C",
+       "concept": "'Andr-' relates to men (as in 'android'), distinguishing this from 'misogynist' (hater of women).",
+       "method": "'Miso-' (hatred of) + 'andr' (man) gives misandrist.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A person who is excessively devoted to luxury and pleasure is called a ______.",
+       "o": {
+        "A": "Altruist",
+        "B": "Sybarite",
         "C": "Pedant",
         "D": "Sophist"
        },
-       "a": "A",
-       "concept": "'Sybarite' comes from Sybaris, an ancient Greek city famous for its love of luxury.",
-       "method": "Link the word to its origin story — Sybaris, the city of pleasure-seekers.",
+       "a": "B",
+       "concept": "'Sybarite' derives from Sybaris, an ancient Greek city famed for its luxury-loving inhabitants.",
+       "method": "A sybarite is someone given up to luxury and self-indulgent living.",
        "difficulty": "core"
       },
       {
-       "q": "A person who makes an excessive show of their learning, fussing over minor rules, is called a",
+       "q": "A person who makes an excessive display of their learning is called a ______.",
+       "o": {
+        "A": "Sybarite",
+        "B": "Pedant",
+        "C": "Garrulous person",
+        "D": "Sophist"
+       },
+       "a": "B",
+       "concept": "'Pedant' implies an unnecessary, showy focus on rules or scholarly detail, often to an irritating degree.",
+       "method": "A pedant is someone who makes a fussy, excessive show of their knowledge or adherence to rules.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A person whose reasoning appears clever but is actually false or misleading is called a ______.",
+       "o": {
+        "A": "Pedant",
+        "B": "Sybarite",
+        "C": "Sophist",
+        "D": "Altruist"
+       },
+       "a": "C",
+       "concept": "'Sophist' originally described ancient Greek teachers of rhetoric, but came to mean someone who uses clever but deceptive arguments.",
+       "method": "A sophist uses reasoning that sounds clever but is actually misleading or fallacious.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A person who devotes their life to the interest of other people is called a(n) ______.",
        "o": {
         "A": "Sophist",
         "B": "Pedant",
-        "C": "Garrulous person",
-        "D": "Altruist"
+        "C": "Altruist",
+        "D": "Sybarite"
        },
-       "a": "B",
-       "concept": "'Pedant' describes someone overly concerned with minor details or rules, especially to show off knowledge.",
-       "method": "Picture a teacher correcting trivial errors just to prove they know more — that's a pedant.",
-       "difficulty": "core"
-      },
-      {
-       "q": "A person who reasons in a way that is clever but deliberately false or misleading is called a",
-       "o": {
-        "A": "Sophist",
-        "B": "Sybarite",
-        "C": "Pedant",
-        "D": "Altruist"
-       },
-       "a": "A",
-       "concept": "'Sophist' originally referred to Greek teachers of rhetoric, but now means someone who uses clever, deceptive arguments.",
-       "method": "Link it to 'sophisticated' reasoning that is technically clever but not honest.",
-       "difficulty": "core"
-      },
-      {
-       "q": "A person who devotes their life to the welfare of others, rather than themselves, is called an",
-       "o": {
-        "A": "Egoist",
-        "B": "Altruist",
-        "C": "Sybarite",
-        "D": "Ascetic"
-       },
-       "a": "B",
-       "concept": "'Altruist' comes from 'altru-' (other), meaning someone selflessly concerned with others' wellbeing.",
-       "method": "It's the direct opposite of 'egoist' (self-centred) — 'altru-' means 'other'.",
-       "difficulty": "core"
-      },
-      {
-       "q": "A person who talks excessively, often about unimportant things, is described as",
-       "o": {
-        "A": "Garrulous",
-        "B": "Pedantic",
-        "C": "Sybaritic",
-        "D": "Sophistic"
-       },
-       "a": "A",
-       "concept": "'Garrulous' means excessively talkative, especially about trivial matters.",
-       "method": "Link the sound of the word to 'gargling on' — someone who just won't stop talking.",
+       "a": "C",
+       "concept": "'Altruist' is the direct opposite of a sybarite (self-indulgent) or an egoist (self-centred).",
+       "method": "An altruist is someone whose actions are motivated by concern for others' welfare rather than their own.",
        "difficulty": "core"
       }
      ],
-     "freq": 288
+     "freq": 319
     },
     {
      "id": "analogies",
@@ -8789,228 +9621,59 @@ const QUIZ_DATA = {
        "difficulty": "core"
       },
       {
-       "q": "\"He agreed to help at the drop of a hat.\" This means he",
+       "q": "What does the expression 'take the bull by the horn' mean?",
        "o": {
-        "A": "hesitated for a long time",
-        "B": "agreed immediately, without hesitation",
-        "C": "refused politely",
-        "D": "forgot the request"
-       },
-       "a": "B",
-       "concept": "'At the drop of a hat' means to do something instantly, without delay or hesitation.",
-       "method": "Picture a hat dropping — the action happens the very instant it touches the ground.",
-       "difficulty": "core"
-      },
-      {
-       "q": "\"Losing that contract turned out to be a blessing in disguise.\" This means the loss",
-       "o": {
-        "A": "was a disaster with no upside",
-        "B": "seemed bad at first but led to something good",
-        "C": "was expected all along",
-        "D": "was quickly forgotten"
-       },
-       "a": "B",
-       "concept": "'A blessing in disguise' describes something that seems unfortunate at first but eventually brings a good result.",
-       "method": "The 'disguise' is the key word — the good outcome is hidden inside what looks like bad luck.",
-       "difficulty": "core"
-      },
-      {
-       "q": "\"His latest essay simply doesn't cut the mustard.\" This means the essay",
-       "o": {
-        "A": "is spicy in tone",
-        "B": "fails to meet the required standard",
-        "C": "is unusually long",
-        "D": "was submitted late"
-       },
-       "a": "B",
-       "concept": "'To cut the mustard' means to reach the standard of quality that is expected.",
-       "method": "It's almost always used in the negative — 'doesn't cut the mustard' = falls short.",
-       "difficulty": "core"
-      },
-      {
-       "q": "\"Easy does it,\" the foreman told the new workers carrying the glass panels. He meant they should",
-       "o": {
-        "A": "hurry up",
-        "B": "proceed slowly and carefully",
-        "C": "stop working",
-        "D": "ignore instructions"
-       },
-       "a": "B",
-       "concept": "'Easy does it' is said to encourage caution and a gentle, unhurried approach.",
-       "method": "It's a warning against rushing — 'easy' signals a slow, careful pace.",
-       "difficulty": "core"
-      },
-      {
-       "q": "\"Hang in there, the results will improve.\" This is an encouragement to",
-       "o": {
-        "A": "give up gracefully",
-        "B": "keep going despite difficulty",
-        "C": "relax completely",
-        "D": "change strategy immediately"
-       },
-       "a": "B",
-       "concept": "'Hang in there' means to persist and not give up during a hard time.",
-       "method": "Picture literally holding on tightly rather than letting go — that's persistence.",
-       "difficulty": "core"
-      },
-      {
-       "q": "\"It takes two to tango,\" the counsellor reminded the quarrelling couple. She meant that",
-       "o": {
-        "A": "only one of them was at fault",
-        "B": "both parties share responsibility for the conflict",
-        "C": "they should stop dancing",
-        "D": "the disagreement was unimportant"
-       },
-       "a": "B",
-       "concept": "'It takes two to tango' means that both people involved share responsibility for a situation, especially a disagreement.",
-       "method": "A tango cannot be danced by one person — the idiom stresses shared responsibility.",
-       "difficulty": "core"
-      },
-      {
-       "q": "\"I'm still on the fence about accepting the job offer.\" This means the speaker",
-       "o": {
-        "A": "has firmly decided to accept",
-        "B": "has firmly decided to refuse",
-        "C": "has not yet made up their mind",
-        "D": "has already started the job"
+        "A": "To physically deal with a bull",
+        "B": "To fight with an animal",
+        "C": "To deal with a difficult situation directly and confidently",
+        "D": "To avoid a serious issue"
        },
        "a": "C",
-       "concept": "'On the fence' means undecided between two choices.",
-       "method": "Sitting ON a fence means you haven't chosen either side yet.",
+       "concept": "This idiom is about confronting a challenge head-on rather than avoiding it.",
+       "method": "'Take the bull by the horns' means to face a difficult situation boldly and directly, not to literally handle an animal.",
        "difficulty": "core"
       },
       {
-       "q": "\"We were just talking about you — speak of the devil!\" This expression is used when",
+       "q": "'Tolu is the black sheep of the family.' This means Tolu is a/an ______.",
        "o": {
-        "A": "someone mentioned actually appears",
-        "B": "a person is being insulted",
-        "C": "a secret is revealed",
-        "D": "someone tells a lie"
+        "A": "outsider by birth",
+        "B": "family favourite",
+        "C": "outcast, seen differently from the rest",
+        "D": "enemy of the family"
        },
-       "a": "A",
-       "concept": "'Speak of the devil' is said when a person who was just being discussed suddenly turns up.",
-       "method": "It marks a coincidence: the topic of conversation walks in right on cue.",
+       "a": "C",
+       "concept": "This idiom describes someone who stands out from their family/group, usually in a negative or disreputable way.",
+       "method": "'Black sheep' describes a family member regarded as an outcast or disgrace, different from the rest.",
        "difficulty": "core"
       },
       {
-       "q": "\"The assistant coach felt the head coach had stolen his thunder\" after taking credit for the win. This means the head coach",
+       "q": "'Comfort knows little of this job, so she is the greenhorn in this company.' This means Comfort is a/an ______.",
        "o": {
-        "A": "shared the credit fairly",
-        "B": "took credit or attention that rightly belonged to the assistant",
-        "C": "apologised publicly",
-        "D": "resigned from the role"
+        "A": "Expert",
+        "B": "Professional",
+        "C": "Novice",
+        "D": "Veteran"
        },
-       "a": "B",
-       "concept": "'To steal someone's thunder' means to take credit or attention that another person deserved.",
-       "method": "Picture someone stealing the loud 'thunder' effect meant for another performer's big moment.",
+       "a": "C",
+       "concept": "'Greenhorn' describes someone inexperienced or new to a job or activity.",
+       "method": "A greenhorn is a novice — someone lacking experience, the opposite of an expert or veteran.",
        "difficulty": "core"
       },
       {
-       "q": "\"His friends had to twist his arm before he agreed to sing.\" This means his friends",
+       "q": "'The secretary took a French leave.' This means the secretary ______.",
        "o": {
-        "A": "physically hurt him",
-        "B": "pressured or persuaded him strongly",
-        "C": "left him alone",
-        "D": "sang along with him"
+        "A": "left on official probation",
+        "B": "left very quickly",
+        "C": "left without permission or notice",
+        "D": "left immediately after being told to"
        },
-       "a": "B",
-       "concept": "'To twist someone's arm' means to pressure or persuade them, often against initial reluctance.",
-       "method": "It's figurative pressure, not literal force — think of gentle-but-firm persuasion.",
-       "difficulty": "core"
-      },
-      {
-       "q": "\"I wouldn't be caught dead wearing that outfit to the wedding.\" This means the speaker",
-       "o": {
-        "A": "would love to wear it",
-        "B": "would be extremely embarrassed to be seen wearing it",
-        "C": "has never seen the outfit",
-        "D": "plans to buy it"
-       },
-       "a": "B",
-       "concept": "'Wouldn't be caught dead' means one would be deeply embarrassed to be seen doing or wearing something.",
-       "method": "It exaggerates the embarrassment to the extreme — even death is preferable to that embarrassment.",
-       "difficulty": "core"
-      },
-      {
-       "q": "\"After passing her final exam, she was on cloud nine.\" This means she was",
-       "o": {
-        "A": "confused",
-        "B": "extremely happy",
-        "C": "very tired",
-        "D": "slightly worried"
-       },
-       "a": "B",
-       "concept": "'On cloud nine' means feeling extremely happy or elated.",
-       "method": "The image of floating high up on a cloud captures the feeling of being overjoyed.",
-       "difficulty": "core"
-      },
-      {
-       "q": "\"Redesigning the whole app before the deadline would be trying to boil the ocean.\" This means the plan is",
-       "o": {
-        "A": "simple and quick",
-        "B": "an impossibly huge undertaking for the time available",
-        "C": "environmentally harmful",
-        "D": "already completed"
-       },
-       "a": "B",
-       "concept": "'To boil the ocean' means to attempt a task that is unrealistically large or complex.",
-       "method": "Literally boiling an ocean is impossible — the idiom exaggerates an unreasonably huge task.",
-       "difficulty": "core"
-      },
-      {
-       "q": "\"After the long hike, the boys ate like horses.\" This means they",
-       "o": {
-        "A": "ate very little",
-        "B": "ate a very large amount",
-        "C": "refused to eat",
-        "D": "ate very slowly"
-       },
-       "a": "B",
-       "concept": "'To eat like a horse' means to eat a great deal of food.",
-       "method": "Horses are large animals that consume a lot of feed — hence the comparison.",
-       "difficulty": "core"
-      },
-      {
-       "q": "\"The villagers believed the salesman's promises hook, line and sinker.\" This means they",
-       "o": {
-        "A": "doubted every word he said",
-        "B": "believed him completely and without question",
-        "C": "ignored him entirely",
-        "D": "reported him to the police"
-       },
-       "a": "B",
-       "concept": "'Hook, line and sinker' means completely and totally, often used for being fully deceived or convinced.",
-       "method": "It comes from fishing — swallowing the entire tackle, not just the bait.",
-       "difficulty": "core"
-      },
-      {
-       "q": "\"Stop crying wolf about the printer breaking down every week.\" This means the speaker is being told to",
-       "o": {
-        "A": "stop raising false or exaggerated alarms",
-        "B": "report every problem immediately",
-        "C": "fix the printer himself",
-        "D": "buy a new printer"
-       },
-       "a": "A",
-       "concept": "'To cry wolf' means to raise a false alarm, so that people stop believing you when there's a real problem.",
-       "method": "It comes from the fable of the shepherd boy who falsely shouted 'Wolf!' until no one believed him.",
-       "difficulty": "core"
-      },
-      {
-       "q": "\"The thief showed the police officers a clean pair of heels.\" This means the thief",
-       "o": {
-        "A": "surrendered peacefully",
-        "B": "ran away, outrunning his pursuers",
-        "C": "was arrested immediately",
-        "D": "hid under a table"
-       },
-       "a": "B",
-       "concept": "'To show a clean pair of heels' means to run away fast, outrunning whoever is chasing you.",
-       "method": "Picture someone running so fast that only the clean soles of their heels are visible to the person behind them.",
+       "a": "C",
+       "concept": "'French leave' is an old idiom for leaving without asking permission or informing anyone.",
+       "method": "Taking 'French leave' means departing secretly or without proper authorisation.",
        "difficulty": "core"
       }
      ],
-     "freq": 99
+     "freq": 86
     },
     {
      "id": "oral",
@@ -9555,9 +10218,113 @@ const QUIZ_DATA = {
        "concept": "Most two/three-syllable English nouns stress an early syllable; 'engineer' is a common exception stressing the last.",
        "method": "Say all four aloud — only 'engineer' places its main beat on the final syllable.",
        "difficulty": "core"
+      },
+      {
+       "q": "Which syllable is stressed in the word 'TELEPATHY'?",
+       "o": {
+        "A": "TE-le-pa-thy",
+        "B": "te-le-PA-thy",
+        "C": "te-LE-pa-thy",
+        "D": "te-le-pa-THY"
+       },
+       "a": "C",
+       "concept": "Word stress in English often falls on a specific syllable that must be memorised rather than guessed from spelling.",
+       "method": "'Telepathy' is stressed on the second syllable: te-LE-pa-thy.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which syllable is stressed in the word 'CONSPIRACY'?",
+       "o": {
+        "A": "CON-spi-ra-cy",
+        "B": "con-SPI-ra-cy",
+        "C": "con-spi-RA-cy",
+        "D": "con-spi-ra-CY"
+       },
+       "a": "B",
+       "concept": "Many multi-syllable English words carry their stress on the second syllable — a pattern worth listening for.",
+       "method": "'Conspiracy' is stressed as con-SPI-ra-cy.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which syllable is stressed in the word 'CONTINUOUS'?",
+       "o": {
+        "A": "con-TI-nu-ous",
+        "B": "CON-ti-nu-ous",
+        "C": "con-ti-nu-OUS",
+        "D": "con-ti-NU-ous"
+       },
+       "a": "A",
+       "concept": "Practise identifying the stressed syllable by saying the word aloud and noticing which part you naturally emphasise.",
+       "method": "'Continuous' is stressed as con-TI-nu-ous.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these words does NOT share the same consonant sound as the others?",
+       "o": {
+        "A": "Suite",
+        "B": "Quite",
+        "C": "Sword",
+        "D": "Sweet"
+       },
+       "a": "C",
+       "concept": "English spelling doesn't always match pronunciation — 'sword' has a silent 'w', changing its consonant sound.",
+       "method": "Suite, quite, and sweet all begin with a /w/-like glide sound after the initial consonant; 'sword' does not, since its 'w' is silent.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is NOT a falling intonation (tune)?",
+       "o": {
+        "A": "Who is there?",
+        "B": "What are you doing?",
+        "C": "Are you stupid?",
+        "D": "Which one is yours?"
+       },
+       "a": "C",
+       "concept": "Wh-questions (who, what, which, where, when, why) typically use falling intonation; yes/no questions typically rise.",
+       "method": "'Are you stupid?' is a yes/no question, which normally takes a RISING tune — unlike the other three, which are Wh-questions with falling tunes.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these words has the consonant sound /b/ pronounced in it?",
+       "o": {
+        "A": "Comb",
+        "B": "Tomb",
+        "C": "Bottle",
+        "D": "Plumber"
+       },
+       "a": "C",
+       "concept": "In several English words, a 'b' after 'm' at the end of a syllable is silent — spot which option keeps its /b/ sound.",
+       "method": "Comb, tomb, and plumber all have a silent 'b'; only 'bottle' actually pronounces the /b/ sound.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these words has the same vowel sound as the underlined syllable in 'ANARCHY'?",
+       "o": {
+        "A": "church",
+        "B": "liturgy",
+        "C": "casket",
+        "D": "first"
+       },
+       "a": "C",
+       "concept": "Vowel-sound matching questions require listening for the sound, not just looking at the spelling.",
+       "method": "The stressed vowel in 'anarchy' (/ɑː/) matches the vowel sound in 'casket', not the /ɜː/ sound found in church, liturgy, or first.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these words has the same consonant sound as the underlined letters in 'CHURCH'?",
+       "o": {
+        "A": "Question",
+        "B": "Machine",
+        "C": "Sugar",
+        "D": "Ancient"
+       },
+       "a": "A",
+       "concept": "'Ch' can represent different sounds in English depending on the word — compare the actual sound, not the letters.",
+       "method": "'Church' uses the /tʃ/ sound, the same sound as the 'st' in 'question'; machine, sugar, and ancient all use /ʃ/ instead.",
+       "difficulty": "core"
       }
      ],
-     "freq": 41
+     "freq": 49
     },
     {
      "id": "correction",
@@ -10271,191 +11038,9 @@ const QUIZ_DATA = {
        "concept": "'One of the students who' — the relative clause 'who...' refers back to 'students' (plural), not 'one'.",
        "method": "The verb after 'who' agrees with 'students' (the larger group), not 'one': are.",
        "difficulty": "core"
-      },
-      {
-       "q": "The choir rehearsed _____.",
-       "o": {
-        "A": "beautifully in the hall every evening",
-        "B": "every evening beautifully in the hall",
-        "C": "in the hall every evening beautifully",
-        "D": "in the hall beautifully every evening"
-       },
-       "a": "A",
-       "concept": "Adverbs of manner, place, and time follow the order Manner–Place–Time (MPT) when all three appear together.",
-       "method": "Beautifully (manner) → in the hall (place) → every evening (time): only option (a) keeps that order.",
-       "difficulty": "core"
-      },
-      {
-       "q": "The messenger cycled _____.",
-       "o": {
-        "A": "quickly to the market at noon",
-        "B": "at noon quickly to the market",
-        "C": "to the market quickly at noon",
-        "D": "to the market at noon quickly"
-       },
-       "a": "A",
-       "concept": "Adverbs of manner, place, and time follow the order Manner–Place–Time (MPT) when all three appear in one sentence.",
-       "method": "Quickly (manner) → to the market (place) → at noon (time) is the only option matching MPT.",
-       "difficulty": "core"
-      },
-      {
-       "q": "The tailor sewed the gown _____.",
-       "o": {
-        "A": "carefully in his shop all night",
-        "B": "all night carefully in his shop",
-        "C": "in his shop all night carefully",
-        "D": "carefully all night in his shop"
-       },
-       "a": "A",
-       "concept": "Under standard exam conditions, the adverb order for manner, place, and time is Manner–Place–Time (MPT).",
-       "method": "Carefully (manner) → in his shop (place) → all night (time) — the only option in that sequence.",
-       "difficulty": "core"
-      },
-      {
-       "q": "The farmers worked _____.",
-       "o": {
-        "A": "tirelessly on the field until sunset",
-        "B": "until sunset tirelessly on the field",
-        "C": "on the field tirelessly until sunset",
-        "D": "on the field until sunset tirelessly"
-       },
-       "a": "A",
-       "concept": "The general rule for ordering adverbs of manner, place, and time is Manner–Place–Time (MPT).",
-       "method": "Tirelessly (manner) → on the field (place) → until sunset (time) matches MPT exactly.",
-       "difficulty": "core"
-      },
-      {
-       "q": "The concert will hold _____.",
-       "o": {
-        "A": "at 7 o'clock on Saturday next week",
-        "B": "next week at 7 o'clock on Saturday",
-        "C": "on Saturday next week at 7 o'clock",
-        "D": "at 7 o'clock next week on Saturday"
-       },
-       "a": "A",
-       "concept": "When several adverbs of time appear together with no manner or place adverb, the smaller, more specific time unit comes before the larger, more general one.",
-       "method": "Order from most specific to least specific: 7 o'clock → Saturday → next week.",
-       "difficulty": "core"
-      },
-      {
-       "q": "The new library building was commissioned _____.",
-       "o": {
-        "A": "June on the 5th, 2010",
-        "B": "2010 on the 5th of June",
-        "C": "on the 5th of June, 2010",
-        "D": "on the 5th of 2010, June"
-       },
-       "a": "C",
-       "concept": "For a full date, the smaller time unit (day) precedes the larger one (month), which precedes the largest (year).",
-       "method": "Day → month → year is the natural order: 'the 5th' → 'of June' → '2010'.",
-       "difficulty": "core"
-      },
-      {
-       "q": "The deceased was buried _____.",
-       "o": {
-        "A": "at 6 a.m. in his compound",
-        "B": "in his compound at 6 a.m.",
-        "C": "hurriedly at 6 a.m. in his compound",
-        "D": "in his compound hurriedly at 6 a.m."
-       },
-       "a": "A",
-       "concept": "The Manner–Place–Time order can shift when a particular adverb is being emphasised — here, the time of burial is the point being stressed, so it is placed first.",
-       "method": "Because the sentence is drawing attention to WHEN the burial happened, the time adverb moves ahead of the place adverb.",
-       "difficulty": "core"
-      },
-      {
-       "q": "She wore _____ scarf to the interview.",
-       "o": {
-        "A": "a beautiful long red silk",
-        "B": "a long beautiful red silk",
-        "C": "a red long beautiful silk",
-        "D": "a silk long beautiful red"
-       },
-       "a": "A",
-       "concept": "The adjective order is Modifier–General–Size–Shape–Age–Colour–Verb–Noun–Head.",
-       "method": "a (modifier) → beautiful (general) → long (size) → red (colour) → silk (noun/material) → scarf (head).",
-       "difficulty": "core"
-      },
-      {
-       "q": "He lives in _____ house at the edge of town.",
-       "o": {
-        "A": "an old small wooden",
-        "B": "a small old wooden",
-        "C": "a wooden small old",
-        "D": "an old wooden small"
-       },
-       "a": "B",
-       "concept": "The adjective order is Modifier–General–Size–Shape–Age–Colour–Verb–Noun–Head, so size always comes before age.",
-       "method": "a (modifier) → small (size) → old (age) → wooden (noun/material) → house (head).",
-       "difficulty": "core"
-      },
-      {
-       "q": "They found _____ vase in the old palace.",
-       "o": {
-        "A": "an ancient round Chinese",
-        "B": "a round ancient Chinese",
-        "C": "a Chinese ancient round",
-        "D": "an ancient Chinese round"
-       },
-       "a": "B",
-       "concept": "The adjective order is Modifier–General–Size–Shape–Age–Colour–Verb–Noun–Head, so shape comes before age.",
-       "method": "a (modifier) → round (shape) → ancient (age) → Chinese (noun/origin) → vase (head).",
-       "difficulty": "core"
-      },
-      {
-       "q": "My uncle just bought _____ car.",
-       "o": {
-        "A": "a shiny new red Italian",
-        "B": "a new shiny red Italian",
-        "C": "a red new shiny Italian",
-        "D": "a shiny red new Italian"
-       },
-       "a": "A",
-       "concept": "The adjective order is Modifier–General–Size–Shape–Age–Colour–Verb–Noun–Head, so 'general' qualities come before age and colour.",
-       "method": "a (modifier) → shiny (general) → new (age) → red (colour) → Italian (noun/origin) → car (head).",
-       "difficulty": "core"
-      },
-      {
-       "q": "The museum displayed _____ sword from the exhibition.",
-       "o": {
-        "A": "a rusted medieval bronze",
-        "B": "a medieval rusted bronze",
-        "C": "a bronze rusted medieval",
-        "D": "a rusted bronze medieval"
-       },
-       "a": "B",
-       "concept": "The adjective order is Modifier–General–Size–Shape–Age–Colour–Verb–Noun–Head, so age comes before a verb-formed adjective like 'rusted'.",
-       "method": "a (modifier) → medieval (age) → rusted (verb-form) → bronze (noun/material) → sword (head).",
-       "difficulty": "core"
-      },
-      {
-       "q": "We met _____ women at the market in Ilorin.",
-       "o": {
-        "A": "two elegant tall Yoruba",
-        "B": "two tall elegant Yoruba",
-        "C": "elegant two tall Yoruba",
-        "D": "tall two elegant Yoruba"
-       },
-       "a": "A",
-       "concept": "The adjective order is Modifier–General–Size–Shape–Age–Colour–Verb–Noun–Head, so a general quality comes before size.",
-       "method": "two (modifier) → elegant (general) → tall (size) → Yoruba (noun/origin) → women (head).",
-       "difficulty": "core"
-      },
-      {
-       "q": "The shop sold _____ chairs for the school event.",
-       "o": {
-        "A": "several cheap plastic garden",
-        "B": "several plastic cheap garden",
-        "C": "cheap several plastic garden",
-        "D": "plastic several cheap garden"
-       },
-       "a": "A",
-       "concept": "The adjective order is Modifier–General–Size–Shape–Age–Colour–Verb–Noun–Head, so a general quality (cheap) precedes the material noun (plastic).",
-       "method": "several (modifier) → cheap (general) → plastic (noun/material) → garden (purpose noun) → chairs (head).",
-       "difficulty": "core"
       }
      ],
-     "freq": 69
+     "freq": 55
     },
     {
      "id": "spelling",
@@ -11132,267 +11717,332 @@ const QUIZ_DATA = {
        "difficulty": "core"
       },
       {
-       "q": "Which of these is correctly spelt?",
+       "q": "Which of the following words is correctly spelt?",
        "o": {
-        "A": "Etiqquete",
-        "B": "Etiquette",
-        "C": "Etiquete",
-        "D": "Ettiquete"
-       },
-       "a": "B",
-       "concept": "'Etiquette' keeps its French origin: a final silent 'e' and a doubled 't'.",
-       "method": "Say it in syllables — eti-QUETTE — the '-quette' ending is the part most people drop a letter from.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Which of these is correctly spelt?",
-       "o": {
-        "A": "Reumatism",
-        "B": "Rheumantism",
-        "C": "Rhuematism",
-        "D": "Rheumatism"
+        "A": "seesata",
+        "B": "siessta",
+        "C": "siestta",
+        "D": "siesta"
        },
        "a": "D",
-       "concept": "'Rheumatism' starts with the silent-h cluster 'rheu-', from Greek 'rheuma' (a flowing).",
-       "method": "Remember the pattern from 'rheumatic' — 'rheu' then 'matism', no extra 'n'.",
+       "concept": "'Siesta' (a short afternoon nap/rest) is borrowed directly from Spanish.",
+       "method": "Correct spelling: siesta.",
        "difficulty": "core"
       },
       {
-       "q": "Which of these is correctly spelt?",
+       "q": "Which of these is the correctly spelt word?",
        "o": {
-        "A": "Lackadaisical",
-        "B": "Lackadasical",
-        "C": "Lackaidasical",
-        "D": "Lackaidaisical"
+        "A": "Asymetrical",
+        "B": "Assymmetrical",
+        "C": "Asymmettrical",
+        "D": "Asymmetrical"
+       },
+       "a": "D",
+       "concept": "'Asymmetrical' keeps the double 'm' from 'symmetry' with the negative prefix 'a-' added.",
+       "method": "Correct spelling: asymmetrical (single 's', double 'm').",
+       "difficulty": "core"
+      },
+      {
+       "q": "Pick the option with the correctly spelt word.",
+       "o": {
+        "A": "liaisee",
+        "B": "laese",
+        "C": "liaise",
+        "D": "laissee"
+       },
+       "a": "C",
+       "concept": "'Liaise' is borrowed from French ('liaison') and keeps an unusual vowel pattern.",
+       "method": "Correct spelling: liaise.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Pick the correctly spelt word.",
+       "o": {
+        "A": "Lakadaisical",
+        "B": "Lackadaisical",
+        "C": "Lackadiasical",
+        "D": "Lackadaicical"
+       },
+       "a": "B",
+       "concept": "'Lackadaisical' (showing lack of enthusiasm) has a tricky, unusual spelling pattern worth memorising as a whole.",
+       "method": "Correct spelling: lackadaisical.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Pick the correctly spelt word.",
+       "o": {
+        "A": "Diagnosed",
+        "B": "Daignosed",
+        "C": "Diagnossed",
+        "D": "Daignnosed"
        },
        "a": "A",
-       "concept": "'Lackadaisical' (lacking enthusiasm or purpose) has 'daisi' in the middle, not 'dasi' or 'daisi' rearranged.",
-       "method": "Break it up: LACK-A-DAISY-CAL — think of the flower 'daisy' hiding inside the word.",
+       "concept": "Watch the letter order carefully — it's 'diag-', not 'daig-'.",
+       "method": "Correct spelling: diagnosed.",
        "difficulty": "core"
       },
       {
-       "q": "Which of these is correctly spelt?",
+       "q": "Pick the correctly spelt word.",
        "o": {
-        "A": "Incesant",
-        "B": "Inccesant",
-        "C": "Incessant",
-        "D": "Inccessant"
+        "A": "Preroggative",
+        "B": "Prerogative",
+        "C": "Perogative",
+        "D": "Prerrogative"
+       },
+       "a": "B",
+       "concept": "'Prerogative' has a single 'r' after the first 'e' and a single 'g'.",
+       "method": "Correct spelling: prerogative.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Pick the correctly spelt word.",
+       "o": {
+        "A": "Mecurial",
+        "B": "Merculial",
+        "C": "Mercurial",
+        "D": "Mecurrial"
        },
        "a": "C",
-       "concept": "'Incessant' (never stopping) has a double 's' in the middle and a single 'c'.",
-       "method": "One 'c', two 's's — the opposite pattern to what most people guess.",
+       "concept": "'Mercurial' (unpredictable, like the element mercury) keeps the 'r' before the 'c'.",
+       "method": "Correct spelling: mercurial.",
        "difficulty": "core"
       },
       {
-       "q": "Which of these is correctly spelt?",
+       "q": "Pick the correctly spelt word.",
        "o": {
-        "A": "Brocolli",
-        "B": "Broccolli",
-        "C": "Brocollil",
-        "D": "Broccoli"
-       },
-       "a": "D",
-       "concept": "'Broccoli' is Italian in origin and takes a double 'c' but only a single 'l'.",
-       "method": "Double the 'c' (like 'occur'), single the 'l' — most misspellings do the reverse.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Which of these is correctly spelt?",
-       "o": {
-        "A": "Queue",
-        "B": "Qeueu",
-        "C": "Queeu",
-        "D": "Quee"
+        "A": "Recompense",
+        "B": "Recoompense",
+        "C": "Recoopense",
+        "D": "Recompensse"
        },
        "a": "A",
-       "concept": "'Queue' is famous for its run of vowels: q-u-e-u-e.",
-       "method": "Memorise it as a whole shape — 'queue' looks odd on purpose because four of its five letters are vowels.",
+       "concept": "'Recompense' (compensation) is a single-'s' word, unlike some similar-sounding words.",
+       "method": "Correct spelling: recompense.",
        "difficulty": "core"
       },
       {
-       "q": "Which of these is correctly spelt?",
+       "q": "Pick the correctly spelt word.",
        "o": {
-        "A": "Bureaucrazy",
-        "B": "Beaurocracy",
-        "C": "Bureaucracy",
-        "D": "Bureacracy"
+        "A": "Somersalt",
+        "B": "Summersault",
+        "C": "Sormersault",
+        "D": "Somersault"
        },
-       "a": "C",
-       "concept": "'Bureaucracy' is built from 'bureau' + '-cracy' (rule/government), so it ends like 'democracy', not 'crazy'.",
-       "method": "Split it: BUREAU + CRACY — spell each half correctly and join them.",
+       "a": "D",
+       "concept": "'Somersault' is often misspelt as if it contained the word 'summer' — it doesn't.",
+       "method": "Correct spelling: somersault.",
        "difficulty": "core"
       },
       {
-       "q": "Which of these is correctly spelt?",
+       "q": "Pick the correctly spelt word.",
        "o": {
-        "A": "Diarhoea",
-        "B": "Diarrhoea",
-        "C": "Diarrohea",
-        "D": "Diarhorea"
+        "A": "Prononciation",
+        "B": "Pronunciation",
+        "C": "Pronounciation",
+        "D": "Pronaunciation"
        },
        "a": "B",
-       "concept": "The British spelling 'diarrhoea' has a double 'r' and the 'rrh' cluster seen in 'catarrh' and 'haemorrhage'.",
-       "method": "Recall the shared Greek root: words about flow/discharge often carry that awkward 'rrh'.",
+       "concept": "Note that 'pronunciation' (the noun) drops the second 'o' found in 'pronounce' (the verb) — a very commonly misspelt word.",
+       "method": "Correct spelling: pronunciation (no 'o' before the 'unciation').",
        "difficulty": "core"
       },
       {
-       "q": "Which of these is correctly spelt?",
+       "q": "Pick the correctly spelt word.",
        "o": {
-        "A": "Secede",
-        "B": "Seceed",
-        "C": "Suceed",
-        "D": "Cecede"
+        "A": "Hiccups",
+        "B": "Hicupps",
+        "C": "Hiccupps",
+        "D": "Hicups"
        },
        "a": "A",
-       "concept": "'Secede' (to withdraw formally from a group) ends in '-cede', like 'precede' and 'concede' — not '-ceed'.",
-       "method": "Don't confuse it with 'succeed' — 'secede' follows the '-cede' family, not the '-ceed' one.",
+       "concept": "'Hiccup' doubles the 'c' but not the 'p'.",
+       "method": "Correct spelling: hiccups.",
        "difficulty": "core"
       },
       {
-       "q": "Which of these is correctly spelt?",
+       "q": "Pick the correctly spelt word.",
        "o": {
-        "A": "Consequencial",
-        "B": "Consequential",
-        "C": "Consequentual",
-        "D": "Consiquential"
+        "A": "Privilege",
+        "B": "Priviledge",
+        "C": "Privileg",
+        "D": "Privillege"
        },
-       "a": "B",
-       "concept": "'Consequential' is built from 'consequence' + '-tial', not '-cial'.",
-       "method": "Keep the 't' from 'consequen(t)ial' — it mirrors 'essential', 'potential'.",
+       "a": "A",
+       "concept": "'Privilege' has no 'd' — a very common misspelling adds one before the 'g'.",
+       "method": "Correct spelling: privilege.",
        "difficulty": "core"
       },
       {
-       "q": "Which of these is correctly spelt?",
+       "q": "Pick the correctly spelt word.",
        "o": {
-        "A": "Meagar",
-        "B": "Meigre",
-        "C": "Meagre",
-        "D": "Maegre"
+        "A": "Commitment",
+        "B": "Comitment",
+        "C": "Committment",
+        "D": "Comitmment"
        },
-       "a": "C",
-       "concept": "'Meagre' (scanty, small in amount) uses the British '-re' ending, like 'centre' and 'theatre'.",
-       "method": "Pair it with other British '-re' words you already know — 'metre', 'litre', 'meagre'.",
+       "a": "A",
+       "concept": "'Commitment' doubles the 'm' after 'com-' but has only one 't'.",
+       "method": "Correct spelling: commitment.",
        "difficulty": "core"
       },
       {
-       "q": "Which of these is correctly spelt?",
+       "q": "Pick the correctly spelt word.",
        "o": {
-        "A": "Pompoisity",
-        "B": "Pomposety",
-        "C": "Pompossity",
-        "D": "Pomposity"
+        "A": "Reminiscence",
+        "B": "Remminniscence",
+        "C": "Remminiscence",
+        "D": "Reminniscense"
        },
-       "a": "D",
-       "concept": "'Pomposity' comes from 'pompous' + '-ity', so it keeps a single 's' and the 'os' order.",
-       "method": "Build it from 'pompous': drop the 'us', add '-ity' → pomp-OS-ity.",
+       "a": "A",
+       "concept": "'Reminiscence' ends in '-ence', not '-ense', and has single consonants throughout except the double 's'.",
+       "method": "Correct spelling: reminiscence.",
        "difficulty": "core"
       },
       {
-       "q": "Which of these is correctly spelt?",
+       "q": "Which of the following spellings is NOT correct?",
        "o": {
-        "A": "Onamatopia",
-        "B": "Onomatopoeia",
-        "C": "Onomatopeia",
-        "D": "Onomatopoiea"
-       },
-       "a": "B",
-       "concept": "'Onomatopoeia' (a word that imitates a sound, like 'buzz') keeps the Greek '-poeia' ending intact.",
-       "method": "Memorise it in chunks: ONO-MATO-POEIA — the last four letters are the part everyone gets wrong.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Which of these is correctly spelt?",
-       "o": {
-        "A": "Acquantance",
-        "B": "Aquaintance",
-        "C": "Acquaintance",
-        "D": "Acquaintence"
-       },
-       "a": "C",
-       "concept": "'Acquaintance' keeps the 'cqu' cluster from 'acquaint' and ends in '-ance', not '-ence'.",
-       "method": "Start from the verb 'acquaint' (which you likely spell correctly), then just add '-ance'.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Which of these is correctly spelt?",
-       "o": {
-        "A": "Prospone",
-        "B": "Postpone",
-        "C": "Postphone",
-        "D": "Pospone"
-       },
-       "a": "B",
-       "concept": "'Postpone' is simply 'post-' (after) + 'pone' (to place) — no 'ph' sound and no dropped 't'.",
-       "method": "Think of 'postpone' alongside 'position' and 'postscript' — the prefix is always 'post-'.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Which of these is correctly spelt?",
-       "o": {
-        "A": "Parlor",
-        "B": "Parlur",
-        "C": "Parlour",
-        "D": "Parllour"
-       },
-       "a": "C",
-       "concept": "In British spelling, 'parlour' takes the '-our' ending, like 'colour' and 'favour' ('parlor' is the American form).",
-       "method": "If the exam is testing British spelling, default to '-our' over the American '-or'.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Which of these is correctly spelt?",
-       "o": {
-        "A": "Orstrich",
-        "B": "Ostritch",
-        "C": "Ostrick",
-        "D": "Ostrich"
+        "A": "Marriageable",
+        "B": "Noticeable",
+        "C": "Manageable",
+        "D": "Digesteble"
        },
        "a": "D",
-       "concept": "'Ostrich' has no 'r' after the first 'O' and ends in '-ich', not '-itch' or '-ick'.",
-       "method": "Say it slowly — OS-TRICH — there's only one 'r' in the whole word, right before 'ich'.",
+       "concept": "Words ending in the '-able/-ible' suffix are commonly misspelt — the correct ending here is '-ible' for this particular word.",
+       "method": "'Digestible' (not 'digesteble') is the correct spelling — making D the incorrect one.",
        "difficulty": "core"
       },
       {
-       "q": "Which of these is correctly spelt?",
+       "q": "Which of these correctly completes: '_______ of materialism' (choose the correctly spelt word)?",
        "o": {
-        "A": "Intergrity",
-        "B": "Integrety",
-        "C": "Integrity",
-        "D": "Integretty"
+        "A": "Illusion",
+        "B": "Ilussion",
+        "C": "Illussion",
+        "D": "Ilusion"
        },
-       "a": "C",
-       "concept": "'Integrity' comes from 'integer' (whole), so it's 'inte-' not 'inter-', and ends '-rity'.",
-       "method": "Link it to 'integer' — both share the 'inte-' opening, not 'inter-'.",
+       "a": "A",
+       "concept": "'Illusion' doubles the 'l' but has only a single 's'.",
+       "method": "Correct spelling: illusion.",
        "difficulty": "core"
       },
       {
-       "q": "Which of these is correctly spelt?",
+       "q": "Choose the correctly spelt word.",
        "o": {
-        "A": "Grammaphone",
-        "B": "Gramaphone",
-        "C": "Gramophone",
-        "D": "Gramophon"
+        "A": "Cauliflour",
+        "B": "Cauliflower",
+        "C": "Cualiflower",
+        "D": "Caulifower"
        },
-       "a": "C",
-       "concept": "'Gramophone' has a single 'm' and ends in '-phone', like 'telephone' and 'megaphone'.",
-       "method": "Match the ending to other '-phone' words you know — the front is just 'gramo-'.",
+       "a": "B",
+       "concept": "'Cauliflower' ends in '-flower', matching the plant-word 'flower', not '-flour' (the baking ingredient).",
+       "method": "Correct spelling: cauliflower.",
        "difficulty": "core"
       },
       {
-       "q": "Which of these is correctly spelt?",
+       "q": "Choose the correctly spelt word.",
        "o": {
-        "A": "Garantee",
-        "B": "Guarentee",
-        "C": "Gaurantee",
-        "D": "Guarantee"
+        "A": "Emacipated",
+        "B": "Emansipated",
+        "C": "Emacipated",
+        "D": "Emancipated"
        },
        "a": "D",
-       "concept": "'Guarantee' keeps the 'gua-' spelling from 'guard' and 'guarantor', plus the '-antee' ending.",
-       "method": "Remember 'gua-' as in 'guard' first, then finish with '-rantee'.",
+       "concept": "'Emancipated' keeps the 'n' before 'c', matching its root word 'emancipation'.",
+       "method": "Correct spelling: emancipated.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Choose the correctly spelt word.",
+       "o": {
+        "A": "Dilemma",
+        "B": "Dillemma",
+        "C": "Dillema",
+        "D": "Dilleame"
+       },
+       "a": "A",
+       "concept": "'Dilemma' has a single 'l' and double 'm'.",
+       "method": "Correct spelling: dilemma.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Choose the correctly spelt word.",
+       "o": {
+        "A": "Rhearsal",
+        "B": "Rehearsal",
+        "C": "Reharsal",
+        "D": "Rehearsel"
+       },
+       "a": "B",
+       "concept": "'Rehearsal' keeps the 'h' after 're-' and ends in '-al', not '-el'.",
+       "method": "Correct spelling: rehearsal.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Choose the correctly spelt word.",
+       "o": {
+        "A": "Withhold",
+        "B": "Withold",
+        "C": "Witthold",
+        "D": "Witoold"
+       },
+       "a": "A",
+       "concept": "'Withhold' keeps both 'h's from 'with' + 'hold' combined — a very commonly dropped letter.",
+       "method": "Correct spelling: withhold (double 'h').",
+       "difficulty": "core"
+      },
+      {
+       "q": "Choose the correctly spelt word.",
+       "o": {
+        "A": "Catalogue",
+        "B": "Cataloge",
+        "C": "Catalogu",
+        "D": "Catallogue"
+       },
+       "a": "A",
+       "concept": "'Catalogue' keeps the French-derived '-gue' ending (a US variant, 'catalog', also exists but isn't tested here).",
+       "method": "Correct spelling: catalogue.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Choose the correctly spelt word.",
+       "o": {
+        "A": "Anneasthesia",
+        "B": "Anaesthesia",
+        "C": "Anesthesia",
+        "D": "Anestthesia"
+       },
+       "a": "B",
+       "concept": "British English keeps the 'ae' spelling in medical terms like this one, unlike the simplified American spelling.",
+       "method": "Correct British spelling: anaesthesia.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Choose the correctly spelt word.",
+       "o": {
+        "A": "Phisshing",
+        "B": "Phisthing",
+        "C": "Phishting",
+        "D": "Phishing"
+       },
+       "a": "D",
+       "concept": "'Phishing' (the online scam) is spelt like 'fishing' but with 'ph-', playing on the idea of 'fishing' for victims.",
+       "method": "Correct spelling: phishing.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Choose the correctly spelt word.",
+       "o": {
+        "A": "Connivance",
+        "B": "Connivence",
+        "C": "Conivance",
+        "D": "Conivence"
+       },
+       "a": "A",
+       "concept": "'Connivance' keeps the double 'n' and ends in '-ance', not '-ence'.",
+       "method": "Correct spelling: connivance.",
        "difficulty": "core"
       }
      ],
-     "freq": 74
+     "freq": 79
     }
    ]
   },
@@ -12987,9 +13637,74 @@ const QUIZ_DATA = {
        "concept": "Simplify a ratio the same way you simplify a fraction — divide both sides by their highest common factor.",
        "method": "12:24 divides by 12 on both sides to give the simplest form: 1:2.",
        "difficulty": "core"
+      },
+      {
+       "q": "What is the probability of picking an even number from 1 to 10?",
+       "o": {
+        "A": "5/10",
+        "B": "1/10",
+        "C": "1/2",
+        "D": "1/5"
+       },
+       "a": "C",
+       "concept": "Probability = number of favourable outcomes ÷ total number of possible outcomes.",
+       "method": "Even numbers 1–10: 2,4,6,8,10 (5 of them) out of 10 total → 5/10 = 1/2.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Arrange the following fractions in descending order: 1/2, 1/4, 1/5, 3/8.",
+       "o": {
+        "A": "1/5, 3/8, 1/4, 1/2",
+        "B": "1/2, 1/4, 1/5, 3/8",
+        "C": "1/2, 3/8, 1/4, 1/5",
+        "D": "3/8, 1/4, 1/5, 1/2"
+       },
+       "a": "C",
+       "concept": "Convert to decimals for a quick, reliable comparison when ordering fractions.",
+       "method": "As decimals: 1/2=0.5, 3/8=0.375, 1/4=0.25, 1/5=0.2. Descending: 1/2, 3/8, 1/4, 1/5.",
+       "difficulty": "core"
+      },
+      {
+       "q": "50cm is what ratio of 2m?",
+       "o": {
+        "A": "2:3",
+        "B": "1:4",
+        "C": "1:25",
+        "D": "1:5"
+       },
+       "a": "B",
+       "concept": "Both quantities must be in the same unit before you can form a ratio.",
+       "method": "2m = 200cm. 50cm : 200cm simplifies (÷50) to 1:4.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Ade and Bisi shared a certain amount of money in the ratio 4:3. Ade's share is #800 more than Bisi's. What is the total amount shared?",
+       "o": {
+        "A": "#5,600",
+        "B": "#3,200",
+        "C": "#4,500",
+        "D": "#6,300"
+       },
+       "a": "A",
+       "concept": "Let the smaller share be a variable, express the larger share in terms of it and the given difference, then solve using the ratio.",
+       "method": "Let Bisi = 3k, Ade = 4k. Since 4k = 3k + 800, k = 800. Total = 7k = 7 × 800 = #5,600.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A woman bought 345 oranges and 45 were spoilt. What is the ratio of spoilt oranges to the total?",
+       "o": {
+        "A": "23:3",
+        "B": "3:23",
+        "C": "69:9",
+        "D": "23:9"
+       },
+       "a": "B",
+       "concept": "Simplify the ratio the same way you would simplify a fraction — divide both sides by their highest common factor.",
+       "method": "45:345 divides by 15 on both sides to give 3:23.",
+       "difficulty": "core"
       }
      ],
-     "freq": 61
+     "freq": 66
     },
     {
      "id": "mensuration",
@@ -13222,9 +13937,61 @@ const QUIZ_DATA = {
        "concept": "For a square, find the side length by taking the square root of the area, then multiply by 4 for the perimeter.",
        "method": "Side = √729 = 27 m. Perimeter = 4 × 27 = 108 m.",
        "difficulty": "core"
+      },
+      {
+       "q": "Find the circumference of a circle with diameter 14cm. (Use π = 22/7)",
+       "o": {
+        "A": "22cm",
+        "B": "44cm",
+        "C": "11cm",
+        "D": "88cm"
+       },
+       "a": "B",
+       "concept": "Circumference = π × diameter.",
+       "method": "C = 22/7 × 14 = 44cm.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The length of a rectangle is 30cm and the breadth is 0.15m. Calculate the perimeter in centimetres.",
+       "o": {
+        "A": "61cm",
+        "B": "45cm",
+        "C": "60.3cm",
+        "D": "90cm"
+       },
+       "a": "D",
+       "concept": "Convert every measurement to the same unit before calculating.",
+       "method": "0.15m = 15cm. Perimeter = 2(L+B) = 2(30+15) = 90cm.",
+       "difficulty": "core"
+      },
+      {
+       "q": "How many times does a right angle occur between the hour and minute hands of a clock in a 24-hour period?",
+       "o": {
+        "A": "22",
+        "B": "24",
+        "C": "44",
+        "D": "48"
+       },
+       "a": "C",
+       "concept": "A well-known clock puzzle: the hands form a right angle 22 times every 12 hours.",
+       "method": "22 times in 12 hours × 2 (for 24 hours) = 44.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Two angles of a triangle are each 60°. What is the third angle?",
+       "o": {
+        "A": "60°",
+        "B": "120°",
+        "C": "90°",
+        "D": "110°"
+       },
+       "a": "A",
+       "concept": "The three interior angles of any triangle always add up to 180°.",
+       "method": "180° − 60° − 60° = 60° (this makes it an equilateral triangle).",
+       "difficulty": "core"
       }
      ],
-     "freq": 17
+     "freq": 21
     },
     {
      "id": "reasoning",
@@ -13574,9 +14341,451 @@ const QUIZ_DATA = {
        "concept": "To round to 1 decimal place, look at the second decimal digit — round up if it's 5 or more.",
        "method": "1.56 → the second decimal digit is 6 (≥5), so round the first decimal up: 1.5 becomes 1.6.",
        "difficulty": "core"
+      },
+      {
+       "q": "Find the product of the HCF and LCM of 3a and 2ab.",
+       "o": {
+        "A": "6a²b²",
+        "B": "6a²b",
+        "C": "6ab",
+        "D": "6ab²"
+       },
+       "a": "B",
+       "concept": "Product of two numbers (or terms) always equals the product of their HCF and LCM.",
+       "method": "LCM(3a, 2ab) = 6ab; HCF(3a, 2ab) = a. Product = 6ab × a = 6a²b.",
+       "difficulty": "core"
+      },
+      {
+       "q": "If n³ = 27, find n.",
+       "o": {
+        "A": "9",
+        "B": "6",
+        "C": "3",
+        "D": "18"
+       },
+       "a": "C",
+       "concept": "To undo a cube, take the cube root of both sides.",
+       "method": "n³ = 27 = 3³, so n = 3.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A number is added to 12, then the result is divided by 25, giving an answer of 4. What is the number?",
+       "o": {
+        "A": "68",
+        "B": "88",
+        "C": "100",
+        "D": "112"
+       },
+       "a": "B",
+       "concept": "Translate the word problem into an equation, then solve step by step, undoing each operation in reverse order.",
+       "method": "(x + 12)/25 = 4 → x + 12 = 100 → x = 88.",
+       "difficulty": "core"
+      },
+      {
+       "q": "If log 2 = 0.301, find log 16.",
+       "o": {
+        "A": "4.816",
+        "B": "120.4",
+        "C": "12.04",
+        "D": "1.204"
+       },
+       "a": "D",
+       "concept": "Express the target number as a power of the base you already know the log of, then apply the power rule of logs.",
+       "method": "log 16 = log 2⁴ = 4 log 2 = 4 × 0.301 = 1.204.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Find the median of 4, 8, 4, 4, 9, 7, 3, 2, 5.",
+       "o": {
+        "A": "5",
+        "B": "4",
+        "C": "7",
+        "D": "9"
+       },
+       "a": "B",
+       "concept": "The median is the middle value once the data is arranged in order.",
+       "method": "Sorted: 2,3,4,4,4,5,7,8,9 (9 values). The middle (5th) value is 4.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What is the value of x in 3ˣ = 243?",
+       "o": {
+        "A": "4",
+        "B": "6",
+        "C": "5",
+        "D": "3"
+       },
+       "a": "C",
+       "concept": "When both sides can be written with the same base, the exponents must be equal.",
+       "method": "243 = 3⁵, so 3ˣ = 3⁵ gives x = 5.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What is the square root of 81/9?",
+       "o": {
+        "A": "9/3",
+        "B": "3",
+        "C": "1/2",
+        "D": "9"
+       },
+       "a": "B",
+       "concept": "Simplify inside the root first, then take the square root of the simplified value.",
+       "method": "81/9 = 9, and √9 = 3.",
+       "difficulty": "core"
+      },
+      {
+       "q": "If X = (3+1)/(3-1) and Y = (X+1)/(X-1), find X² + Y².",
+       "o": {
+        "A": "12",
+        "B": "14",
+        "C": "20",
+        "D": "13"
+       },
+       "a": "D",
+       "concept": "Work through multi-step algebraic substitution one stage at a time.",
+       "method": "X = 4/2 = 2. Y = (2+1)/(2-1) = 3. X² + Y² = 4 + 9 = 13.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A shape with nine sides is called a ______.",
+       "o": {
+        "A": "Hexagon",
+        "B": "Heptagon",
+        "C": "Nonagon",
+        "D": "Octagon"
+       },
+       "a": "C",
+       "concept": "Polygon names are built from Greek/Latin number prefixes — worth memorising as a set.",
+       "method": "Hexagon = 6 sides, heptagon = 7, octagon = 8; a 9-sided shape is a nonagon.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The line that divides a circle into two equal parts is called the ______.",
+       "o": {
+        "A": "Sector",
+        "B": "Diameter",
+        "C": "Divisor",
+        "D": "Chord"
+       },
+       "a": "B",
+       "concept": "A diameter is the special chord that passes through the centre, splitting the circle exactly in half.",
+       "method": "Any other chord divides the circle unequally (major/minor segments); only the diameter splits it evenly.",
+       "difficulty": "core"
+      },
+      {
+       "q": "If 5ˣ⁻² = 625, find x.",
+       "o": {
+        "A": "5",
+        "B": "7",
+        "C": "8",
+        "D": "6"
+       },
+       "a": "D",
+       "concept": "Match the bases, then equate the exponents.",
+       "method": "625 = 5⁴, so x − 2 = 4, giving x = 6.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Adding all the positive integers from 1 to 100, the sum becomes ______.",
+       "o": {
+        "A": "5,050",
+        "B": "5,010",
+        "C": "4,050",
+        "D": "6,050"
+       },
+       "a": "A",
+       "concept": "Use the sum-of-first-n-integers formula instead of adding one by one.",
+       "method": "Sum = n(n+1)/2 = 100 × 101/2 = 5,050.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A + B = 9, B + C = 13, C + A = 14. Find A + B + C.",
+       "o": {
+        "A": "18",
+        "B": "0",
+        "C": "9",
+        "D": "10"
+       },
+       "a": "A",
+       "concept": "Adding all three equations together counts each variable exactly twice, giving a quick shortcut.",
+       "method": "Sum of all three equations: 2(A+B+C) = 9+13+14 = 36, so A+B+C = 18.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Arrange in ascending order: 3/8, 1/5, 1/4, 1/2.",
+       "o": {
+        "A": "1/2, 3/8, 1/4, 1/5",
+        "B": "1/4, 1/5, 3/8, 1/2",
+        "C": "3/8, 1/5, 1/4, 1/2",
+        "D": "1/5, 1/4, 3/8, 1/2"
+       },
+       "a": "D",
+       "concept": "Converting fractions to decimals is often the fastest way to compare and order them.",
+       "method": "As decimals: 3/8=0.375, 1/5=0.2, 1/4=0.25, 1/2=0.5. Ascending: 1/5, 1/4, 3/8, 1/2.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Find the mean of 3, 6, 5, 4, 2, 7, 6, 7.",
+       "o": {
+        "A": "8",
+        "B": "5",
+        "C": "7",
+        "D": "6"
+       },
+       "a": "B",
+       "concept": "Mean = sum of all values ÷ number of values.",
+       "method": "Sum = 3+6+5+4+2+7+6+7 = 40. Mean = 40 ÷ 8 = 5.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is a perfect square?",
+       "o": {
+        "A": "9y²",
+        "B": "10x²",
+        "C": "25x⁵",
+        "D": "49y²z³"
+       },
+       "a": "A",
+       "concept": "A term is a perfect square only if its numeric coefficient is a perfect square AND every variable's exponent is even.",
+       "method": "9y² = (3y)² — coefficient 9 is a perfect square and y's exponent (2) is even. The others fail one of these conditions.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Divide 0.025 by 0.04 and express the answer in standard form.",
+       "o": {
+        "A": "6.25 × 10⁻¹",
+        "B": "6.25 × 10¹",
+        "C": "6.25 × 10³",
+        "D": "62.5 × 10²"
+       },
+       "a": "A",
+       "concept": "Divide the decimals first, then convert the result to standard (scientific) form: a number between 1 and 10, times a power of 10.",
+       "method": "0.025 ÷ 0.04 = 0.625 = 6.25 × 10⁻¹.",
+       "difficulty": "core"
+      },
+      {
+       "q": "In a coding system, the numbers 0 to 9 are coded A to J respectively (0=A, 1=B, ... 9=J). What is the code for the number 4238?",
+       "o": {
+        "A": "CDEI",
+        "B": "CEID",
+        "C": "CEDI",
+        "D": "ECDI"
+       },
+       "a": "D",
+       "concept": "Map each digit to its letter individually, keeping the original digit order.",
+       "method": "4→E, 2→C, 3→D, 8→I, giving the code ECDI.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Simplify: logX + logX² + logX⁴ + logX⁸ + logX¹⁶ + logX³².",
+       "o": {
+        "A": "logX³¹",
+        "B": "logX⁶²",
+        "C": "logX⁶³",
+        "D": "logX³²"
+       },
+       "a": "C",
+       "concept": "Adding logs of the same base multiplies the arguments — which, for powers of the same base, means adding the exponents.",
+       "method": "logX + logX² + ... + logX³² = logX^(1+2+4+8+16+32) = logX⁶³ (since 1+2+4+8+16+32 = 63).",
+       "difficulty": "core"
+      },
+      {
+       "q": "If x = a + b, find the value of 5x² + x.",
+       "o": {
+        "A": "5a² + 10ab + 5b² − a + b",
+        "B": "5a² + 10ab + 5b² + a + b",
+        "C": "5a² − 10ab + 5b² − a − b",
+        "D": "5a² − 10ab − 5b² − a + b"
+       },
+       "a": "B",
+       "concept": "Substitute the given expression in for x, then expand carefully term by term.",
+       "method": "5(a+b)² + (a+b) = 5(a²+2ab+b²) + a + b = 5a² + 10ab + 5b² + a + b.",
+       "difficulty": "core"
+      },
+      {
+       "q": "How many prime numbers are there between 2 and 41 inclusive?",
+       "o": {
+        "A": "12",
+        "B": "13",
+        "C": "11",
+        "D": "9"
+       },
+       "a": "B",
+       "concept": "List the primes systematically rather than guessing — it's easy to miss one.",
+       "method": "2,3,5,7,11,13,17,19,23,29,31,37,41 — counting gives 13 primes.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Factorise 3d²e + 8d².",
+       "o": {
+        "A": "d(3e + 8)",
+        "B": "d(3de + 8d)",
+        "C": "d²(3 + 8)",
+        "D": "d²(3e + 8)"
+       },
+       "a": "D",
+       "concept": "Factorising means pulling out the highest common factor of every term.",
+       "method": "Both terms share d², so 3d²e + 8d² = d²(3e + 8).",
+       "difficulty": "core"
+      },
+      {
+       "q": "A rhombus is similar to a square in terms of which property of its diagonals?",
+       "o": {
+        "A": "They are unequal in length",
+        "B": "They bisect each other at right angles",
+        "C": "Only one diagonal is a line of symmetry",
+        "D": "They do not bisect the angles"
+       },
+       "a": "B",
+       "concept": "A square is technically a special rhombus, so it shares the rhombus's core diagonal property.",
+       "method": "Like a square, a rhombus's diagonals bisect each other at 90° and bisect the interior angles — they just aren't necessarily equal in length.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Sera's age is x. Her brother's age is her age plus twice her age (i.e. 3x). If the sum of their ages is half their father's age of 48, find the brother's age.",
+       "o": {
+        "A": "18",
+        "B": "16",
+        "C": "24",
+        "D": "12"
+       },
+       "a": "A",
+       "concept": "Translate the relationships into algebra one piece at a time before solving.",
+       "method": "x + 3x = 48/2 = 24 → 4x = 24 → x = 6. Brother's age = 3x = 18.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Evaluate (25/16)^(1/2).",
+       "o": {
+        "A": "5½",
+        "B": "3⅝",
+        "C": "1¼",
+        "D": "2⅔"
+       },
+       "a": "C",
+       "concept": "A power of ½ is the same as taking a square root.",
+       "method": "√(25/16) = 5/4 = 1¼.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Find the difference between the mode and the median of: 17, 15, 13, 17, 15, 18, 13, 20, 21, 17, 13, 17, 10.",
+       "o": {
+        "A": "1",
+        "B": "3",
+        "C": "0",
+        "D": "5"
+       },
+       "a": "C",
+       "concept": "Sort the data first — both the mode (most frequent value) and median (middle value) are much easier to spot once ordered.",
+       "method": "Sorted: 10,13,13,13,15,15,17,17,17,17,18,20,21 (13 values). Mode = 17 (appears 4 times); median (7th value) = 17. Difference = 0.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A woman is driving and covers a certain distance in 2 hours at 60km/h. If she instead drove at 80km/h, how long would she take to cover the same distance?",
+       "o": {
+        "A": "3hrs",
+        "B": "4hrs",
+        "C": "4.5hrs",
+        "D": "1.5hrs"
+       },
+       "a": "D",
+       "concept": "First find the fixed distance from the original trip, then use it to find the new time at the new speed.",
+       "method": "Distance = 60km/h × 2h = 120km. At 80km/h: time = 120 ÷ 80 = 1.5 hours.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Find the mode of the set of numbers: 1, 1, 0, 2, 1, 1, 3, 1, 0, 1.",
+       "o": {
+        "A": "1",
+        "B": "2",
+        "C": "0",
+        "D": "3"
+       },
+       "a": "A",
+       "concept": "The mode is simply the value that occurs most often in the data set.",
+       "method": "Counting occurrences: 1 appears 6 times, 0 appears twice, 2 and 3 appear once each — mode = 1.",
+       "difficulty": "core"
+      },
+      {
+       "q": "In a class, the ratio of boys to girls is 1:5. If there are 40 girls, how many boys are there?",
+       "o": {
+        "A": "10",
+        "B": "8",
+        "C": "12",
+        "D": "16"
+       },
+       "a": "B",
+       "concept": "Use the ratio to set up a proportion between the two groups, then solve for the unknown.",
+       "method": "Boys/Girls = 1/5, and girls = 40, so boys = (1 × 40)/5 = 8.",
+       "difficulty": "core"
+      },
+      {
+       "q": "If 8.8y − 4 = 7.7y + 7, find y.",
+       "o": {
+        "A": "1.0",
+        "B": "11",
+        "C": "1.1",
+        "D": "10"
+       },
+       "a": "D",
+       "concept": "Collect all the y-terms on one side and all the constants on the other before dividing.",
+       "method": "8.8y − 7.7y = 7 + 4 → 1.1y = 11 → y = 10.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What is the reciprocal of 625?",
+       "o": {
+        "A": "625/1",
+        "B": "25/625",
+        "C": "1/625",
+        "D": "1/652"
+       },
+       "a": "C",
+       "concept": "The reciprocal of a number is simply 1 divided by that number.",
+       "method": "Reciprocal of 625 = 1/625.",
+       "difficulty": "core"
+      },
+      {
+       "q": "How long does a train take to cover a journey if it starts at 6:10am and arrives at 3:55pm?",
+       "o": {
+        "A": "10hrs 35mins",
+        "B": "9hrs 45mins",
+        "C": "9hrs 30mins",
+        "D": "10hrs 45mins"
+       },
+       "a": "B",
+       "concept": "Converting to the 24-hour clock avoids confusion when subtracting across the am/pm boundary.",
+       "method": "3:55pm = 15:55. 15:55 − 6:10 = 9 hours 45 minutes.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A clock gains 20 seconds every hour and shows the correct time at 6am. What time will it show at 3pm (real time) the same day?",
+       "o": {
+        "A": "3:03pm",
+        "B": "3:06pm",
+        "C": "2:57pm",
+        "D": "3:13pm"
+       },
+       "a": "A",
+       "concept": "Work out the total time elapsed, multiply by the gain-per-hour rate, then add the total gain to the real time.",
+       "method": "From 6am to 3pm is 9 hours. Total gain = 9 × 20s = 180s = 3 minutes. Shown time = 3:00pm + 3min = 3:03pm.",
+       "difficulty": "core"
+      },
+      {
+       "q": "If 15 cans of food are needed to feed 7 adults for 2 days, how many cans are needed to feed 4 adults for 7 days?",
+       "o": {
+        "A": "25",
+        "B": "15",
+        "C": "20",
+        "D": "30"
+       },
+       "a": "D",
+       "concept": "This is a combined (inverse then direct) proportion problem — compare total 'adult-days' rather than adults and days separately.",
+       "method": "Original need covers 7 × 2 = 14 adult-days at a rate of 15/14 cans per adult-day. New need = 4 × 7 = 28 adult-days → cans = 15 × 28/14 = 30.",
+       "difficulty": "core"
       }
      ],
-     "freq": 89
+     "freq": 123
     }
    ]
   },
@@ -14169,319 +15378,579 @@ const QUIZ_DATA = {
        "difficulty": "core"
       },
       {
-       "q": "Before 1958, Nigeria's legal tender was a currency shared with several other British colonies, protectorates and mandate territories, known as the",
+       "q": "How many geopolitical zones does Nigeria have?",
        "o": {
-        "A": "East African Shilling",
-        "B": "West African Pound",
-        "C": "British Sterling",
-        "D": "Colonial Franc"
+        "A": "4",
+        "B": "6",
+        "C": "3",
+        "D": "8"
        },
        "a": "B",
-       "concept": "The West African Pound served as Nigeria's legal tender until 1958, before Nigeria's own currency notes were introduced.",
-       "method": "It was a shared regional currency, not exclusive to Nigeria, which is why it needed to be replaced as independence approached.",
+       "concept": "Nigeria's 36 states are informally grouped into six zones for political and administrative purposes.",
+       "method": "The six zones are North-Central, North-East, North-West, South-East, South-South, and South-West.",
        "difficulty": "core"
       },
       {
-       "q": "In 1959, Nigeria's banknotes were renamed from the West African Pound to the",
+       "q": "Who designed the National Flag of Nigeria?",
        "o": {
-        "A": "Nigerian Shilling",
-        "B": "Federation Pound",
-        "C": "Nigerian Pound",
-        "D": "British West African Pound"
-       },
-       "a": "C",
-       "concept": "The 1959 renaming to the 'Nigerian Pound' was a step toward monetary independence, even though the notes still referenced British rule.",
-       "method": "It's a simple rename — 'West African' becomes 'Nigerian' — ahead of full currency independence.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Nigeria's first ₦20 note, introduced in 1977 as the country's highest denomination at the time, was launched under which head of state?",
-       "o": {
-        "A": "Yakubu Gowon",
-        "B": "Murtala Mohammed",
-        "C": "Olusegun Obasanjo",
-        "D": "Shehu Shagari"
+        "A": "Michael Taiwo Akinwole",
+        "B": "Michael Taiwo Akinkunmi",
+        "C": "Michael Taiwo Akinwunmi",
+        "D": "Michael Tade Akinade"
        },
        "a": "B",
-       "concept": "The ₦20 note was introduced on 11 February 1977 under Murtala Mohammed's military government.",
-       "method": "Murtala Mohammed's short but eventful regime (1975–76) is linked to several major reforms — including this new top denomination.",
+       "concept": "A single design, chosen through a national competition, is still in use today largely unchanged.",
+       "method": "Michael Taiwo Akinkunmi's design won a 1959 national competition and was adopted ahead of independence.",
        "difficulty": "core"
       },
       {
-       "q": "The ₦1, ₦5, and ₦10 notes introduced in 1979 bore the portraits of Herbert Macaulay, Tafawa Balewa, and Alvan Ikoku respectively. These three men were honoured because they had been declared",
+       "q": "Which of these figures is credited with stopping the killing of twins in a part of Nigeria?",
        "o": {
-        "A": "founding CBN governors",
-        "B": "national heroes on 1 October 1978",
-        "C": "first state governors",
-        "D": "Nobel laureates"
+        "A": "Ransome-Kuti",
+        "B": "Mary Slessor",
+        "C": "Ajayi Crowther",
+        "D": "Akinwale Savage"
        },
        "a": "B",
-       "concept": "The three men featured on the 1979 notes were declared Nigerian national heroes on 1 October 1978, ahead of the new banknotes' release.",
-       "method": "The honour (national hero status) came first in 1978; the notes bearing their portraits followed in 1979.",
+       "concept": "Mary Slessor, a Scottish missionary, is a recurring historical GK figure tied to this specific reform in Calabar.",
+       "method": "Mary Slessor campaigned against the killing of twins (then seen as cursed) among the Efik people in Calabar.",
        "difficulty": "core"
       },
       {
-       "q": "The ₦50 note, popularly nicknamed 'Better Life' after a government programme, was introduced in 1991 under which military ruler?",
+       "q": "What was the first privately-owned television station in Nigeria?",
        "o": {
-        "A": "Muhammadu Buhari",
-        "B": "Sani Abacha",
-        "C": "Ibrahim Babangida",
-        "D": "Yakubu Gowon"
+        "A": "BCOS",
+        "B": "Galaxy Television",
+        "C": "NTA",
+        "D": "WNTV"
        },
-       "a": "C",
-       "concept": "The ₦50 note was introduced during Ibrahim Babangida's government in 1991, and was nicknamed after his wife's 'Better Life for Rural Women' programme.",
-       "method": "Link the nickname 'Better Life' directly to the Babangida-era social programme of the same name.",
+       "a": "B",
+       "concept": "Note the distinction from the FIRST television station overall (WNTV, 1959, government-owned) — this question asks specifically about the first PRIVATE station.",
+       "method": "Galaxy Television, launched in Lagos, is recognised as Nigeria's first privately-owned TV station.",
        "difficulty": "core"
       },
       {
-       "q": "The ₦100 note, introduced in December 1999, carries the portrait of",
+       "q": "Where was petroleum first discovered in Nigeria?",
        "o": {
-        "A": "Ahmadu Bello",
-        "B": "Nnamdi Azikiwe",
-        "C": "Obafemi Awolowo",
-        "D": "Aliyu Mai-Bornu"
+        "A": "Delta State",
+        "B": "Bayelsa State (Oloibiri)",
+        "C": "Rivers State",
+        "D": "Cross River State"
        },
-       "a": "C",
-       "concept": "The ₦100 note, introduced under the Obasanjo civilian government, honours Obafemi Awolowo, a foremost Nigerian statesman and journalist.",
-       "method": "Match each denomination to one statesman: ₦100 = Awolowo, ₦200 = Ahmadu Bello, ₦500 = Azikiwe.",
+       "a": "B",
+       "concept": "Oloibiri, in present-day Bayelsa State, is the specific, frequently-tested location of Nigeria's first oil discovery.",
+       "method": "Shell-BP struck oil at Oloibiri in 1956, making it Nigeria's first commercial oil well.",
        "difficulty": "core"
       },
       {
-       "q": "The ₦1,000 note, introduced in October 2005, carries the portraits of Aliyu Mai-Bornu and",
+       "q": "How many local government areas does Nigeria officially have?",
        "o": {
-        "A": "Clement Isong",
-        "B": "Adamu Ciroma",
-        "C": "Ahmadu Bello",
-        "D": "Herbert Macaulay"
+        "A": "747",
+        "B": "774",
+        "C": "477",
+        "D": "773"
+       },
+       "a": "B",
+       "concept": "This figure is one of the most frequently tested numeric GK facts about Nigeria's administrative structure.",
+       "method": "Nigeria is officially divided into 774 Local Government Areas.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What is Kwara State's official slogan?",
+       "o": {
+        "A": "Centre of Excellence",
+        "B": "Pacesetter State",
+        "C": "The Power State",
+        "D": "State of Harmony"
+       },
+       "a": "D",
+       "concept": "Every Nigerian state has an official slogan, frequently tested alongside its capital.",
+       "method": "Kwara is popularly known as the State of Harmony.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which is considered the premier (first) university in Nigeria?",
+       "o": {
+        "A": "University of Ibadan",
+        "B": "University of Ilorin",
+        "C": "University of Benin",
+        "D": "Ahmadu Bello University"
        },
        "a": "A",
-       "concept": "The ₦1,000 note honours two former Central Bank governors: Aliyu Mai-Bornu, Nigeria's first indigenous CBN governor, and Clement Isong, his successor.",
-       "method": "Both figures on the ₦1,000 note are past CBN governors, not politicians — a detail that distinguishes it from the lower denominations.",
+       "concept": "'Premier' here specifically means the oldest, not simply the most prestigious.",
+       "method": "The University of Ibadan, founded in 1948 (initially as a University College), is Nigeria's oldest university.",
        "difficulty": "core"
       },
       {
-       "q": "The Central Bank of Nigeria (CBN) was established by an Act of 1958 but only commenced operations on",
+       "q": "Before entering Nigeria, the River Niger passes through which country?",
        "o": {
-        "A": "1 October 1960",
-        "B": "1 January 1959",
-        "C": "1 July 1959",
-        "D": "1 April 1958"
+        "A": "Chad",
+        "B": "Mali",
+        "C": "Cameroon",
+        "D": "Togo"
        },
-       "a": "C",
-       "concept": "The CBN Act was passed in 1958, but the bank formally began operating on 1 July 1959, ahead of independence.",
-       "method": "Separate the two dates: 1958 = the Act creating the bank on paper; 1 July 1959 = the bank actually opening for business.",
+       "a": "B",
+       "concept": "The River Niger's course runs through several West African countries before reaching Nigeria and the Atlantic.",
+       "method": "The Niger rises in Guinea, flows through Mali, then Niger Republic, before entering Nigeria.",
        "difficulty": "core"
       },
       {
-       "q": "Nigeria's first indigenous (Nigerian) Governor of the Central Bank was",
+       "q": "In which Nigerian city is Tin Can Island located?",
        "o": {
-        "A": "Clement Isong",
-        "B": "Roy Pentelow Fenton",
-        "C": "Aliyu Mai-Bornu",
-        "D": "Adamu Ciroma"
-       },
-       "a": "C",
-       "concept": "Aliyu Mai-Bornu served as CBN Governor from 1963 to 1967, becoming the first Nigerian to hold the post.",
-       "method": "He succeeded the bank's first (British) governor and is honoured for this 'first' on the ₦1,000 note.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Before any Nigerian held the post, the Central Bank's first Governor (1958–1963) was a British appointee named",
-       "o": {
-        "A": "Roy Pentelow Fenton",
-        "B": "James Robertson",
-        "C": "John Macpherson",
-        "D": "Hugh Clifford"
+        "A": "Lagos",
+        "B": "Ibadan",
+        "C": "Calabar",
+        "D": "Abuja"
        },
        "a": "A",
-       "concept": "Roy Pentelow Fenton was the CBN's first Governor, appointed by the colonial administration in 1958, and remains the only non-Nigerian to have held the post.",
-       "method": "He set up the bank's early monetary policy and currency system before handing over to Aliyu Mai-Bornu in 1963.",
+       "concept": "Tin Can Island is a well-known port facility, a recurring GK/geography fact.",
+       "method": "Tin Can Island Port is located in Lagos, one of Nigeria's two major seaport complexes alongside Apapa.",
        "difficulty": "core"
       },
       {
-       "q": "The Nigeria Immigration Service (NIS) traces its roots to 1958, when it was carved out of the",
+       "q": "How many colours does the Nigerian flag have?",
        "o": {
-        "A": "Nigerian Army",
-        "B": "Nigeria Police Force",
-        "C": "Federal Ministry of Interior",
-        "D": "Customs Service"
-       },
-       "a": "B",
-       "concept": "The NIS began as an Immigration Department within the Nigeria Police Force in 1958, before later becoming a fully separate service.",
-       "method": "Immigration control was originally a policing function before it was carved out as its own agency.",
-       "difficulty": "core"
-      },
-      {
-       "q": "In 2007, Nigeria became the first country in Africa (and among the first in the world) to introduce a",
-       "o": {
-        "A": "national identity card",
-        "B": "biometric e-passport",
-        "C": "electronic voting system",
-        "D": "digital currency"
-       },
-       "a": "B",
-       "concept": "On 17 May 2007, the Nigeria Immigration Service unveiled the biometric e-passport, making Nigeria the first African country to do so.",
-       "method": "It's specifically about the passport, not voting or currency — a common point of confusion in trivia questions.",
-       "difficulty": "core"
-      },
-      {
-       "q": "The Western and Eastern Regions of colonial Nigeria attained internal self-government (autonomy in domestic affairs) in",
-       "o": {
-        "A": "1954",
-        "B": "1957",
-        "C": "1960",
-        "D": "1963"
-       },
-       "a": "B",
-       "concept": "The Western and Eastern Regions became self-governing in 1957, ahead of the Northern Region, which followed in 1959.",
-       "method": "Self-government came region by region, years before full national independence in 1960.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Which military ruler was the first to formally adopt the title 'President' (rather than 'Head of State') while still in uniform?",
-       "o": {
-        "A": "Yakubu Gowon",
-        "B": "Murtala Mohammed",
-        "C": "Ibrahim Babangida",
-        "D": "Sani Abacha"
+        "A": "4",
+        "B": "3",
+        "C": "2",
+        "D": "5"
        },
        "a": "C",
-       "concept": "Ibrahim Babangida styled himself 'President' from 1985, unlike earlier and later military rulers who used the title 'Head of State'.",
-       "method": "Every other military ruler (Ironsi, Gowon, Mohammed, Obasanjo, Buhari, Abacha, Abubakar) used 'Head of State' — Babangida is the exception.",
+       "concept": "Don't confuse the number of colours with the number of stripes/bands.",
+       "method": "The flag uses only 2 colours (green and white), arranged as three vertical bands: green, white, green.",
        "difficulty": "core"
       },
       {
-       "q": "The National Youth Service Corps (NYSC) was established in",
+       "q": "Which body is responsible for conducting population censuses in Nigeria?",
        "o": {
-        "A": "1970",
-        "B": "1973",
+        "A": "NBS",
+        "B": "NPC",
+        "C": "INEC",
+        "D": "NNC"
+       },
+       "a": "C",
+       "concept": "This tests a commonly-confused acronym pair — NPC (National Population Commission) is often mixed up with NBS (National Bureau of Statistics), which handles general statistics, not census-taking itself.",
+       "method": "The National Population Commission (NPC) is constitutionally charged with conducting Nigeria's census.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Who was the first Head of State of Nigeria?",
+       "o": {
+        "A": "Gen. Aguiyi-Ironsi",
+        "B": "Dr Nnamdi Azikiwe",
+        "C": "Gen. Sani Abacha",
+        "D": "Alhaji Shehu Shagari"
+       },
+       "a": "A",
+       "concept": "This question is about the first HEAD OF STATE title specifically (post-1966 coup), distinct from Azikiwe's earlier ceremonial President role.",
+       "method": "General Aguiyi-Ironsi became Nigeria's first military Head of State after the January 1966 coup.",
+       "difficulty": "core"
+      },
+      {
+       "q": "When did Nigeria become a republic?",
+       "o": {
+        "A": "1963",
+        "B": "1960",
         "C": "1979",
-        "D": "1983"
+        "D": "1914"
        },
-       "a": "B",
-       "concept": "The NYSC scheme was established in 1973, in the aftermath of the civil war, to promote national unity among graduates.",
-       "method": "Link it to the post-war era — the scheme was designed to knit the country back together after 1967–70.",
+       "a": "A",
+       "concept": "Independence (1960) and becoming a republic (1963) are two distinct historical milestones often confused with each other.",
+       "method": "Nigeria gained independence in 1960 but remained a dominion under the British monarch until becoming a republic in 1963.",
        "difficulty": "core"
       },
       {
-       "q": "Nigeria's first Inspector-General of Police was",
+       "q": "The Nigerian Senate consists of how many members?",
+       "o": {
+        "A": "360",
+        "B": "109",
+        "C": "469",
+        "D": "108"
+       },
+       "a": "B",
+       "concept": "The Senate (109) and House of Representatives (360) have different fixed sizes — together they total 469 in the National Assembly.",
+       "method": "The Senate has 109 members: 3 from each of the 36 states, plus 1 from the FCT.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Who was Nigeria's first female pilot?",
+       "o": {
+        "A": "Chinyere Kalu",
+        "B": "Virginia Etiaba",
+        "C": "Hajiya Bilkisu",
+        "D": "Aloma Mariam"
+       },
+       "a": "A",
+       "concept": "Aviation firsts are a recurring GK category alongside political and sporting firsts.",
+       "method": "Chinyere Kalu is recognised as Nigeria's first female pilot.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Who is credited with naming the country 'Nigeria'?",
+       "o": {
+        "A": "Lord Frederick Lugard",
+        "B": "Flora Shaw",
+        "C": "Yakubu Gowon",
+        "D": "Queen Elizabeth"
+       },
+       "a": "B",
+       "concept": "Flora Shaw (who later married Lord Lugard) coined the name in a newspaper article, before the country was formally amalgamated.",
+       "method": "Flora Shaw suggested 'Nigeria' — from the River Niger — in an 1897 article, years before the 1914 amalgamation.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which Nigerian state is most associated with being a 'confluence state'?",
+       "o": {
+        "A": "Kwara",
+        "B": "Kogi",
+        "C": "Plateau",
+        "D": "Sokoto"
+       },
+       "a": "B",
+       "concept": "A confluence is where two rivers meet — Nigeria's most significant one gives a state its defining nickname.",
+       "method": "The River Niger and River Benue meet at Lokoja, in Kogi State, which is why Kogi is called the confluence state.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Food basket of the nation is the slogan of which Nigerian state?",
+       "o": {
+        "A": "Bayelsa",
+        "B": "Benue",
+        "C": "Delta",
+        "D": "Abia"
+       },
+       "a": "B",
+       "concept": "This slogan reflects the state's major agricultural output.",
+       "method": "Benue State is popularly known as the Food Basket of the Nation.",
+       "difficulty": "core"
+      },
+      {
+       "q": "In the Senate chamber, without which item can no official authority be exercised?",
+       "o": {
+        "A": "The legislature",
+        "B": "The mace",
+        "C": "The executive",
+        "D": "A written law"
+       },
+       "a": "B",
+       "concept": "The mace is the physical symbol of a legislature's authority — its presence (or absence) has real procedural significance.",
+       "method": "Without the mace present, proceedings in the chamber are not considered validly constituted — hence the phrase 'no mace, no authority'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "How many states make up Northern Nigeria?",
+       "o": {
+        "A": "17",
+        "B": "16",
+        "C": "18",
+        "D": "19"
+       },
+       "a": "D",
+       "concept": "Northern Nigeria (the North-West, North-East, and North-Central zones combined) comprises a fixed set of states.",
+       "method": "19 states make up Northern Nigeria across its three geopolitical zones.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Aso Rock is to Nigeria's seat of government as ______ is to the USA's.",
+       "o": {
+        "A": "The White House",
+        "B": "Washington",
+        "C": "Mexico",
+        "D": "New York"
+       },
+       "a": "A",
+       "concept": "This tests the analogy between symbolic/physical seats of executive power in two countries.",
+       "method": "Aso Rock (Villa) houses Nigeria's presidency, just as the White House houses the US presidency.",
+       "difficulty": "core"
+      },
+      {
+       "q": "In which year was a Nigerian presidential election controversially annulled?",
+       "o": {
+        "A": "2011",
+        "B": "2004",
+        "C": "1996",
+        "D": "1993"
+       },
+       "a": "D",
+       "concept": "The annulment of the June 12, 1993 election remains one of the most significant events in Nigeria's democratic history.",
+       "method": "The June 12, 1993 election, widely believed to have been won by MKO Abiola, was annulled by the military government.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Who was Nigeria's last military Head of State before the return to democracy in 1999?",
+       "o": {
+        "A": "Yakubu Gowon",
+        "B": "Muhammadu Buhari",
+        "C": "Sani Abacha",
+        "D": "Abdulsalami Abubakar"
+       },
+       "a": "D",
+       "concept": "Distinguish this from Sani Abacha, who died in office in 1998 — Abubakar succeeded him and oversaw the transition to civilian rule.",
+       "method": "General Abdulsalami Abubakar led Nigeria from 1998 and handed over to elected civilian government in May 1999.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The National Youth Service Corps (NYSC) was established under which Head of State?",
+       "o": {
+        "A": "Gen. Yakubu Gowon",
+        "B": "Gen. Olusegun Obasanjo",
+        "C": "Gen. Sani Abacha",
+        "D": "Gen. Murtala Muhammed"
+       },
+       "a": "A",
+       "concept": "NYSC was created partly as a post-civil-war reconciliation and national-unity measure.",
+       "method": "Gowon established the NYSC in 1973, in the aftermath of the Nigerian Civil War.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The University of Ilorin was established by decree of the federal military government in which year?",
+       "o": {
+        "A": "1975",
+        "B": "1970",
+        "C": "1980",
+        "D": "1962"
+       },
+       "a": "A",
+       "concept": "Unilorin's founding year is a natural fact to know when preparing for its own Post-UTME exam.",
+       "method": "Unilorin was established in August 1975, one of the second generation of Nigerian federal universities.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What does Unilorin's motto, 'Probitas Doctrina', mean?",
+       "o": {
+        "A": "Unity and knowledge",
+        "B": "Character and learning",
+        "C": "Discipline and excellence",
+        "D": "Faith and progress"
+       },
+       "a": "B",
+       "concept": "Many Nigerian universities have a Latin motto worth knowing, especially the one you're applying to.",
+       "method": "'Probitas Doctrina' translates to 'Character and Learning' — Unilorin's guiding motto.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The first political party in Nigeria to fight for national self-government was ______.",
+       "o": {
+        "A": "NYM (Nigerian Youth Movement)",
+        "B": "NCNC",
+        "C": "PDP",
+        "D": "NNDP"
+       },
+       "a": "A",
+       "concept": "Distinguish the Nigerian Youth Movement (NYM), an early nationalist movement, from later post-independence political parties.",
+       "method": "The Nigerian Youth Movement (NYM) was the first party to actively campaign for Nigerian self-government.",
+       "difficulty": "core"
+      },
+      {
+       "q": "ECOWAS was masterminded chiefly by which two countries?",
+       "o": {
+        "A": "Nigeria and Ghana",
+        "B": "Ghana and Tunisia",
+        "C": "Nigeria and Senegal",
+        "D": "Nigeria and Cote d'Ivoire"
+       },
+       "a": "A",
+       "concept": "Nigeria and Ghana were the two key driving forces behind ECOWAS's formation.",
+       "method": "Nigeria (under Gowon) and Ghana were the principal architects behind founding ECOWAS.",
+       "difficulty": "core"
+      },
+      {
+       "q": "In which year was ECOWAS established, and where is its headquarters?",
+       "o": {
+        "A": "1975, Ghana",
+        "B": "1965, Lagos",
+        "C": "1975, Lagos",
+        "D": "1967, Lagos"
+       },
+       "a": "C",
+       "concept": "ECOWAS's founding year and headquarters location are commonly tested together.",
+       "method": "ECOWAS was established in 1975 with its administrative headquarters in Lagos, Nigeria.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The National Youth Service Corps (NYSC) was established in which year?",
+       "o": {
+        "A": "1983",
+        "B": "1973",
+        "C": "1997",
+        "D": "1987"
+       },
+       "a": "B",
+       "concept": "NYSC's founding is closely tied to post-civil-war national reconciliation efforts.",
+       "method": "NYSC was established in 1973 under General Yakubu Gowon.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Who was Nigeria's first Inspector-General of Police?",
        "o": {
         "A": "Louis Edet",
         "B": "Teslim Balogun",
-        "C": "Kam Selem",
-        "D": "Muhammadu Gambo"
+        "C": "Elias Balogun",
+        "D": "Kayode Uzoka"
        },
        "a": "A",
-       "concept": "Louis Edet became Nigeria's first indigenous Inspector-General of Police, a post he held from 1964.",
-       "method": "Don't confuse him with Teslim Balogun, who is famous instead as a footballer and the namesake of a Lagos stadium.",
+       "concept": "Louis Edet was the first indigenous Nigerian to hold this specific senior policing office.",
+       "method": "Louis Edet became Nigeria's first Nigerian Inspector-General of Police in 1964.",
        "difficulty": "core"
       },
       {
-       "q": "The last colonial Governor-General of Nigeria, who handed over at independence in 1960, was",
+       "q": "A human community that is usually cohesive and homogeneous, sharing common ancestry, history, and values, is called a ______.",
        "o": {
-        "A": "Sir Hugh Clifford",
-        "B": "Sir James Robertson",
+        "A": "Nation",
+        "B": "Kinship group",
+        "C": "Clan",
+        "D": "Tribe"
+       },
+       "a": "A",
+       "concept": "A 'nation' in political science refers to a people bound by shared culture/identity, distinct from a 'state' (a legal/political entity).",
+       "method": "A nation is a cohesive human community sharing common history, ancestry, and values.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Who was the leader of the Northern People's Congress (NPC)?",
+       "o": {
+        "A": "Yakubu Maitama Sule",
+        "B": "Abubakar Tafawa Balewa",
+        "C": "Aminu Kano",
+        "D": "Ahmadu Bello"
+       },
+       "a": "D",
+       "concept": "Note the distinction: Tafawa Balewa (NPC member, became Prime Minister) was not the party's actual leader — that was the Sardauna, Ahmadu Bello.",
+       "method": "Ahmadu Bello, the Sardauna of Sokoto, was the leader of the Northern People's Congress.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What does the eagle in Nigeria's coat of arms represent?",
+       "o": {
+        "A": "Peace",
+        "B": "Terror",
+        "C": "Agriculture",
+        "D": "Strength"
+       },
+       "a": "D",
+       "concept": "Each figure in the coat of arms has a specific symbolic meaning, distinct from the shield or horses.",
+       "method": "The eagle on Nigeria's coat of arms represents strength.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Who was Nigeria's first female Vice-Chancellor of a university?",
+       "o": {
+        "A": "Grace Alele-Williams",
+        "B": "Dora Akunyili",
+        "C": "Bolanle Awe",
+        "D": "Ngozi Okonjo-Iweala"
+       },
+       "a": "A",
+       "concept": "Grace Alele-Williams became a landmark figure in Nigerian academia as the first woman to head a Nigerian university.",
+       "method": "Grace Alele-Williams became Nigeria's first female Vice-Chancellor, leading the University of Benin.",
+       "difficulty": "core"
+      },
+      {
+       "q": "In what year was the geographic area now called Nigeria formally amalgamated?",
+       "o": {
+        "A": "1900",
+        "B": "1914",
+        "C": "1922",
+        "D": "1960"
+       },
+       "a": "B",
+       "concept": "The 1914 amalgamation joined the Northern and Southern Protectorates into a single entity, under Lord Lugard.",
+       "method": "Nigeria was formally amalgamated (Northern and Southern Protectorates united) in 1914.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What does the white colour in Nigeria's flag represent?",
+       "o": {
+        "A": "Peace and unity",
+        "B": "Purity only",
+        "C": "Agriculture",
+        "D": "Mourning"
+       },
+       "a": "A",
+       "concept": "Each colour in Nigeria's flag carries a specific symbolic meaning worth knowing precisely.",
+       "method": "White represents peace and unity, while the two green stripes represent Nigeria's natural wealth/agriculture.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The second military coup in Nigeria took place on ______.",
+       "o": {
+        "A": "January 15, 1966",
+        "B": "October 1, 1966",
+        "C": "July 29, 1966",
+        "D": "February 13, 1976"
+       },
+       "a": "C",
+       "concept": "Distinguish the first coup (January 1966) from the second, counter-coup (July 1966), which brought Yakubu Gowon to power.",
+       "method": "The second (counter-)coup took place on 29 July 1966.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The first general election in Nigeria was held in ______.",
+       "o": {
+        "A": "1933",
+        "B": "1952",
+        "C": "1955",
+        "D": "1959"
+       },
+       "a": "D",
+       "concept": "Nigeria's first general (federal-level) election took place just before independence.",
+       "method": "Nigeria's first general election was held in 1959, ahead of independence in 1960.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What was Nigeria's first political party?",
+       "o": {
+        "A": "APC",
+        "B": "PDP",
+        "C": "NNDP",
+        "D": "AD"
+       },
+       "a": "C",
+       "concept": "The NNDP (Nigerian National Democratic Party), founded by Herbert Macaulay in 1923, predates all the post-independence-era parties listed here.",
+       "method": "The Nigerian National Democratic Party (NNDP), founded in 1923, was Nigeria's first political party.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Into how many local government areas is Nigeria officially delineated?",
+       "o": {
+        "A": "654",
+        "B": "650",
+        "C": "820",
+        "D": "774"
+       },
+       "a": "D",
+       "concept": "This reinforces the same figure tested elsewhere in this exam's GK section.",
+       "method": "Nigeria is officially divided into 774 Local Government Areas.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The centenary anniversary of the amalgamation of Northern and Southern Nigeria was celebrated in ______.",
+       "o": {
+        "A": "2000",
+        "B": "2013",
+        "C": "2014",
+        "D": "2007"
+       },
+       "a": "C",
+       "concept": "Since amalgamation happened in 1914, its 100th (centenary) anniversary naturally fell in 2014.",
+       "method": "The centenary of Nigeria's amalgamation (1914 + 100 years) was celebrated in 2014.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these men introduced the policy of indirect rule in Nigeria?",
+       "o": {
+        "A": "Mungo Park",
+        "B": "Dr Nnamdi Azikiwe",
         "C": "Lord Lugard",
-        "D": "Sir John Macpherson"
-       },
-       "a": "B",
-       "concept": "Sir James Robertson served as Governor-General from 1955, presiding over independence in 1960, and continued briefly as Nigeria's first post-independence Governor-General.",
-       "method": "Lugard was the very first Governor-General (1914); Robertson was the last colonial one, at the other end of that era.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Nigeria's second military coup, which brought Yakubu Gowon to power, took place on",
-       "o": {
-        "A": "15 January 1966",
-        "B": "29 July 1966",
-        "C": "1 October 1966",
-        "D": "13 February 1976"
-       },
-       "a": "B",
-       "concept": "The countercoup of 29 July 1966 ended the Ironsi government and brought Yakubu Gowon to power.",
-       "method": "Distinguish it from the first coup (15 January 1966) that had earlier brought down the civilian government.",
-       "difficulty": "core"
-      },
-      {
-       "q": "ECOWAS was established through the Treaty of Lagos in 1975; its headquarters is now located in",
-       "o": {
-        "A": "Lagos",
-        "B": "Accra",
-        "C": "Abuja",
-        "D": "Dakar"
+        "D": "Sir James Robertson"
        },
        "a": "C",
-       "concept": "Although ECOWAS was founded and originally headquartered in Lagos, its secretariat relocated to Abuja in the late 1990s and remains there today.",
-       "method": "Don't assume 'founded in Lagos' still means 'headquartered in Lagos' today — the two facts diverged after the move to Abuja.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Nigeria's first Executive President, under the 1979 Constitution, was",
-       "o": {
-        "A": "Nnamdi Azikiwe",
-        "B": "Shehu Shagari",
-        "C": "Tafawa Balewa",
-        "D": "Olusegun Obasanjo"
-       },
-       "a": "B",
-       "concept": "Alhaji Shehu Shagari became Nigeria's first Executive President in 1979, combining the roles of head of state and head of government.",
-       "method": "Don't confuse this with Azikiwe, who was Nigeria's first President but only in a ceremonial role under the earlier parliamentary system.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Nigeria's first indigenous President, who held the largely ceremonial role from 1963 to 1966 under the parliamentary system, was",
-       "o": {
-        "A": "Shehu Shagari",
-        "B": "Tafawa Balewa",
-        "C": "Nnamdi Azikiwe",
-        "D": "Aguiyi-Ironsi"
-       },
-       "a": "C",
-       "concept": "Dr Nnamdi Azikiwe served as Nigeria's first President from 1963, but as a ceremonial head of state, with executive power held by Prime Minister Tafawa Balewa.",
-       "method": "Remember the split: Azikiwe held the ceremonial title, while Balewa (as Prime Minister) held the executive power.",
-       "difficulty": "core"
-      },
-      {
-       "q": "In Nigeria's coat of arms, the eagle standing above the shield represents",
-       "o": {
-        "A": "peace",
-        "B": "agriculture",
-        "C": "strength",
-        "D": "unity"
-       },
-       "a": "C",
-       "concept": "The eagle on Nigeria's coat of arms symbolises strength.",
-       "method": "Pair each coat-of-arms element with its meaning: black shield = fertile soil, eagle = strength, horses = dignity.",
-       "difficulty": "core"
-      },
-      {
-       "q": "The black shield at the centre of Nigeria's coat of arms represents",
-       "o": {
-        "A": "the nation's mineral wealth",
-        "B": "the country's fertile soil",
-        "C": "mourning for the civil war",
-        "D": "the meeting of two rivers"
-       },
-       "a": "B",
-       "concept": "The black shield symbolises Nigeria's fertile soil, while its wavy white 'Y' shape represents the meeting of the Niger and Benue Rivers at Lokoja.",
-       "method": "The shield's colour (black) points to soil; its white wavy pattern points separately to the rivers.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Nigeria's national motto has been \"Unity and Faith, Peace and Progress\" since 1978. What was the motto before that change?",
-       "o": {
-        "A": "\"One Nation, One Destiny\"",
-        "B": "\"Peace, Unity, Freedom\"",
-        "C": "\"Arise, O Compatriots\"",
-        "D": "\"Faith and Labour\""
-       },
-       "a": "B",
-       "concept": "Nigeria's motto was changed in 1978 from 'Peace, Unity, Freedom' to the current 'Unity and Faith, Peace and Progress'.",
-       "method": "Note that 'Arise, O Compatriots' is the national anthem's opening line, not a motto — a common mix-up.",
+       "concept": "Indirect rule is one of Lord Lugard's most defining colonial policy legacies in Nigeria.",
+       "method": "Lord Lugard introduced and championed indirect rule as Nigeria's colonial governor.",
        "difficulty": "core"
       }
      ],
-     "freq": 80
+     "freq": 100
     },
     {
      "id": "world",
@@ -15104,20 +16573,137 @@ const QUIZ_DATA = {
        "difficulty": "core"
       },
       {
-       "q": "The Taj Mahal in India was built by the Mughal emperor",
+       "q": "How many countries make up the African Union (AU)?",
        "o": {
-        "A": "Akbar",
-        "B": "Humayun",
-        "C": "Aurangzeb",
-        "D": "Shah Jahan"
+        "A": "53",
+        "B": "54",
+        "C": "55",
+        "D": "52"
        },
-       "a": "D",
-       "concept": "Shah Jahan built the Taj Mahal in the 17th century as a mausoleum for his wife, Mumtaz Mahal.",
-       "method": "Link the monument to its purpose — a tomb of love — built by the grieving husband, Shah Jahan.",
+       "a": "B",
+       "concept": "The AU includes every internationally recognised African state.",
+       "method": "The African Union currently comprises 54 member states.",
        "difficulty": "core"
       },
       {
-       "q": "The River Thames, which flows through London, is located in",
+       "q": "Which African country's flag features the 'Union Jack' pattern?",
+       "o": {
+        "A": "Ghana",
+        "B": "Switzerland",
+        "C": "Australia",
+        "D": "None — the Union Jack is Great Britain's flag"
+       },
+       "a": "D",
+       "concept": "The 'Union Jack' is a specific name for the flag of Great Britain, not a generic pattern used elsewhere.",
+       "method": "'Union Jack' refers specifically to the flag of the United Kingdom (Great Britain), not any African nation's flag.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Where is the headquarters of the African Union located?",
+       "o": {
+        "A": "Addis Ababa",
+        "B": "Accra",
+        "C": "Lagos",
+        "D": "Abidjan"
+       },
+       "a": "A",
+       "concept": "The AU's headquarters, like several other pan-African institutions, is based in Ethiopia's capital.",
+       "method": "The African Union's headquarters is in Addis Ababa, Ethiopia.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these countries was never colonised by a foreign power?",
+       "o": {
+        "A": "Libya",
+        "B": "Liberia",
+        "C": "Togo",
+        "D": "Cameroon"
+       },
+       "a": "B",
+       "concept": "Liberia is one of only two African countries (alongside Ethiopia) never formally colonised by a foreign power.",
+       "method": "Liberia was founded and settled by freed African-American slaves in the 19th century and was never colonised.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Who was the leader of Zimbabwe (then Southern Rhodesia's successor state) for decades after independence?",
+       "o": {
+        "A": "Nelson Mandela",
+        "B": "Robert Mugabe",
+        "C": "Kenneth Kaunda",
+        "D": "Julius Nyerere"
+       },
+       "a": "B",
+       "concept": "Long-serving African heads of state are a recurring GK category.",
+       "method": "Robert Mugabe led Zimbabwe from independence in 1980 until 2017.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What is the fastest terrestrial (land) animal?",
+       "o": {
+        "A": "Lion",
+        "B": "Cheetah",
+        "C": "Puma",
+        "D": "Tiger"
+       },
+       "a": "B",
+       "concept": "A classic, frequently repeated GK/nature fact.",
+       "method": "The cheetah can reach speeds of over 100km/h, making it the fastest land animal.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which Nigerian sportsman was famous for football, playing as a left-back for Chelsea and the Super Eagles?",
+       "o": {
+        "A": "Celestine Babayaro",
+        "B": "Rashidi Yekini",
+        "C": "Jay-Jay Okocha",
+        "D": "Nwankwo Kanu"
+       },
+       "a": "A",
+       "concept": "Notable-figures questions in this exam often test recognition of a person's field, not just their name.",
+       "method": "Celestine Babayaro was a defender known for his club career at Chelsea and his time with Nigeria's national team.",
+       "difficulty": "core"
+      },
+      {
+       "q": "How many member states does the European Union have?",
+       "o": {
+        "A": "27",
+        "B": "28",
+        "C": "39",
+        "D": "30"
+       },
+       "a": "A",
+       "concept": "EU membership has changed over time — this reflects the post-Brexit count.",
+       "method": "Following the UK's withdrawal (Brexit) in 2020, the European Union has 27 member states.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The Euro currency is used by how many European countries?",
+       "o": {
+        "A": "17",
+        "B": "18",
+        "C": "19",
+        "D": "20"
+       },
+       "a": "C",
+       "concept": "Not every EU member state uses the Euro — the 'Eurozone' is a specific subset.",
+       "method": "19 EU countries currently use the Euro as their official currency (forming the Eurozone).",
+       "difficulty": "core"
+      },
+      {
+       "q": "The Taj Mahal in India was built by the Mughal emperor ______.",
+       "o": {
+        "A": "Aurangzeb",
+        "B": "Shah Jahan",
+        "C": "Akbar",
+        "D": "Humayun"
+       },
+       "a": "B",
+       "concept": "The Taj Mahal was commissioned as a mausoleum, a well-known world-monument fact.",
+       "method": "Emperor Shah Jahan built the Taj Mahal in memory of his wife, Mumtaz Mahal.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The River Thames is located in ______.",
        "o": {
         "A": "England",
         "B": "Scotland",
@@ -15125,116 +16711,558 @@ const QUIZ_DATA = {
         "D": "Finland"
        },
        "a": "A",
-       "concept": "The Thames is England's best-known river, flowing through London on its way to the North Sea.",
-       "method": "Since it runs directly through London, it must be in England.",
+       "concept": "Major world rivers are frequently paired with their host country in GK questions.",
+       "method": "The River Thames flows through southern England, including London.",
        "difficulty": "core"
       },
       {
-       "q": "The flag of the United Kingdom is popularly nicknamed the",
+       "q": "Where was coal first discovered in Nigeria?",
        "o": {
-        "A": "Tricolour",
-        "B": "Stars and Stripes",
-        "C": "Union Jack",
-        "D": "Maple Leaf"
-       },
-       "a": "C",
-       "concept": "The Union Jack combines the crosses of England, Scotland, and Ireland into a single flag representing the United Kingdom.",
-       "method": "'Union' in the nickname reflects the flag's origin — a union of separate national crosses into one design.",
-       "difficulty": "core"
-      },
-      {
-       "q": "By some measures, the most populous city in the world (by metropolitan area) is",
-       "o": {
-        "A": "Beijing",
-        "B": "Shanghai",
-        "C": "Tokyo",
-        "D": "Buenos Aires"
-       },
-       "a": "C",
-       "concept": "Tokyo's greater metropolitan area is commonly cited as the world's most populous, though rankings vary depending on how city boundaries are defined.",
-       "method": "Tokyo consistently tops most 'largest metro area' lists, even though other cities may have bigger city-proper populations.",
-       "difficulty": "core"
-      },
-      {
-       "q": "The capital of Ukraine is",
-       "o": {
-        "A": "Kazan",
-        "B": "Aden",
-        "C": "Crimea",
-        "D": "Kyiv (Kiev)"
-       },
-       "a": "D",
-       "concept": "Kyiv (traditionally spelled Kiev) is Ukraine's capital and largest city.",
-       "method": "Rule out Crimea (a peninsula/region, not a capital city) and Kazan (a Russian city).",
-       "difficulty": "core"
-      },
-      {
-       "q": "Queen Elizabeth II, Britain's longest-reigning monarch, died in 2022 after 70 years on the throne. She was succeeded as monarch by her son,",
-       "o": {
-        "A": "Prince William",
-        "B": "King Charles III",
-        "C": "Prince Harry",
-        "D": "King Edward VIII"
-       },
-       "a": "B",
-       "concept": "Following Queen Elizabeth II's death on 8 September 2022, her eldest son ascended the throne as King Charles III.",
-       "method": "The order of succession passed to the eldest child first — Charles, not his sons William or Harry.",
-       "difficulty": "core"
-      },
-      {
-       "q": "The tallest mountain in the world, measured from sea level, is",
-       "o": {
-        "A": "Kilimanjaro",
-        "B": "Everest",
-        "C": "Elbrus",
-        "D": "Mont Blanc"
-       },
-       "a": "B",
-       "concept": "Mount Everest, on the Nepal–China border, is the world's tallest mountain above sea level.",
-       "method": "Don't confuse it with Kilimanjaro, which is only the tallest peak in Africa, not the world.",
-       "difficulty": "core"
-      },
-      {
-       "q": "The world's tallest waterfall, located in Venezuela, is",
-       "o": {
-        "A": "Victoria Falls",
-        "B": "Niagara Falls",
-        "C": "Angel Falls",
-        "D": "Iguazu Falls"
-       },
-       "a": "C",
-       "concept": "Angel Falls in Venezuela is the world's tallest uninterrupted waterfall, with a total drop of about 979 metres.",
-       "method": "Rule out Victoria and Niagara, which are famous for volume rather than height.",
-       "difficulty": "core"
-      },
-      {
-       "q": "The Mediterranean is widely cited as the world's largest inland (enclosed) sea.",
-       "o": {
-        "A": "True",
-        "B": "False",
-        "C": "Only in Africa",
-        "D": "Only in Europe"
+        "A": "Enugu, in 1912",
+        "B": "Kaduna, in 1908",
+        "C": "Jos, in 1910",
+        "D": "Lagos, in 1915"
        },
        "a": "A",
-       "concept": "The Mediterranean Sea, bordered by Europe, Africa, and Asia, is commonly described as the world's largest inland or enclosed sea.",
-       "method": "'Inland/enclosed' is the key qualifier — it distinguishes the Mediterranean from larger open oceans.",
+       "concept": "Coal discovery in Enugu is directly tied to that city's later nickname, 'Coal City'.",
+       "method": "Coal was first discovered in Enugu in 1912, later shaping the city's economy and identity.",
        "difficulty": "core"
       },
       {
-       "q": "The first country to host (and win) the FIFA World Cup, in 1930, was",
+       "q": "What year did the Nigerian Civil War (Biafran War) begin?",
        "o": {
-        "A": "Brazil",
-        "B": "Uruguay",
-        "C": "Italy",
-        "D": "Argentina"
+        "A": "1966",
+        "B": "1967",
+        "C": "1968",
+        "D": "1970"
        },
        "a": "B",
-       "concept": "Uruguay hosted the inaugural FIFA World Cup in 1930 and also won the tournament on home soil.",
-       "method": "Remember it as a double 'first': first host AND first champion, both Uruguay.",
+       "concept": "The war's start (1967) and end (1970) are both commonly tested dates in Nigerian history.",
+       "method": "The Nigerian Civil War began in July 1967 and ended in January 1970.",
+       "difficulty": "core"
+      },
+      {
+       "q": "In which year was Osun State created?",
+       "o": {
+        "A": "1987",
+        "B": "1991",
+        "C": "1996",
+        "D": "1999"
+       },
+       "a": "B",
+       "concept": "Osun was created during the same 1991 state-creation exercise that produced several other states under Babangida.",
+       "method": "Osun State was created on 27 August 1991.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Where was Nigeria's first oil well located?",
+       "o": {
+        "A": "Oloibiri, Bayelsa State",
+        "B": "Warri, Delta State",
+        "C": "Port Harcourt, Rivers State",
+        "D": "Bonny, Rivers State"
+       },
+       "a": "A",
+       "concept": "This is the same historic well location tested elsewhere as 'where petroleum was first discovered'.",
+       "method": "Nigeria's first commercially viable oil well was drilled at Oloibiri, in present-day Bayelsa State.",
+       "difficulty": "core"
+      },
+      {
+       "q": "When did the seat of Nigeria's Federal Government move from Lagos to Abuja?",
+       "o": {
+        "A": "December 12, 1991",
+        "B": "October 1, 1990",
+        "C": "May 29, 1999",
+        "D": "December 1, 1988"
+       },
+       "a": "A",
+       "concept": "This marks the formal transfer of the capital, distinct from when the FCT was first created by decree (1976).",
+       "method": "The seat of government officially moved to Abuja on 12 December 1991.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Who was the first Nigerian to buy a car?",
+       "o": {
+        "A": "Herbert Macaulay",
+        "B": "Nnamdi Azikiwe",
+        "C": "Obafemi Awolowo",
+        "D": "Ahmadu Bello"
+       },
+       "a": "A",
+       "concept": "A distinct 'first' from 'first woman to buy/drive a car' — pay attention to exactly which 'first' is being asked.",
+       "method": "Herbert Macaulay is recognised as the first Nigerian to own a car.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The first African to win the Nobel Prize for Literature was ______.",
+       "o": {
+        "A": "Chinua Achebe",
+        "B": "Wole Soyinka",
+        "C": "Nadine Gordimer",
+        "D": "Naguib Mahfouz"
+       },
+       "a": "B",
+       "concept": "Wole Soyinka's 1986 Nobel win was a landmark moment for African literature.",
+       "method": "Wole Soyinka won the Nobel Prize for Literature in 1986, the first African to do so.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Nigeria changed to the metric currency system (naira and kobo) on ______.",
+       "o": {
+        "A": "January 1, 1973",
+        "B": "July 1, 1959",
+        "C": "October 1, 1960",
+        "D": "April 1, 1972"
+       },
+       "a": "A",
+       "concept": "This marked the switch away from the pounds/shillings/pence system inherited from British rule.",
+       "method": "Nigeria adopted the naira and kobo, replacing the pound sterling system, on 1 January 1973.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What is the largest continent in the world?",
+       "o": {
+        "A": "Asia",
+        "B": "Africa",
+        "C": "North America",
+        "D": "Europe"
+       },
+       "a": "A",
+       "concept": "A frequently tested basic geography fact.",
+       "method": "Asia is the largest continent both by land area and population.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What is the smallest continent in the world?",
+       "o": {
+        "A": "Europe",
+        "B": "Antarctica",
+        "C": "Australia",
+        "D": "South America"
+       },
+       "a": "C",
+       "concept": "Australia is often called a continent in its own right, distinct from the wider 'Oceania' region.",
+       "method": "Australia is the smallest of the seven continents by land area.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which country first hosted the FIFA World Cup, and also won it?",
+       "o": {
+        "A": "Brazil, in 1950",
+        "B": "Uruguay, in 1930",
+        "C": "Italy, in 1934",
+        "D": "France, in 1938"
+       },
+       "a": "B",
+       "concept": "The first-ever World Cup was both hosted and won by the same country.",
+       "method": "Uruguay hosted the inaugural FIFA World Cup in 1930 and also won the tournament.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which country was the first to win the FIFA U-17 World Cup?",
+       "o": {
+        "A": "Nigeria, in 1985, in China",
+        "B": "Brazil, in 1985",
+        "C": "Germany, in 1985",
+        "D": "Ghana, in 1991"
+       },
+       "a": "A",
+       "concept": "Nigeria has a strong historical record in age-grade football tournaments, starting with this landmark win.",
+       "method": "Nigeria won the first FIFA U-17 World Championship (as it was then called) in China in 1985.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What is the longest river in Africa?",
+       "o": {
+        "A": "River Congo",
+        "B": "River Niger",
+        "C": "River Nile",
+        "D": "River Zambezi"
+       },
+       "a": "C",
+       "concept": "A classic, frequently repeated geography fact about Africa.",
+       "method": "The River Nile, at roughly 6,650km, is the longest river in Africa (and among the longest in the world).",
+       "difficulty": "core"
+      },
+      {
+       "q": "What is the highest waterfall in the world?",
+       "o": {
+        "A": "Niagara Falls",
+        "B": "Angel Falls, Venezuela",
+        "C": "Victoria Falls",
+        "D": "Iguazu Falls"
+       },
+       "a": "B",
+       "concept": "Angel Falls is famous specifically for its height, not its water volume (unlike Niagara or Victoria Falls).",
+       "method": "Angel Falls in Venezuela is the world's highest uninterrupted waterfall.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What is the highest mountain in Africa?",
+       "o": {
+        "A": "Mount Kenya",
+        "B": "Mount Kilimanjaro",
+        "C": "Atlas Mountains",
+        "D": "Mount Cameroon"
+       },
+       "a": "B",
+       "concept": "Kilimanjaro (in Tanzania) is Africa's highest peak, distinct from Everest (the world's highest overall).",
+       "method": "Mount Kilimanjaro, in Tanzania, is Africa's tallest mountain.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What is the largest sea in the world?",
+       "o": {
+        "A": "Mediterranean Sea",
+        "B": "Caribbean Sea",
+        "C": "South China Sea",
+        "D": "Red Sea"
+       },
+       "a": "A",
+       "concept": "Note the distinction between 'sea' (this question) and 'ocean' (a separate, larger category).",
+       "method": "The Mediterranean Sea is considered the world's largest sea by area.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which university is considered the first university in the world?",
+       "o": {
+        "A": "University of Oxford",
+        "B": "Al-Azhar University, Cairo",
+        "C": "University of Bologna",
+        "D": "Harvard University"
+       },
+       "a": "B",
+       "concept": "Founding dates for the 'oldest university' claim can vary by definition, but Al-Azhar is commonly cited in this context.",
+       "method": "Al-Azhar University in Cairo, Egypt, founded around 970 AD, is often cited as the world's first/oldest university.",
+       "difficulty": "core"
+      },
+      {
+       "q": "An election held to fill a single vacant seat in a legislature (outside the normal election cycle) is called a ______.",
+       "o": {
+        "A": "by-election",
+        "B": "general election",
+        "C": "referendum",
+        "D": "plebiscite"
+       },
+       "a": "A",
+       "concept": "A by-election fills one specific vacant seat, unlike a general election, which covers the whole legislature.",
+       "method": "A by-election is specifically held to fill a vacant seat, separate from the regular general election cycle.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these countries does NOT operate a federal system of government?",
+       "o": {
+        "A": "USA",
+        "B": "Nigeria",
+        "C": "Canada",
+        "D": "France"
+       },
+       "a": "D",
+       "concept": "Federal systems divide power between central and state/regional governments; unitary systems, like France's, concentrate power centrally.",
+       "method": "France operates a unitary system of government, unlike the USA, Nigeria, and Canada, which are all federations.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The main advantage of the secret ballot is that it ______.",
+       "o": {
+        "A": "is faster than other voting systems",
+        "B": "prevents anyone from being stopped from voting",
+        "C": "ensures the anonymity of each voter",
+        "D": "allows losers to request a re-vote"
+       },
+       "a": "C",
+       "concept": "Secrecy in voting is designed to protect voters from intimidation or retaliation for how they voted.",
+       "method": "The secret ballot's core purpose is to keep each voter's choice private (anonymous).",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which African country made the earliest contact with Nigerian society among the following options?",
+       "o": {
+        "A": "British",
+        "B": "Portuguese",
+        "C": "French",
+        "D": "German"
+       },
+       "a": "B",
+       "concept": "European contact with the Nigerian coast predates British colonial rule by centuries.",
+       "method": "The Portuguese were the first Europeans to make contact with what is now Nigeria, arriving in the late 15th century, well before British colonisation.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What is Universal Adult Suffrage?",
+       "o": {
+        "A": "Only literate citizens can vote",
+        "B": "All citizens can vote",
+        "C": "All qualified adult citizens can vote",
+        "D": "Only adult males can vote"
+       },
+       "a": "C",
+       "concept": "Universal suffrage still requires meeting basic qualifying conditions (age, citizenship) — it isn't literally unconditional for everyone.",
+       "method": "Universal Adult Suffrage means all qualified adult citizens (regardless of gender, race, or wealth) have the right to vote.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A social system in which power is derived from control over land is called ______.",
+       "o": {
+        "A": "Oligarchy",
+        "B": "Feudalism",
+        "C": "Socialism",
+        "D": "Welfarism"
+       },
+       "a": "B",
+       "concept": "Feudalism was the dominant land-based power structure in medieval Europe.",
+       "method": "Feudalism ties political and social power directly to land ownership and control.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Bicameral legislature (a legislature with two chambers) exists mainly to ______.",
+       "o": {
+        "A": "allow more media coverage of proceedings",
+        "B": "prevent the concentration of power in one legislative house",
+        "C": "provide more jobs for politicians",
+        "D": "ensure only just laws are passed"
+       },
+       "a": "B",
+       "concept": "Having two chambers creates a built-in check, as legislation typically must pass through both before becoming law.",
+       "method": "A bicameral structure primarily prevents power from concentrating in a single legislative chamber.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Under the Marxist theory, people who live by selling their labour (rather than owning capital) are called ______.",
+       "o": {
+        "A": "Bourgeoisie",
+        "B": "Proletariats",
+        "C": "Feudal lords",
+        "D": "Slaves"
+       },
+       "a": "B",
+       "concept": "Marxist theory divides society mainly into two classes based on their relationship to the means of production.",
+       "method": "The proletariat is the working class that sells its labour, as distinct from the bourgeoisie, who own capital/means of production.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is NOT an acceptable, constitutional means of achieving democratic change?",
+       "o": {
+        "A": "Referendum",
+        "B": "Recall",
+        "C": "Initiative",
+        "D": "Riots"
+       },
+       "a": "D",
+       "concept": "Riots fall outside the recognised, legal mechanisms citizens use to influence or change government.",
+       "method": "Referendum, recall, and initiative are all formal democratic tools; riots are an extra-constitutional (illegal) means.",
+       "difficulty": "core"
+      },
+      {
+       "q": "In a democracy, sovereignty is ultimately vested in ______.",
+       "o": {
+        "A": "the community/the people",
+        "B": "public officials",
+        "C": "judges",
+        "D": "the head of state"
+       },
+       "a": "A",
+       "concept": "A core principle of democratic theory is that ultimate political authority belongs to the citizenry, not any individual official.",
+       "method": "Sovereignty in a democracy resides with the people (the community), who delegate authority to elected officials.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A law passed by the legislature and formally assented to by the executive is called a(n) ______.",
+       "o": {
+        "A": "Act",
+        "B": "Presidential proclamation",
+        "C": "Decree",
+        "D": "Legislative order"
+       },
+       "a": "A",
+       "concept": "Distinguish an 'Act' (passed by a legislature, needing executive assent) from a 'Decree' (issued directly by a military/executive authority without a legislature).",
+       "method": "A bill becomes an Act once it has passed through the legislature and received the executive's assent.",
+       "difficulty": "core"
+      },
+      {
+       "q": "An important principle of the civil service is ______.",
+       "o": {
+        "A": "Authoritarianism",
+        "B": "Anonymity",
+        "C": "Nepotism",
+        "D": "Partisanship"
+       },
+       "a": "B",
+       "concept": "Civil servants are expected to remain politically neutral and not publicly take credit or blame — that responsibility belongs to their political heads.",
+       "method": "Civil service anonymity means officials aren't personally credited or blamed for policy outcomes; that responsibility rests with elected political leaders.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What was the primary purpose of the Sir Henry Willink's Commission of Inquiry (Nigeria, 1957)?",
+       "o": {
+        "A": "To approve Nigeria's independence",
+        "B": "To allay the fears of ethnic minorities in Nigeria",
+        "C": "To amalgamate Northern and Southern Nigeria",
+        "D": "To make Lagos a British colony"
+       },
+       "a": "B",
+       "concept": "The Willink Commission was specifically set up in response to minority groups' concerns ahead of independence.",
+       "method": "The 1957 Willink Commission investigated and sought to address the fears of Nigeria's ethnic minorities regarding the post-independence political structure.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The first Governor-General of colonial Nigeria was ______.",
+       "o": {
+        "A": "Sir Hugh Clifford",
+        "B": "Sir James Robertson",
+        "C": "Lord Lugard",
+        "D": "Sir Ralph Moore"
+       },
+       "a": "C",
+       "concept": "Lord Lugard oversaw the 1914 amalgamation and became the first person to hold this specific title.",
+       "method": "Lord Frederick Lugard became Nigeria's first Governor-General following the 1914 amalgamation.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The first military government in Nigeria was headed by ______.",
+       "o": {
+        "A": "General Yakubu Gowon",
+        "B": "General Aguiyi-Ironsi",
+        "C": "General Murtala Muhammed",
+        "D": "General Olusegun Obasanjo"
+       },
+       "a": "B",
+       "concept": "This tests the FIRST military head of state specifically, following the January 1966 coup.",
+       "method": "General Aguiyi-Ironsi headed Nigeria's first military government from January 1966.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Traditional Nigerian rulers were restricted to purely ceremonial roles by the local government reforms of which year?",
+       "o": {
+        "A": "1966",
+        "B": "1976",
+        "C": "1984",
+        "D": "1987"
+       },
+       "a": "B",
+       "concept": "The 1976 local government reform significantly reshaped the role of traditional rulers within Nigeria's formal governance structure.",
+       "method": "The 1976 local government reforms reduced traditional rulers to largely ceremonial functions.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these institutions existed before the outbreak of the Second World War?",
+       "o": {
+        "A": "The OAU",
+        "B": "The League of Nations",
+        "C": "The UNO",
+        "D": "ECOWAS"
+       },
+       "a": "B",
+       "concept": "The League of Nations (founded 1920) was the UN's failed predecessor, active between the two World Wars.",
+       "method": "The League of Nations existed from 1920 to 1946, before World War II broke out; the OAU, UNO, and ECOWAS were all founded after WWII.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The N.C.N.C sent a delegation to London in 1947 to protest against the ______.",
+       "o": {
+        "A": "Burns Constitution",
+        "B": "Richards Constitution",
+        "C": "Littleton Constitution",
+        "D": "Macpherson Constitution"
+       },
+       "a": "B",
+       "concept": "Each of Nigeria's colonial-era constitutions is tied to a specific controversy or reform.",
+       "method": "The NCNC's 1947 protest delegation to London was against the Richards Constitution, which the party felt was imposed without adequate consultation.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The transfer of authority to a local government council is known as ______.",
+       "o": {
+        "A": "Devolution",
+        "B": "Delegation",
+        "C": "Fusion",
+        "D": "Fragmentation"
+       },
+       "a": "A",
+       "concept": "Devolution specifically refers to the transfer of governing power to a lower/local level of administration.",
+       "method": "Devolution describes power being formally transferred to local government councils.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A popular principle of colonial administration in British West Africa was ______.",
+       "o": {
+        "A": "Association",
+        "B": "Indirect rule",
+        "C": "Paternalism",
+        "D": "Assimilation"
+       },
+       "a": "B",
+       "concept": "British colonial policy in West Africa is famously associated with governing through existing local rulers, distinct from the French approach of direct rule/assimilation.",
+       "method": "Indirect rule — governing through existing traditional authorities — was Britain's characteristic colonial administrative principle in West Africa.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A cabinet system of government is practised in ______.",
+       "o": {
+        "A": "Britain and Canada",
+        "B": "The Soviet Union",
+        "C": "All European countries including Britain",
+        "D": "The United States of America"
+       },
+       "a": "A",
+       "concept": "The cabinet system (a parliamentary system with a cabinet drawn from the legislature) is characteristic of the Westminster model, used by Britain and Commonwealth countries like Canada.",
+       "method": "Britain and Canada, both Westminster-style parliamentary democracies, practise the cabinet system.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Under the Presidential system of government, ______.",
+       "o": {
+        "A": "the party with a majority of seats automatically forms the executive",
+        "B": "there is a principle of collective responsibility",
+        "C": "the president may come from any of the parties, elected separately from the legislature",
+        "D": "states take direct instruction from the federal government"
+       },
+       "a": "C",
+       "concept": "Under a presidential system (unlike a parliamentary one), the executive head is elected separately from the legislature.",
+       "method": "A defining feature of the presidential system is that the president is elected independently of the legislature and need not come from the majority party.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these made the earliest contact with Nigerian society among European powers?",
+       "o": {
+        "A": "British",
+        "B": "Portuguese",
+        "C": "French",
+        "D": "German"
+       },
+       "a": "B",
+       "concept": "This confirms and reinforces the earlier fact: the Portuguese preceded British contact by centuries.",
+       "method": "The Portuguese first reached the West African coast, including present-day Nigeria, in the late 15th century — well before British involvement.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A major factor differentiating the presidential system from the parliamentary system is ______.",
+       "o": {
+        "A": "separation of powers",
+        "B": "judicial independence",
+        "C": "the passage of bills",
+        "D": "the party system"
+       },
+       "a": "A",
+       "concept": "Separation of powers (keeping the executive, legislature, and judiciary distinct) is a hallmark of the presidential system, unlike the fused executive-legislature relationship in parliamentary systems.",
+       "method": "The presidential system's key distinguishing feature is a strict separation of powers among the three branches of government.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A major issue that distinguishes pressure groups from political parties is ______.",
+       "o": {
+        "A": "membership",
+        "B": "their objective",
+        "C": "voting patterns",
+        "D": "ideology"
+       },
+       "a": "B",
+       "concept": "Pressure groups seek to influence policy without seeking to win elections or govern directly, unlike political parties.",
+       "method": "The key distinguishing factor is their objective: political parties seek to win political power directly, while pressure groups only seek to influence those already in power.",
        "difficulty": "core"
       }
      ],
-     "freq": 53
+     "freq": 96
     },
     {
      "id": "geo",
@@ -15401,35 +17429,9 @@ const QUIZ_DATA = {
        "concept": "A confluence is where two rivers join — Nigeria's most significant one defines a state's identity.",
        "method": "The River Benue joins the River Niger at Lokoja, in Kogi State.",
        "difficulty": "core"
-      },
-      {
-       "q": "Lake Chad, one of Africa's largest freshwater lakes, is situated mainly in which Nigerian state?",
-       "o": {
-        "A": "Adamawa",
-        "B": "Borno",
-        "C": "Taraba",
-        "D": "Sokoto"
-       },
-       "a": "B",
-       "concept": "Lake Chad borders Nigeria's Borno State in the north-east, along with Chad, Niger, and Cameroon.",
-       "method": "Link the lake's name to the country it's named after (Chad) — Borno State is Nigeria's north-eastern gateway to that border region.",
-       "difficulty": "core"
-      },
-      {
-       "q": "Which of these Nigerian states does NOT share a border with the Republic of Niger?",
-       "o": {
-        "A": "Sokoto",
-        "B": "Katsina",
-        "C": "Kano",
-        "D": "Borno"
-       },
-       "a": "C",
-       "concept": "Seven Nigerian states border the Republic of Niger: Sokoto, Kebbi, Zamfara, Katsina, Jigawa, Yobe, and Borno. Kano is not among them.",
-       "method": "Kano sits just south of the actual border states, so despite being a major northern state, it doesn't touch Niger Republic directly.",
-       "difficulty": "core"
       }
      ],
-     "freq": 19
+     "freq": 17
     },
     {
      "id": "unilorin",
@@ -15517,9 +17519,35 @@ const QUIZ_DATA = {
        "concept": "UNN was founded in 1960, the same year as Nigeria's independence.",
        "method": "Associate UNN's founding with independence year: 1960.",
        "difficulty": "core"
+      },
+      {
+       "q": "Who is the current Vice-Chancellor of the University of Ilorin?",
+       "o": {
+        "A": "Prof Is-haq Oloyede",
+        "B": "Prof Wahab Egbewole",
+        "C": "Prof Abdul Ganiyu Ambali",
+        "D": "Prof Sulyman Age Abdulkareem"
+       },
+       "a": "B",
+       "concept": "Knowing the current leadership of the university you're applying to is a natural, directly relevant GK fact.",
+       "method": "Prof Wahab Olasupo Egbewole, SAN, has served as Unilorin's 11th Vice-Chancellor since October 2022.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What is the University of Ilorin's official slogan?",
+       "o": {
+        "A": "Character and Learning",
+        "B": "Better by Far",
+        "C": "Unity and Progress",
+        "D": "Knowledge is Power"
+       },
+       "a": "B",
+       "concept": "Unilorin's slogan is distinct from its Latin motto ('Probitas Doctrina', meaning 'Character and Learning').",
+       "method": "Unilorin's official slogan is 'Better by Far'.",
+       "difficulty": "core"
       }
      ],
-     "freq": 7
+     "freq": 9
     },
     {
      "id": "science",
@@ -16052,20 +18080,59 @@ const QUIZ_DATA = {
        "difficulty": "core"
       },
       {
-       "q": "A private network similar to a company's internal intranet, but opened up to external parties such as business partners or key customers, is called an",
+       "q": "What is the meaning of the acronym ATM?",
        "o": {
-        "A": "Extranet",
-        "B": "Internet",
-        "C": "LAN",
-        "D": "VPN"
+        "A": "Automatic Teller Machine",
+        "B": "Authentic Teller Machine",
+        "C": "Argument Teller Machine",
+        "D": "Automated Teller Machine"
+       },
+       "a": "D",
+       "concept": "A commonly-used everyday acronym whose precise wording is worth knowing exactly.",
+       "method": "ATM stands for Automated Teller Machine.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What is the meaning of the acronym ICT?",
+       "o": {
+        "A": "Information and Communication Technology",
+        "B": "Information Communication Technology",
+        "C": "International Communication Technology",
+        "D": "Internal Community Technology"
        },
        "a": "A",
-       "concept": "An extranet extends a private network to trusted outsiders, allowing controlled data exchange with partners or suppliers.",
-       "method": "Think 'extra' + 'net' — a network extended just beyond the organisation's own walls, unlike a fully public internet.",
+       "concept": "ICT is one of the most commonly tested tech acronyms — note the 'and' that many mistakenly drop.",
+       "method": "ICT stands for Information and Communication Technology.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What is the meaning of the acronym CBT (as used in computer-based exams)?",
+       "o": {
+        "A": "Computer Basic Technology",
+        "B": "Computer Basic Test",
+        "C": "Computer Based Test",
+        "D": "Central Based Test"
+       },
+       "a": "C",
+       "concept": "Since the Post-UTME itself is delivered as a CBT, this is a directly relevant acronym to know.",
+       "method": "CBT stands for Computer Based Test — the exact exam format you'll be sitting.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which mountain is the tallest in the world?",
+       "o": {
+        "A": "Mount Everest",
+        "B": "Mount Kilimanjaro",
+        "C": "Mount Elbrus",
+        "D": "Mont Blanc"
+       },
+       "a": "A",
+       "concept": "Everest is the world's highest peak above sea level; Kilimanjaro is only Africa's tallest, a common mix-up.",
+       "method": "Mount Everest, in the Himalayas, stands at about 8,849m — the tallest mountain on Earth.",
        "difficulty": "core"
       }
      ],
-     "freq": 43
+     "freq": 46
     },
     {
      "id": "biology",
@@ -16336,9 +18403,35 @@ const QUIZ_DATA = {
        "concept": "Several bones in the body exist specifically to protect a vital organ — matching bone to organ is a common GK pairing.",
        "method": "Patella (knee), scapula (shoulder blade) and tibia (shin) are all limb bones; only the skull encloses the brain.",
        "difficulty": "core"
+      },
+      {
+       "q": "AIDS is the acronym for ______.",
+       "o": {
+        "A": "Acquired Immune Deficiency Syndrome",
+        "B": "Advanced Immune Disease Syndrome",
+        "C": "Acute Infectious Disease Syndrome",
+        "D": "Acquired Infectious Deficiency Syndrome"
+       },
+       "a": "A",
+       "concept": "Health-related acronyms are commonly tested — the exact wording matters, not just the general idea.",
+       "method": "AIDS stands for Acquired Immune Deficiency Syndrome, caused by the HIV virus.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What is another name for a phobia involving fear of water?",
+       "o": {
+        "A": "Nyctophobia",
+        "B": "Thanatophobia",
+        "C": "Astrophobia",
+        "D": "Aquaphobia"
+       },
+       "a": "D",
+       "concept": "Phobia names generally combine a Greek root for the feared object with '-phobia'.",
+       "method": "'Aqua' relates to water, giving aquaphobia — fear of water. (Nyctophobia = fear of darkness, thanatophobia = fear of death.)",
+       "difficulty": "core"
       }
      ],
-     "freq": 20
+     "freq": 22
     },
     {
      "id": "trivia2",
@@ -16507,59 +18600,202 @@ const QUIZ_DATA = {
        "difficulty": "core"
       },
       {
-       "q": "The first television station in Nigeria (and in tropical Africa) was",
+       "q": "What is the meaning of the acronym IMF?",
        "o": {
-        "A": "NTA",
-        "B": "WNTV",
-        "C": "STV",
-        "D": "ITV"
+        "A": "Internet Money Found",
+        "B": "International Monetary Found",
+        "C": "International Money Found",
+        "D": "International Monetary Fund"
        },
-       "a": "B",
-       "concept": "WNTV (Western Nigeria Television), launched in Ibadan in 1959 by the Western Region government, was the first TV station in Nigeria and tropical Africa.",
-       "method": "NTA came much later, as a national network formed after WNTV and other regional stations already existed.",
+       "a": "D",
+       "concept": "Getting the exact wording of common international-organisation acronyms right (not just the general idea) is what these questions test.",
+       "method": "IMF stands for International Monetary Fund, a UN-affiliated financial institution.",
        "difficulty": "core"
       },
       {
-       "q": "The first woman to drive a car in Nigeria is widely credited as",
+       "q": "What is the meaning of the acronym NTA?",
        "o": {
-        "A": "Madam Efunroye Tinubu",
-        "B": "Funmilayo Ransome-Kuti",
-        "C": "Grace Alele-Williams",
-        "D": "Margaret Ekpo"
+        "A": "Nigerian Television Agency",
+        "B": "National Television Authority",
+        "C": "Nigerian Testing Authority",
+        "D": "Nigerian Television Authority"
        },
-       "a": "B",
-       "concept": "Funmilayo Ransome-Kuti is credited as the first woman to drive a car in Nigeria.",
-       "method": "Distinguish this from Efunroye Tinubu, who is credited as the first woman to buy a car, not drive one.",
+       "a": "D",
+       "concept": "NTA is Nigeria's oldest and largest TV network — worth knowing the exact expansion.",
+       "method": "NTA stands for Nigerian Television Authority.",
        "difficulty": "core"
       },
       {
-       "q": "The first person credited with buying (owning) a car in Nigeria, ahead of most men of her era, was",
+       "q": "Ebonyi State was created from parts of which two states?",
        "o": {
-        "A": "Funmilayo Ransome-Kuti",
-        "B": "Madam Efunroye Tinubu",
-        "C": "Flora Shaw",
-        "D": "Margaret Ekpo"
+        "A": "Imo and Enugu",
+        "B": "Enugu and Abia",
+        "C": "Abakaliki and Enugu",
+        "D": "Imo and Owerri"
        },
        "a": "B",
-       "concept": "Madam Efunroye Tinubu, a powerful 19th-century Lagos merchant and political figure, is credited as the first person to buy a car in Nigeria.",
-       "method": "Separate 'first to buy/own' (Tinubu) from 'first to drive' (Ransome-Kuti) — they're commonly paired trivia facts.",
+       "concept": "Several Nigerian states were carved out of two or more older states — a common GK pairing category.",
+       "method": "Ebonyi State was created in 1996 from parts of Enugu and Abia States.",
        "difficulty": "core"
       },
       {
-       "q": "Nigeria's Golden Eaglets became the first country to win the FIFA U-16/U-17 World Championship, doing so in 1985 in",
+       "q": "MSG, a common food additive, stands for ______.",
        "o": {
-        "A": "China",
-        "B": "Japan",
-        "C": "Nigeria",
-        "D": "Brazil"
+        "A": "Message",
+        "B": "Monosodium glutamate",
+        "C": "Mines",
+        "D": "None of the above"
+       },
+       "a": "B",
+       "concept": "A food-science acronym occasionally tested alongside more common GK abbreviations.",
+       "method": "MSG stands for monosodium glutamate, a flavour-enhancing compound.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Tin and columbite have historically been mined for commercial purposes in which Nigerian state?",
+       "o": {
+        "A": "Kano",
+        "B": "Plateau",
+        "C": "Lagos",
+        "D": "Niger"
+       },
+       "a": "B",
+       "concept": "Plateau State's mining history (particularly tin) is a recurring GK fact tied to Jos and the colonial-era economy.",
+       "method": "Plateau State, especially around Jos, has long been Nigeria's centre for tin and columbite mining.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Where is Obudu Ranch located?",
+       "o": {
+        "A": "Lagos State",
+        "B": "Kwara State",
+        "C": "Nasarawa State",
+        "D": "Cross River State"
+       },
+       "a": "D",
+       "concept": "Obudu Ranch (Obudu Mountain Resort) is a well-known Nigerian tourist destination often paired with its host state.",
+       "method": "Obudu Ranch is located in Cross River State, in south-eastern Nigeria.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is NOT a secondary colour (formed by mixing two primary colours)?",
+       "o": {
+        "A": "Purple",
+        "B": "Green",
+        "C": "Orange",
+        "D": "Yellow"
+       },
+       "a": "D",
+       "concept": "Yellow is itself a primary colour, not a mixture of two others.",
+       "method": "Purple (red+blue), green (blue+yellow), and orange (red+yellow) are secondary colours; yellow is primary.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What do the horses (chargers) in Nigeria's coat of arms represent?",
+       "o": {
+        "A": "Unity",
+        "B": "Strength and dignity",
+        "C": "Speed",
+        "D": "Agriculture"
+       },
+       "a": "B",
+       "concept": "Each element of the coat of arms carries a specific symbolic meaning worth knowing individually.",
+       "method": "The two supporting horses on the coat of arms represent dignity, while the eagle above represents strength.",
+       "difficulty": "core"
+      },
+      {
+       "q": "What does the black shield in Nigeria's coat of arms represent?",
+       "o": {
+        "A": "Mourning",
+        "B": "Nigeria's fertile soil",
+        "C": "The colonial past",
+        "D": "Unity"
+       },
+       "a": "B",
+       "concept": "The coat of arms uses colour and imagery deliberately — black here is agricultural, not funereal.",
+       "method": "The black shield represents Nigeria's fertile soil, with the wavy white band symbolising the meeting of the Niger and Benue Rivers.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Nigeria's national flower, featured on the coat of arms, is the ______.",
+       "o": {
+        "A": "Hibiscus",
+        "B": "Costus spectabilis",
+        "C": "Bougainvillea",
+        "D": "Frangipani"
+       },
+       "a": "B",
+       "concept": "A specific, less commonly known botanical fact tied to national symbols.",
+       "method": "Costus spectabilis (also called 'bush lily') is Nigeria's national flower, chosen for its widespread presence across the country.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Who was the first African to become Chairman of the Organisation of African Unity (OAU)?",
+       "o": {
+        "A": "Tafawa Balewa",
+        "B": "Murtala Muhammed",
+        "C": "Yakubu Gowon",
+        "D": "Aguiyi-Ironsi"
+       },
+       "a": "C",
+       "concept": "Note this refers to the first NIGERIAN to chair the OAU, a notable diplomatic milestone.",
+       "method": "General Yakubu Gowon became the first Nigerian leader to chair the OAU.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Queen Elizabeth II died in which year, ending 70 years on the British throne?",
+       "o": {
+        "A": "2020",
+        "B": "2021",
+        "C": "2022",
+        "D": "2023"
+       },
+       "a": "C",
+       "concept": "Her death in September 2022 marked the end of Britain's longest-reigning monarch's rule.",
+       "method": "Queen Elizabeth II died on 8 September 2022, aged 96, after 70 years on the throne.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Where was the first storey building in Nigeria located?",
+       "o": {
+        "A": "Lagos Island",
+        "B": "Badagry",
+        "C": "Calabar",
+        "D": "Abeokuta"
+       },
+       "a": "B",
+       "concept": "This is one of Nigeria's most cited colonial-era 'firsts', tied to early Christian missionary activity.",
+       "method": "Nigeria's first storey building was constructed in Badagry.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A collection of flags is known as a ______.",
+       "o": {
+        "A": "Bunting",
+        "B": "Blunting",
+        "C": "Cluster",
+        "D": "Gallery"
        },
        "a": "A",
-       "concept": "Nigeria's Golden Eaglets won the inaugural FIFA U-16 World Championship in China in 1985.",
-       "method": "It was the very first edition of the tournament, held in China, with Nigeria as the first-ever champion.",
+       "concept": "Collective nouns for objects (not just animals) are occasionally tested too.",
+       "method": "A collection or display of flags/small pennants is called a bunting.",
+       "difficulty": "core"
+      },
+      {
+       "q": "In book publishing, the term for a collection of literary works (poems, stories, etc.) by different authors is a(n) ______.",
+       "o": {
+        "A": "Epic",
+        "B": "Anthology",
+        "C": "Calibration",
+        "D": "Calligraphy"
+       },
+       "a": "B",
+       "concept": "An anthology is specifically a compiled collection, distinct from a single long narrative work (an epic).",
+       "method": "An anthology is a published collection of selected literary pieces, often by multiple authors.",
        "difficulty": "core"
       }
      ],
-     "freq": 65
+     "freq": 76
     }
    ]
   }

@@ -1,7 +1,7 @@
 # Unilorin Post-UTME — Interactive Study Guide
 
 An interactive, concept-first practice tool for the University of Ilorin
-Post-UTME screening exam. 1,249 curated questions across English, Maths, and
+Post-UTME screening exam. 1,421 curated questions across English, Maths, and
 General Knowledge — including a dedicated Biology & Life Science topic —
 weighted to match the real exam (80% English / 10% Maths / 10% G.K.), with
 a topic browser ranked by real past-paper reoccurrence, instant feedback +
@@ -16,7 +16,7 @@ unilorin-postutme-prep/
 ├── css/
 │   └── styles.css    All styling (design tokens, layout, components)
 ├── js/
-│   ├── data.js        The question bank (1,249 questions), as a global QUIZ_DATA object
+│   ├── data.js        The question bank (1,421 questions), as a global QUIZ_DATA object
 │   └── app.js          Application logic (rendering, quiz engine, state)
 └── README.md          This file
 ```
@@ -88,13 +88,16 @@ analysis:
 1. **The original 976-question bank** was already built from past-paper
    mining, so each topic's existing question count is treated as a first
    signal of how often that topic shows up.
-2. **Six additional past-question PDF archives** (2006–2017-ish Unilorin
-   Post-UTME papers, ~1,850 raw questions before cleanup) were parsed,
-   de-duplicated against each other and against the existing bank
-   (~790 genuinely distinct historical questions remained), and
-   classified into the same topic taxonomy using keyword/pattern
-   matching. Each topic's match count in this fresh corpus is the second
-   signal.
+2. **Additional past-question archives** have been folded in over several
+   rounds — six PDF compilations of 2006–2017-ish Unilorin Post-UTME
+   papers, a 2021 "past questions with detailed explanations" compilation,
+   a current-affairs/civics booklet, a collocations/vocabulary study
+   guide, and a worked-example sheet on adverbial/adjectival word order.
+   Each was parsed, de-duplicated against everything already in the bank,
+   fact-checked (dropping or rewriting anything that turned out to be
+   stale, ambiguous, or simply wrong in the source), and classified into
+   the same topic taxonomy. Each topic's match count across this combined
+   corpus is the second signal.
 
 `freq = existing bank count + new corpus match count`. The topic browser
 (`openSubject` in `js/app.js`) sorts topics within each subject by this
@@ -119,27 +122,6 @@ archive, hand-verified, and written with the same concept/method
 explanation style as the rest of the bank. Unilorin's Post-UTME does not
 have separate Biology/Chemistry/Physics papers — science content only
 appears as General Knowledge trivia — so that's where it's grouped here.
-
-**Latest update (+130 questions, 1,119 → 1,249):** four more source
-documents were parsed — a Babs Reporting-compiled Post-UTME study guide,
-a Malexy current-affairs Q&A compilation, a 2021 Unilorin past-questions
-archive, and a grammar reference on adverbial/adjectival word order.
-Additions: 20 spelling words, 18 preposition/collocation drills, 16
-vocabulary-in-context items (Latin/Greek "-cide" and "mis-/mono-/poly-"
-word families), 17 idioms, 2 synonym and 2 antonym items, and 14 sentence
-structure questions built around the MPT (manner-place-time) and MG
-S-SAC-Verb-Noun-Head ordering rules — under English; and 24 Nigerian
-government/history items (currency history, CBN governors, NIS, 1957
-self-government, ECOWAS, the coat of arms), 10 world affairs/geography
-items, 4 culture/notable-figures items, 2 geography items, and 1 general
-science item — under General Knowledge. Every added fact was checked
-against current, reliable sources during compilation; a few errors in the
-source PDFs (e.g. a wrong name for Nigeria's last colonial
-Governor-General, a stale EU member count, an outdated "current" office
-holder) were caught and corrected or dropped rather than reproduced.
-Time-sensitive facts about currently serving office holders were
-deliberately left out, in keeping with this bank's existing caution about
-such details going stale.
 
 ## Notes
 
