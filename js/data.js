@@ -2763,9 +2763,243 @@ const QUIZ_DATA = {
        "concept": "'Devote oneself TO' is a fixed verb-preposition pairing in English.",
        "method": "'Devoted to' always pairs with 'to' + the -ing form, never 'in', 'at', or 'by'.",
        "difficulty": "core"
+      },
+      {
+       "q": "You can confide _____ me; I won't tell anyone.",
+       "o": {
+        "A": "in",
+        "B": "to",
+        "C": "on",
+        "D": "with"
+       },
+       "a": "A",
+       "concept": "'Confide in' someone means to trust them with a secret.",
+       "method": "Pair 'confide' with 'in' when it means 'trust'; 'confide to' is used when it means 'tell/reveal'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The clerk was suspected of conniving _____ the fraud.",
+       "o": {
+        "A": "at",
+        "B": "in",
+        "C": "for",
+        "D": "by"
+       },
+       "a": "A",
+       "concept": "'Connive at' means to secretly allow or overlook a wrongdoing.",
+       "method": "'At' follows 'connive' when it means 'turn a blind eye to' something.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Grandma dotes _____ her only grandson.",
+       "o": {
+        "A": "with",
+        "B": "for",
+        "C": "on",
+        "D": "to"
+       },
+       "a": "C",
+       "concept": "'Dote on' means to show excessive love or fondness for someone.",
+       "method": "Remember the fixed phrase 'dote on' — it never takes 'for' or 'with'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The government continues to grapple _____ rising inflation.",
+       "o": {
+        "A": "with",
+        "B": "at",
+        "C": "for",
+        "D": "against"
+       },
+       "a": "A",
+       "concept": "'Grapple with' means to struggle to deal with a difficult problem.",
+       "method": "Picture wrestling ('grappling') WITH an opponent — the problem is the opponent here.",
+       "difficulty": "core"
+      },
+      {
+       "q": "He was warned not to meddle _____ other people's affairs.",
+       "o": {
+        "A": "on",
+        "B": "in",
+        "C": "at",
+        "D": "with"
+       },
+       "a": "B",
+       "concept": "'Meddle in' means to interfere in something that is not one's business.",
+       "method": "'Affairs' are things you get involved IN, so 'meddle in' fits naturally.",
+       "difficulty": "core"
+      },
+      {
+       "q": "She finally managed to prevail _____ her brother to apologise.",
+       "o": {
+        "A": "at",
+        "B": "with",
+        "C": "on",
+        "D": "for"
+       },
+       "a": "C",
+       "concept": "'Prevail on/upon' someone means to persuade them to do something.",
+       "method": "Don't confuse with 'prevail over' (to defeat); 'prevail on' is about persuasion, not victory.",
+       "difficulty": "core"
+      },
+      {
+       "q": "It took him years to reconcile himself _____ the loss of his job.",
+       "o": {
+        "A": "with",
+        "B": "to",
+        "C": "at",
+        "D": "for"
+       },
+       "a": "B",
+       "concept": "'Reconcile (oneself) to' something means to accept an unpleasant situation.",
+       "method": "Use 'reconcile...to' for accepting a fact, but 'reconcile...with' when comparing two things.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The driver had to deviate _____ his usual route because of the flood.",
+       "o": {
+        "A": "from",
+        "B": "off",
+        "C": "of",
+        "D": "with"
+       },
+       "a": "A",
+       "concept": "'Deviate from' means to depart from an established course, plan, or standard.",
+       "method": "Think of 'deviate' as moving away FROM a set path.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The report was completely devoid _____ facts.",
+       "o": {
+        "A": "from",
+        "B": "with",
+        "C": "of",
+        "D": "in"
+       },
+       "a": "C",
+       "concept": "'Devoid of' means completely lacking or without something.",
+       "method": "'Devoid' always pairs with 'of' — nothing else fits.",
+       "difficulty": "core"
+      },
+      {
+       "q": "My sister is engaged _____ a young lawyer.",
+       "o": {
+        "A": "with",
+        "B": "to",
+        "C": "for",
+        "D": "in"
+       },
+       "a": "B",
+       "concept": "'Engaged to' someone means promised in marriage to them ('engaged in' means busy doing something).",
+       "method": "Distinguish the two meanings: 'engaged TO' a person, 'engaged IN' an activity.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Senior citizens are exempt _____ the new toll charge.",
+       "o": {
+        "A": "of",
+        "B": "from",
+        "C": "for",
+        "D": "with"
+       },
+       "a": "B",
+       "concept": "'Exempt from' means officially excused from an obligation.",
+       "method": "You are freed FROM a duty, so 'exempt from' is the natural pairing.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Clear, honest communication is indispensable _____ good teamwork.",
+       "o": {
+        "A": "for",
+        "B": "with",
+        "C": "to",
+        "D": "at"
+       },
+       "a": "C",
+       "concept": "'Indispensable to' means absolutely necessary for something.",
+       "method": "'Indispensable' pairs with 'to' when naming what it's essential for.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Young children are especially prone _____ colds in this weather.",
+       "o": {
+        "A": "with",
+        "B": "for",
+        "C": "at",
+        "D": "to"
+       },
+       "a": "D",
+       "concept": "'Prone to' means having a natural tendency toward something, usually negative.",
+       "method": "Fixed phrase: 'prone to' — it never changes preposition.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Under the constitution, executive power is vested _____ the President.",
+       "o": {
+        "A": "on",
+        "B": "with",
+        "C": "in",
+        "D": "by"
+       },
+       "a": "C",
+       "concept": "'Vested in' means officially and legally granted to a person or office.",
+       "method": "Power is placed/held IN an office, so 'vested in' is correct — not 'vested with' (that describes the person, e.g. 'the President is vested with power').",
+       "difficulty": "core"
+      },
+      {
+       "q": "It was a pleasure to converse _____ such an interesting man.",
+       "o": {
+        "A": "to",
+        "B": "with",
+        "C": "at",
+        "D": "for"
+       },
+       "a": "B",
+       "concept": "'Converse with' means to talk with someone.",
+       "method": "A conversation happens WITH another person, never 'to' them.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The new fence encroaches _____ our neighbour's land.",
+       "o": {
+        "A": "on",
+        "B": "in",
+        "C": "for",
+        "D": "with"
+       },
+       "a": "A",
+       "concept": "'Encroach on/upon' means to intrude gradually on someone else's territory or rights.",
+       "method": "Picture something creeping ON to land that isn't yours.",
+       "difficulty": "core"
+      },
+      {
+       "q": "He has always been averse _____ taking unnecessary risks.",
+       "o": {
+        "A": "of",
+        "B": "from",
+        "C": "with",
+        "D": "to"
+       },
+       "a": "D",
+       "concept": "'Averse to' means strongly disliking or opposed to something.",
+       "method": "'Averse' pairs only with 'to', even though it can feel like it should take 'against'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Two of the judges chose to dissent _____ the majority ruling.",
+       "o": {
+        "A": "from",
+        "B": "with",
+        "C": "at",
+        "D": "on"
+       },
+       "a": "A",
+       "concept": "'Dissent from' means to formally disagree with an official decision or opinion.",
+       "method": "You break away FROM the group's view, so 'dissent from' is correct.",
+       "difficulty": "core"
       }
      ],
-     "freq": 84
+     "freq": 102
     },
     {
      "id": "synonyms",
@@ -3921,9 +4155,35 @@ const QUIZ_DATA = {
        "concept": "'Penury' is a slightly formal word for a very ordinary concept — extreme poverty.",
        "method": "Strip away the unfamiliar word and match it to its plain-English equivalent: poverty.",
        "difficulty": "core"
+      },
+      {
+       "q": "The long war had begun to DEPLETE the country's food reserves. DEPLETE is closest in meaning to:",
+       "o": {
+        "A": "decorate",
+        "B": "beg",
+        "C": "exhaust",
+        "D": "hurry"
+       },
+       "a": "C",
+       "concept": "'Deplete' means to reduce the amount of something substantially, exhausting a supply.",
+       "method": "'Deplete' and 'exhaust' both describe a resource being used up.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The dealer was arrested for trying to CHEAT his customers. CHEAT is closest in meaning to:",
+       "o": {
+        "A": "stingy",
+        "B": "argue",
+        "C": "freckle",
+        "D": "defraud"
+       },
+       "a": "D",
+       "concept": "'Cheat' and 'defraud' both mean to deceive someone, usually to gain money or an advantage unfairly.",
+       "method": "Both words describe dishonestly taking something that isn't rightfully yours.",
+       "difficulty": "core"
       }
      ],
-     "freq": 90
+     "freq": 92
     },
     {
      "id": "antonyms",
@@ -5040,9 +5300,35 @@ const QUIZ_DATA = {
        "concept": "'Aggravate' means to make a situation worse — its antonym should mean to make it better.",
        "method": "'Ameliorate' means to improve or make better — the precise opposite of aggravate.",
        "difficulty": "core"
+      },
+      {
+       "q": "\"The presidential system is meant to be an antidote to some political ailments.\" ANTIDOTE, as used here, is most opposite in meaning to:",
+       "o": {
+        "A": "an answer",
+        "B": "a reply",
+        "C": "an inquiry",
+        "D": "an obstacle"
+       },
+       "a": "D",
+       "concept": "In this sentence, 'antidote' means a remedy or solution to a problem; its contextual opposite is something that worsens or blocks a solution.",
+       "method": "Ask what would make the political 'ailments' worse rather than better — that's the obstacle.",
+       "difficulty": "core"
+      },
+      {
+       "q": "\"He was respected, though he held no temporal power.\" Here, TEMPORAL (used to mean 'lasting only for a time') is most opposite to:",
+       "o": {
+        "A": "spiritual",
+        "B": "mundane",
+        "C": "permanent",
+        "D": "ephemeral"
+       },
+       "a": "C",
+       "concept": "Used loosely to mean 'temporary' or 'fleeting', 'temporal' here has 'permanent' as its natural opposite.",
+       "method": "Read 'temporal' in context as 'short-lived'; the direct opposite of short-lived is lasting/permanent.",
+       "difficulty": "core"
       }
      ],
-     "freq": 86
+     "freq": 88
     },
     {
      "id": "vocabcontext",
@@ -6484,9 +6770,217 @@ const QUIZ_DATA = {
        "concept": "A tag question must agree with both the tense and the subject of the main clause.",
        "method": "'Used to go' is past tense with subject 'we', so the tag must be didn't we.",
        "difficulty": "core"
+      },
+      {
+       "q": "Which single word means 'the killing of a king'?",
+       "o": {
+        "A": "Homicide",
+        "B": "Regicide",
+        "C": "Genocide",
+        "D": "Suicide"
+       },
+       "a": "B",
+       "concept": "'Regicide' combines 'reg-' (king, as in 'regal') with '-cide' (killing).",
+       "method": "Spot the root 'reg-' — the same one in 'regal' and 'regent' — pointing straight to a king.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which single word means 'the killing of one's own brother'?",
+       "o": {
+        "A": "Fratricide",
+        "B": "Patricide",
+        "C": "Matricide",
+        "D": "Infanticide"
+       },
+       "a": "A",
+       "concept": "'Fratricide' comes from 'frater' (Latin for brother) plus '-cide'.",
+       "method": "'Frat-' as in 'fraternal twins' (brothers) signals the sibling connection.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which single word means 'the killing of one's own mother'?",
+       "o": {
+        "A": "Patricide",
+        "B": "Matricide",
+        "C": "Fratricide",
+        "D": "Regicide"
+       },
+       "a": "B",
+       "concept": "'Matricide' comes from 'mater' (Latin for mother) plus '-cide'.",
+       "method": "'Matri-' as in 'maternal' points to the mother.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which single word means 'the killing of one's own father'?",
+       "o": {
+        "A": "Patricide",
+        "B": "Matricide",
+        "C": "Infanticide",
+        "D": "Sororicide"
+       },
+       "a": "A",
+       "concept": "'Patricide' comes from 'pater' (Latin for father) plus '-cide'.",
+       "method": "'Patri-' as in 'paternal' points to the father.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which single word means 'the killing of a baby'?",
+       "o": {
+        "A": "Fratricide",
+        "B": "Regicide",
+        "C": "Infanticide",
+        "D": "Suicide"
+       },
+       "a": "C",
+       "concept": "'Infanticide' combines 'infant' with '-cide' (killing).",
+       "method": "The root word 'infant' is already inside 'infanticide' — no need to guess.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A person who is married to only one spouse at a time is called a",
+       "o": {
+        "A": "Polygamist",
+        "B": "Misogamist",
+        "C": "Celibate",
+        "D": "Monogamist"
+       },
+       "a": "D",
+       "concept": "'Monogamist' combines 'mono-' (one) with '-gamist' (marriage partner).",
+       "method": "'Mono-' always means 'one', as in 'monologue' or 'monopoly'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A person who hates the institution of marriage is called a",
+       "o": {
+        "A": "Misogamist",
+        "B": "Misogynist",
+        "C": "Misandrist",
+        "D": "Polygamist"
+       },
+       "a": "A",
+       "concept": "'Misogamist' combines 'miso-' (hatred) with '-gamist' (marriage).",
+       "method": "Don't confuse it with 'misogynist' (hater of women) — 'misogamist' is about marriage itself.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A person who hates women is called a",
+       "o": {
+        "A": "Misandrist",
+        "B": "Misogynist",
+        "C": "Misogamist",
+        "D": "Celibate"
+       },
+       "a": "B",
+       "concept": "'Misogynist' combines 'miso-' (hatred) with 'gyne' (Greek for woman).",
+       "method": "'Gyne' also appears in 'gynaecology' (the study of women's health).",
+       "difficulty": "core"
+      },
+      {
+       "q": "A person who hates men is called a",
+       "o": {
+        "A": "Misandrist",
+        "B": "Misogynist",
+        "C": "Misogamist",
+        "D": "Sybarite"
+       },
+       "a": "A",
+       "concept": "'Misandrist' combines 'miso-' (hatred) with 'andros' (Greek for man).",
+       "method": "'Andro-' also appears in 'android' — a man-like machine.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A person who has vowed to remain unmarried is called a",
+       "o": {
+        "A": "Widower",
+        "B": "Bachelor",
+        "C": "Celibate",
+        "D": "Polygamist"
+       },
+       "a": "C",
+       "concept": "'Celibate' describes someone who has deliberately chosen to abstain from marriage or sexual relations.",
+       "method": "Unlike 'bachelor' (simply unmarried), 'celibate' implies a deliberate vow or choice.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A person who has more than one wife or husband at the same time is called a",
+       "o": {
+        "A": "Monogamist",
+        "B": "Bigamist only",
+        "C": "Polygamist",
+        "D": "Misogamist"
+       },
+       "a": "C",
+       "concept": "'Polygamist' combines 'poly-' (many) with '-gamist' (marriage partner).",
+       "method": "'Poly-' always means 'many', as in 'polygon' (many sides).",
+       "difficulty": "core"
+      },
+      {
+       "q": "A person devoted to luxury and pleasure is called a",
+       "o": {
+        "A": "Sybarite",
+        "B": "Altruist",
+        "C": "Pedant",
+        "D": "Sophist"
+       },
+       "a": "A",
+       "concept": "'Sybarite' comes from Sybaris, an ancient Greek city famous for its love of luxury.",
+       "method": "Link the word to its origin story — Sybaris, the city of pleasure-seekers.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A person who makes an excessive show of their learning, fussing over minor rules, is called a",
+       "o": {
+        "A": "Sophist",
+        "B": "Pedant",
+        "C": "Garrulous person",
+        "D": "Altruist"
+       },
+       "a": "B",
+       "concept": "'Pedant' describes someone overly concerned with minor details or rules, especially to show off knowledge.",
+       "method": "Picture a teacher correcting trivial errors just to prove they know more — that's a pedant.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A person who reasons in a way that is clever but deliberately false or misleading is called a",
+       "o": {
+        "A": "Sophist",
+        "B": "Sybarite",
+        "C": "Pedant",
+        "D": "Altruist"
+       },
+       "a": "A",
+       "concept": "'Sophist' originally referred to Greek teachers of rhetoric, but now means someone who uses clever, deceptive arguments.",
+       "method": "Link it to 'sophisticated' reasoning that is technically clever but not honest.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A person who devotes their life to the welfare of others, rather than themselves, is called an",
+       "o": {
+        "A": "Egoist",
+        "B": "Altruist",
+        "C": "Sybarite",
+        "D": "Ascetic"
+       },
+       "a": "B",
+       "concept": "'Altruist' comes from 'altru-' (other), meaning someone selflessly concerned with others' wellbeing.",
+       "method": "It's the direct opposite of 'egoist' (self-centred) — 'altru-' means 'other'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "A person who talks excessively, often about unimportant things, is described as",
+       "o": {
+        "A": "Garrulous",
+        "B": "Pedantic",
+        "C": "Sybaritic",
+        "D": "Sophistic"
+       },
+       "a": "A",
+       "concept": "'Garrulous' means excessively talkative, especially about trivial matters.",
+       "method": "Link the sound of the word to 'gargling on' — someone who just won't stop talking.",
+       "difficulty": "core"
       }
      ],
-     "freq": 272
+     "freq": 288
     },
     {
      "id": "analogies",
@@ -8293,9 +8787,230 @@ const QUIZ_DATA = {
        "concept": "'Turn a blind eye to' means to deliberately ignore something one is fully aware of.",
        "method": "The key word is deliberately — this idiom implies conscious choice, not genuine ignorance (ruling out option D).",
        "difficulty": "core"
+      },
+      {
+       "q": "\"He agreed to help at the drop of a hat.\" This means he",
+       "o": {
+        "A": "hesitated for a long time",
+        "B": "agreed immediately, without hesitation",
+        "C": "refused politely",
+        "D": "forgot the request"
+       },
+       "a": "B",
+       "concept": "'At the drop of a hat' means to do something instantly, without delay or hesitation.",
+       "method": "Picture a hat dropping — the action happens the very instant it touches the ground.",
+       "difficulty": "core"
+      },
+      {
+       "q": "\"Losing that contract turned out to be a blessing in disguise.\" This means the loss",
+       "o": {
+        "A": "was a disaster with no upside",
+        "B": "seemed bad at first but led to something good",
+        "C": "was expected all along",
+        "D": "was quickly forgotten"
+       },
+       "a": "B",
+       "concept": "'A blessing in disguise' describes something that seems unfortunate at first but eventually brings a good result.",
+       "method": "The 'disguise' is the key word — the good outcome is hidden inside what looks like bad luck.",
+       "difficulty": "core"
+      },
+      {
+       "q": "\"His latest essay simply doesn't cut the mustard.\" This means the essay",
+       "o": {
+        "A": "is spicy in tone",
+        "B": "fails to meet the required standard",
+        "C": "is unusually long",
+        "D": "was submitted late"
+       },
+       "a": "B",
+       "concept": "'To cut the mustard' means to reach the standard of quality that is expected.",
+       "method": "It's almost always used in the negative — 'doesn't cut the mustard' = falls short.",
+       "difficulty": "core"
+      },
+      {
+       "q": "\"Easy does it,\" the foreman told the new workers carrying the glass panels. He meant they should",
+       "o": {
+        "A": "hurry up",
+        "B": "proceed slowly and carefully",
+        "C": "stop working",
+        "D": "ignore instructions"
+       },
+       "a": "B",
+       "concept": "'Easy does it' is said to encourage caution and a gentle, unhurried approach.",
+       "method": "It's a warning against rushing — 'easy' signals a slow, careful pace.",
+       "difficulty": "core"
+      },
+      {
+       "q": "\"Hang in there, the results will improve.\" This is an encouragement to",
+       "o": {
+        "A": "give up gracefully",
+        "B": "keep going despite difficulty",
+        "C": "relax completely",
+        "D": "change strategy immediately"
+       },
+       "a": "B",
+       "concept": "'Hang in there' means to persist and not give up during a hard time.",
+       "method": "Picture literally holding on tightly rather than letting go — that's persistence.",
+       "difficulty": "core"
+      },
+      {
+       "q": "\"It takes two to tango,\" the counsellor reminded the quarrelling couple. She meant that",
+       "o": {
+        "A": "only one of them was at fault",
+        "B": "both parties share responsibility for the conflict",
+        "C": "they should stop dancing",
+        "D": "the disagreement was unimportant"
+       },
+       "a": "B",
+       "concept": "'It takes two to tango' means that both people involved share responsibility for a situation, especially a disagreement.",
+       "method": "A tango cannot be danced by one person — the idiom stresses shared responsibility.",
+       "difficulty": "core"
+      },
+      {
+       "q": "\"I'm still on the fence about accepting the job offer.\" This means the speaker",
+       "o": {
+        "A": "has firmly decided to accept",
+        "B": "has firmly decided to refuse",
+        "C": "has not yet made up their mind",
+        "D": "has already started the job"
+       },
+       "a": "C",
+       "concept": "'On the fence' means undecided between two choices.",
+       "method": "Sitting ON a fence means you haven't chosen either side yet.",
+       "difficulty": "core"
+      },
+      {
+       "q": "\"We were just talking about you — speak of the devil!\" This expression is used when",
+       "o": {
+        "A": "someone mentioned actually appears",
+        "B": "a person is being insulted",
+        "C": "a secret is revealed",
+        "D": "someone tells a lie"
+       },
+       "a": "A",
+       "concept": "'Speak of the devil' is said when a person who was just being discussed suddenly turns up.",
+       "method": "It marks a coincidence: the topic of conversation walks in right on cue.",
+       "difficulty": "core"
+      },
+      {
+       "q": "\"The assistant coach felt the head coach had stolen his thunder\" after taking credit for the win. This means the head coach",
+       "o": {
+        "A": "shared the credit fairly",
+        "B": "took credit or attention that rightly belonged to the assistant",
+        "C": "apologised publicly",
+        "D": "resigned from the role"
+       },
+       "a": "B",
+       "concept": "'To steal someone's thunder' means to take credit or attention that another person deserved.",
+       "method": "Picture someone stealing the loud 'thunder' effect meant for another performer's big moment.",
+       "difficulty": "core"
+      },
+      {
+       "q": "\"His friends had to twist his arm before he agreed to sing.\" This means his friends",
+       "o": {
+        "A": "physically hurt him",
+        "B": "pressured or persuaded him strongly",
+        "C": "left him alone",
+        "D": "sang along with him"
+       },
+       "a": "B",
+       "concept": "'To twist someone's arm' means to pressure or persuade them, often against initial reluctance.",
+       "method": "It's figurative pressure, not literal force — think of gentle-but-firm persuasion.",
+       "difficulty": "core"
+      },
+      {
+       "q": "\"I wouldn't be caught dead wearing that outfit to the wedding.\" This means the speaker",
+       "o": {
+        "A": "would love to wear it",
+        "B": "would be extremely embarrassed to be seen wearing it",
+        "C": "has never seen the outfit",
+        "D": "plans to buy it"
+       },
+       "a": "B",
+       "concept": "'Wouldn't be caught dead' means one would be deeply embarrassed to be seen doing or wearing something.",
+       "method": "It exaggerates the embarrassment to the extreme — even death is preferable to that embarrassment.",
+       "difficulty": "core"
+      },
+      {
+       "q": "\"After passing her final exam, she was on cloud nine.\" This means she was",
+       "o": {
+        "A": "confused",
+        "B": "extremely happy",
+        "C": "very tired",
+        "D": "slightly worried"
+       },
+       "a": "B",
+       "concept": "'On cloud nine' means feeling extremely happy or elated.",
+       "method": "The image of floating high up on a cloud captures the feeling of being overjoyed.",
+       "difficulty": "core"
+      },
+      {
+       "q": "\"Redesigning the whole app before the deadline would be trying to boil the ocean.\" This means the plan is",
+       "o": {
+        "A": "simple and quick",
+        "B": "an impossibly huge undertaking for the time available",
+        "C": "environmentally harmful",
+        "D": "already completed"
+       },
+       "a": "B",
+       "concept": "'To boil the ocean' means to attempt a task that is unrealistically large or complex.",
+       "method": "Literally boiling an ocean is impossible — the idiom exaggerates an unreasonably huge task.",
+       "difficulty": "core"
+      },
+      {
+       "q": "\"After the long hike, the boys ate like horses.\" This means they",
+       "o": {
+        "A": "ate very little",
+        "B": "ate a very large amount",
+        "C": "refused to eat",
+        "D": "ate very slowly"
+       },
+       "a": "B",
+       "concept": "'To eat like a horse' means to eat a great deal of food.",
+       "method": "Horses are large animals that consume a lot of feed — hence the comparison.",
+       "difficulty": "core"
+      },
+      {
+       "q": "\"The villagers believed the salesman's promises hook, line and sinker.\" This means they",
+       "o": {
+        "A": "doubted every word he said",
+        "B": "believed him completely and without question",
+        "C": "ignored him entirely",
+        "D": "reported him to the police"
+       },
+       "a": "B",
+       "concept": "'Hook, line and sinker' means completely and totally, often used for being fully deceived or convinced.",
+       "method": "It comes from fishing — swallowing the entire tackle, not just the bait.",
+       "difficulty": "core"
+      },
+      {
+       "q": "\"Stop crying wolf about the printer breaking down every week.\" This means the speaker is being told to",
+       "o": {
+        "A": "stop raising false or exaggerated alarms",
+        "B": "report every problem immediately",
+        "C": "fix the printer himself",
+        "D": "buy a new printer"
+       },
+       "a": "A",
+       "concept": "'To cry wolf' means to raise a false alarm, so that people stop believing you when there's a real problem.",
+       "method": "It comes from the fable of the shepherd boy who falsely shouted 'Wolf!' until no one believed him.",
+       "difficulty": "core"
+      },
+      {
+       "q": "\"The thief showed the police officers a clean pair of heels.\" This means the thief",
+       "o": {
+        "A": "surrendered peacefully",
+        "B": "ran away, outrunning his pursuers",
+        "C": "was arrested immediately",
+        "D": "hid under a table"
+       },
+       "a": "B",
+       "concept": "'To show a clean pair of heels' means to run away fast, outrunning whoever is chasing you.",
+       "method": "Picture someone running so fast that only the clean soles of their heels are visible to the person behind them.",
+       "difficulty": "core"
       }
      ],
-     "freq": 82
+     "freq": 99
     },
     {
      "id": "oral",
@@ -9556,9 +10271,191 @@ const QUIZ_DATA = {
        "concept": "'One of the students who' — the relative clause 'who...' refers back to 'students' (plural), not 'one'.",
        "method": "The verb after 'who' agrees with 'students' (the larger group), not 'one': are.",
        "difficulty": "core"
+      },
+      {
+       "q": "The choir rehearsed _____.",
+       "o": {
+        "A": "beautifully in the hall every evening",
+        "B": "every evening beautifully in the hall",
+        "C": "in the hall every evening beautifully",
+        "D": "in the hall beautifully every evening"
+       },
+       "a": "A",
+       "concept": "Adverbs of manner, place, and time follow the order Manner–Place–Time (MPT) when all three appear together.",
+       "method": "Beautifully (manner) → in the hall (place) → every evening (time): only option (a) keeps that order.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The messenger cycled _____.",
+       "o": {
+        "A": "quickly to the market at noon",
+        "B": "at noon quickly to the market",
+        "C": "to the market quickly at noon",
+        "D": "to the market at noon quickly"
+       },
+       "a": "A",
+       "concept": "Adverbs of manner, place, and time follow the order Manner–Place–Time (MPT) when all three appear in one sentence.",
+       "method": "Quickly (manner) → to the market (place) → at noon (time) is the only option matching MPT.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The tailor sewed the gown _____.",
+       "o": {
+        "A": "carefully in his shop all night",
+        "B": "all night carefully in his shop",
+        "C": "in his shop all night carefully",
+        "D": "carefully all night in his shop"
+       },
+       "a": "A",
+       "concept": "Under standard exam conditions, the adverb order for manner, place, and time is Manner–Place–Time (MPT).",
+       "method": "Carefully (manner) → in his shop (place) → all night (time) — the only option in that sequence.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The farmers worked _____.",
+       "o": {
+        "A": "tirelessly on the field until sunset",
+        "B": "until sunset tirelessly on the field",
+        "C": "on the field tirelessly until sunset",
+        "D": "on the field until sunset tirelessly"
+       },
+       "a": "A",
+       "concept": "The general rule for ordering adverbs of manner, place, and time is Manner–Place–Time (MPT).",
+       "method": "Tirelessly (manner) → on the field (place) → until sunset (time) matches MPT exactly.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The concert will hold _____.",
+       "o": {
+        "A": "at 7 o'clock on Saturday next week",
+        "B": "next week at 7 o'clock on Saturday",
+        "C": "on Saturday next week at 7 o'clock",
+        "D": "at 7 o'clock next week on Saturday"
+       },
+       "a": "A",
+       "concept": "When several adverbs of time appear together with no manner or place adverb, the smaller, more specific time unit comes before the larger, more general one.",
+       "method": "Order from most specific to least specific: 7 o'clock → Saturday → next week.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The new library building was commissioned _____.",
+       "o": {
+        "A": "June on the 5th, 2010",
+        "B": "2010 on the 5th of June",
+        "C": "on the 5th of June, 2010",
+        "D": "on the 5th of 2010, June"
+       },
+       "a": "C",
+       "concept": "For a full date, the smaller time unit (day) precedes the larger one (month), which precedes the largest (year).",
+       "method": "Day → month → year is the natural order: 'the 5th' → 'of June' → '2010'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The deceased was buried _____.",
+       "o": {
+        "A": "at 6 a.m. in his compound",
+        "B": "in his compound at 6 a.m.",
+        "C": "hurriedly at 6 a.m. in his compound",
+        "D": "in his compound hurriedly at 6 a.m."
+       },
+       "a": "A",
+       "concept": "The Manner–Place–Time order can shift when a particular adverb is being emphasised — here, the time of burial is the point being stressed, so it is placed first.",
+       "method": "Because the sentence is drawing attention to WHEN the burial happened, the time adverb moves ahead of the place adverb.",
+       "difficulty": "core"
+      },
+      {
+       "q": "She wore _____ scarf to the interview.",
+       "o": {
+        "A": "a beautiful long red silk",
+        "B": "a long beautiful red silk",
+        "C": "a red long beautiful silk",
+        "D": "a silk long beautiful red"
+       },
+       "a": "A",
+       "concept": "The adjective order is Modifier–General–Size–Shape–Age–Colour–Verb–Noun–Head.",
+       "method": "a (modifier) → beautiful (general) → long (size) → red (colour) → silk (noun/material) → scarf (head).",
+       "difficulty": "core"
+      },
+      {
+       "q": "He lives in _____ house at the edge of town.",
+       "o": {
+        "A": "an old small wooden",
+        "B": "a small old wooden",
+        "C": "a wooden small old",
+        "D": "an old wooden small"
+       },
+       "a": "B",
+       "concept": "The adjective order is Modifier–General–Size–Shape–Age–Colour–Verb–Noun–Head, so size always comes before age.",
+       "method": "a (modifier) → small (size) → old (age) → wooden (noun/material) → house (head).",
+       "difficulty": "core"
+      },
+      {
+       "q": "They found _____ vase in the old palace.",
+       "o": {
+        "A": "an ancient round Chinese",
+        "B": "a round ancient Chinese",
+        "C": "a Chinese ancient round",
+        "D": "an ancient Chinese round"
+       },
+       "a": "B",
+       "concept": "The adjective order is Modifier–General–Size–Shape–Age–Colour–Verb–Noun–Head, so shape comes before age.",
+       "method": "a (modifier) → round (shape) → ancient (age) → Chinese (noun/origin) → vase (head).",
+       "difficulty": "core"
+      },
+      {
+       "q": "My uncle just bought _____ car.",
+       "o": {
+        "A": "a shiny new red Italian",
+        "B": "a new shiny red Italian",
+        "C": "a red new shiny Italian",
+        "D": "a shiny red new Italian"
+       },
+       "a": "A",
+       "concept": "The adjective order is Modifier–General–Size–Shape–Age–Colour–Verb–Noun–Head, so 'general' qualities come before age and colour.",
+       "method": "a (modifier) → shiny (general) → new (age) → red (colour) → Italian (noun/origin) → car (head).",
+       "difficulty": "core"
+      },
+      {
+       "q": "The museum displayed _____ sword from the exhibition.",
+       "o": {
+        "A": "a rusted medieval bronze",
+        "B": "a medieval rusted bronze",
+        "C": "a bronze rusted medieval",
+        "D": "a rusted bronze medieval"
+       },
+       "a": "B",
+       "concept": "The adjective order is Modifier–General–Size–Shape–Age–Colour–Verb–Noun–Head, so age comes before a verb-formed adjective like 'rusted'.",
+       "method": "a (modifier) → medieval (age) → rusted (verb-form) → bronze (noun/material) → sword (head).",
+       "difficulty": "core"
+      },
+      {
+       "q": "We met _____ women at the market in Ilorin.",
+       "o": {
+        "A": "two elegant tall Yoruba",
+        "B": "two tall elegant Yoruba",
+        "C": "elegant two tall Yoruba",
+        "D": "tall two elegant Yoruba"
+       },
+       "a": "A",
+       "concept": "The adjective order is Modifier–General–Size–Shape–Age–Colour–Verb–Noun–Head, so a general quality comes before size.",
+       "method": "two (modifier) → elegant (general) → tall (size) → Yoruba (noun/origin) → women (head).",
+       "difficulty": "core"
+      },
+      {
+       "q": "The shop sold _____ chairs for the school event.",
+       "o": {
+        "A": "several cheap plastic garden",
+        "B": "several plastic cheap garden",
+        "C": "cheap several plastic garden",
+        "D": "plastic several cheap garden"
+       },
+       "a": "A",
+       "concept": "The adjective order is Modifier–General–Size–Shape–Age–Colour–Verb–Noun–Head, so a general quality (cheap) precedes the material noun (plastic).",
+       "method": "several (modifier) → cheap (general) → plastic (noun/material) → garden (purpose noun) → chairs (head).",
+       "difficulty": "core"
       }
      ],
-     "freq": 55
+     "freq": 69
     },
     {
      "id": "spelling",
@@ -10233,9 +11130,269 @@ const QUIZ_DATA = {
        "concept": "'Millennium' is one of the most frequently misspelt English words — it doubles both 'n's, unlike 'millenary'.",
        "method": "Remember: two l's, two n's — mille + nnium.",
        "difficulty": "core"
+      },
+      {
+       "q": "Which of these is correctly spelt?",
+       "o": {
+        "A": "Etiqquete",
+        "B": "Etiquette",
+        "C": "Etiquete",
+        "D": "Ettiquete"
+       },
+       "a": "B",
+       "concept": "'Etiquette' keeps its French origin: a final silent 'e' and a doubled 't'.",
+       "method": "Say it in syllables — eti-QUETTE — the '-quette' ending is the part most people drop a letter from.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is correctly spelt?",
+       "o": {
+        "A": "Reumatism",
+        "B": "Rheumantism",
+        "C": "Rhuematism",
+        "D": "Rheumatism"
+       },
+       "a": "D",
+       "concept": "'Rheumatism' starts with the silent-h cluster 'rheu-', from Greek 'rheuma' (a flowing).",
+       "method": "Remember the pattern from 'rheumatic' — 'rheu' then 'matism', no extra 'n'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is correctly spelt?",
+       "o": {
+        "A": "Lackadaisical",
+        "B": "Lackadasical",
+        "C": "Lackaidasical",
+        "D": "Lackaidaisical"
+       },
+       "a": "A",
+       "concept": "'Lackadaisical' (lacking enthusiasm or purpose) has 'daisi' in the middle, not 'dasi' or 'daisi' rearranged.",
+       "method": "Break it up: LACK-A-DAISY-CAL — think of the flower 'daisy' hiding inside the word.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is correctly spelt?",
+       "o": {
+        "A": "Incesant",
+        "B": "Inccesant",
+        "C": "Incessant",
+        "D": "Inccessant"
+       },
+       "a": "C",
+       "concept": "'Incessant' (never stopping) has a double 's' in the middle and a single 'c'.",
+       "method": "One 'c', two 's's — the opposite pattern to what most people guess.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is correctly spelt?",
+       "o": {
+        "A": "Brocolli",
+        "B": "Broccolli",
+        "C": "Brocollil",
+        "D": "Broccoli"
+       },
+       "a": "D",
+       "concept": "'Broccoli' is Italian in origin and takes a double 'c' but only a single 'l'.",
+       "method": "Double the 'c' (like 'occur'), single the 'l' — most misspellings do the reverse.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is correctly spelt?",
+       "o": {
+        "A": "Queue",
+        "B": "Qeueu",
+        "C": "Queeu",
+        "D": "Quee"
+       },
+       "a": "A",
+       "concept": "'Queue' is famous for its run of vowels: q-u-e-u-e.",
+       "method": "Memorise it as a whole shape — 'queue' looks odd on purpose because four of its five letters are vowels.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is correctly spelt?",
+       "o": {
+        "A": "Bureaucrazy",
+        "B": "Beaurocracy",
+        "C": "Bureaucracy",
+        "D": "Bureacracy"
+       },
+       "a": "C",
+       "concept": "'Bureaucracy' is built from 'bureau' + '-cracy' (rule/government), so it ends like 'democracy', not 'crazy'.",
+       "method": "Split it: BUREAU + CRACY — spell each half correctly and join them.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is correctly spelt?",
+       "o": {
+        "A": "Diarhoea",
+        "B": "Diarrhoea",
+        "C": "Diarrohea",
+        "D": "Diarhorea"
+       },
+       "a": "B",
+       "concept": "The British spelling 'diarrhoea' has a double 'r' and the 'rrh' cluster seen in 'catarrh' and 'haemorrhage'.",
+       "method": "Recall the shared Greek root: words about flow/discharge often carry that awkward 'rrh'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is correctly spelt?",
+       "o": {
+        "A": "Secede",
+        "B": "Seceed",
+        "C": "Suceed",
+        "D": "Cecede"
+       },
+       "a": "A",
+       "concept": "'Secede' (to withdraw formally from a group) ends in '-cede', like 'precede' and 'concede' — not '-ceed'.",
+       "method": "Don't confuse it with 'succeed' — 'secede' follows the '-cede' family, not the '-ceed' one.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is correctly spelt?",
+       "o": {
+        "A": "Consequencial",
+        "B": "Consequential",
+        "C": "Consequentual",
+        "D": "Consiquential"
+       },
+       "a": "B",
+       "concept": "'Consequential' is built from 'consequence' + '-tial', not '-cial'.",
+       "method": "Keep the 't' from 'consequen(t)ial' — it mirrors 'essential', 'potential'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is correctly spelt?",
+       "o": {
+        "A": "Meagar",
+        "B": "Meigre",
+        "C": "Meagre",
+        "D": "Maegre"
+       },
+       "a": "C",
+       "concept": "'Meagre' (scanty, small in amount) uses the British '-re' ending, like 'centre' and 'theatre'.",
+       "method": "Pair it with other British '-re' words you already know — 'metre', 'litre', 'meagre'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is correctly spelt?",
+       "o": {
+        "A": "Pompoisity",
+        "B": "Pomposety",
+        "C": "Pompossity",
+        "D": "Pomposity"
+       },
+       "a": "D",
+       "concept": "'Pomposity' comes from 'pompous' + '-ity', so it keeps a single 's' and the 'os' order.",
+       "method": "Build it from 'pompous': drop the 'us', add '-ity' → pomp-OS-ity.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is correctly spelt?",
+       "o": {
+        "A": "Onamatopia",
+        "B": "Onomatopoeia",
+        "C": "Onomatopeia",
+        "D": "Onomatopoiea"
+       },
+       "a": "B",
+       "concept": "'Onomatopoeia' (a word that imitates a sound, like 'buzz') keeps the Greek '-poeia' ending intact.",
+       "method": "Memorise it in chunks: ONO-MATO-POEIA — the last four letters are the part everyone gets wrong.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is correctly spelt?",
+       "o": {
+        "A": "Acquantance",
+        "B": "Aquaintance",
+        "C": "Acquaintance",
+        "D": "Acquaintence"
+       },
+       "a": "C",
+       "concept": "'Acquaintance' keeps the 'cqu' cluster from 'acquaint' and ends in '-ance', not '-ence'.",
+       "method": "Start from the verb 'acquaint' (which you likely spell correctly), then just add '-ance'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is correctly spelt?",
+       "o": {
+        "A": "Prospone",
+        "B": "Postpone",
+        "C": "Postphone",
+        "D": "Pospone"
+       },
+       "a": "B",
+       "concept": "'Postpone' is simply 'post-' (after) + 'pone' (to place) — no 'ph' sound and no dropped 't'.",
+       "method": "Think of 'postpone' alongside 'position' and 'postscript' — the prefix is always 'post-'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is correctly spelt?",
+       "o": {
+        "A": "Parlor",
+        "B": "Parlur",
+        "C": "Parlour",
+        "D": "Parllour"
+       },
+       "a": "C",
+       "concept": "In British spelling, 'parlour' takes the '-our' ending, like 'colour' and 'favour' ('parlor' is the American form).",
+       "method": "If the exam is testing British spelling, default to '-our' over the American '-or'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is correctly spelt?",
+       "o": {
+        "A": "Orstrich",
+        "B": "Ostritch",
+        "C": "Ostrick",
+        "D": "Ostrich"
+       },
+       "a": "D",
+       "concept": "'Ostrich' has no 'r' after the first 'O' and ends in '-ich', not '-itch' or '-ick'.",
+       "method": "Say it slowly — OS-TRICH — there's only one 'r' in the whole word, right before 'ich'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is correctly spelt?",
+       "o": {
+        "A": "Intergrity",
+        "B": "Integrety",
+        "C": "Integrity",
+        "D": "Integretty"
+       },
+       "a": "C",
+       "concept": "'Integrity' comes from 'integer' (whole), so it's 'inte-' not 'inter-', and ends '-rity'.",
+       "method": "Link it to 'integer' — both share the 'inte-' opening, not 'inter-'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is correctly spelt?",
+       "o": {
+        "A": "Grammaphone",
+        "B": "Gramaphone",
+        "C": "Gramophone",
+        "D": "Gramophon"
+       },
+       "a": "C",
+       "concept": "'Gramophone' has a single 'm' and ends in '-phone', like 'telephone' and 'megaphone'.",
+       "method": "Match the ending to other '-phone' words you know — the front is just 'gramo-'.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these is correctly spelt?",
+       "o": {
+        "A": "Garantee",
+        "B": "Guarentee",
+        "C": "Gaurantee",
+        "D": "Guarantee"
+       },
+       "a": "D",
+       "concept": "'Guarantee' keeps the 'gua-' spelling from 'guard' and 'guarantor', plus the '-antee' ending.",
+       "method": "Remember 'gua-' as in 'guard' first, then finish with '-rantee'.",
+       "difficulty": "core"
       }
      ],
-     "freq": 54
+     "freq": 74
     }
    ]
   },
@@ -13010,9 +14167,321 @@ const QUIZ_DATA = {
        "concept": "A national symbol represents shared identity or values, distinct from a public utility company that simply provides a service.",
        "method": "NYSC, the National Pledge and the National Theatre are all cultural/civic symbols of nationhood; NEPA is simply the (former) power utility.",
        "difficulty": "core"
+      },
+      {
+       "q": "Before 1958, Nigeria's legal tender was a currency shared with several other British colonies, protectorates and mandate territories, known as the",
+       "o": {
+        "A": "East African Shilling",
+        "B": "West African Pound",
+        "C": "British Sterling",
+        "D": "Colonial Franc"
+       },
+       "a": "B",
+       "concept": "The West African Pound served as Nigeria's legal tender until 1958, before Nigeria's own currency notes were introduced.",
+       "method": "It was a shared regional currency, not exclusive to Nigeria, which is why it needed to be replaced as independence approached.",
+       "difficulty": "core"
+      },
+      {
+       "q": "In 1959, Nigeria's banknotes were renamed from the West African Pound to the",
+       "o": {
+        "A": "Nigerian Shilling",
+        "B": "Federation Pound",
+        "C": "Nigerian Pound",
+        "D": "British West African Pound"
+       },
+       "a": "C",
+       "concept": "The 1959 renaming to the 'Nigerian Pound' was a step toward monetary independence, even though the notes still referenced British rule.",
+       "method": "It's a simple rename — 'West African' becomes 'Nigerian' — ahead of full currency independence.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Nigeria's first ₦20 note, introduced in 1977 as the country's highest denomination at the time, was launched under which head of state?",
+       "o": {
+        "A": "Yakubu Gowon",
+        "B": "Murtala Mohammed",
+        "C": "Olusegun Obasanjo",
+        "D": "Shehu Shagari"
+       },
+       "a": "B",
+       "concept": "The ₦20 note was introduced on 11 February 1977 under Murtala Mohammed's military government.",
+       "method": "Murtala Mohammed's short but eventful regime (1975–76) is linked to several major reforms — including this new top denomination.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The ₦1, ₦5, and ₦10 notes introduced in 1979 bore the portraits of Herbert Macaulay, Tafawa Balewa, and Alvan Ikoku respectively. These three men were honoured because they had been declared",
+       "o": {
+        "A": "founding CBN governors",
+        "B": "national heroes on 1 October 1978",
+        "C": "first state governors",
+        "D": "Nobel laureates"
+       },
+       "a": "B",
+       "concept": "The three men featured on the 1979 notes were declared Nigerian national heroes on 1 October 1978, ahead of the new banknotes' release.",
+       "method": "The honour (national hero status) came first in 1978; the notes bearing their portraits followed in 1979.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The ₦50 note, popularly nicknamed 'Better Life' after a government programme, was introduced in 1991 under which military ruler?",
+       "o": {
+        "A": "Muhammadu Buhari",
+        "B": "Sani Abacha",
+        "C": "Ibrahim Babangida",
+        "D": "Yakubu Gowon"
+       },
+       "a": "C",
+       "concept": "The ₦50 note was introduced during Ibrahim Babangida's government in 1991, and was nicknamed after his wife's 'Better Life for Rural Women' programme.",
+       "method": "Link the nickname 'Better Life' directly to the Babangida-era social programme of the same name.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The ₦100 note, introduced in December 1999, carries the portrait of",
+       "o": {
+        "A": "Ahmadu Bello",
+        "B": "Nnamdi Azikiwe",
+        "C": "Obafemi Awolowo",
+        "D": "Aliyu Mai-Bornu"
+       },
+       "a": "C",
+       "concept": "The ₦100 note, introduced under the Obasanjo civilian government, honours Obafemi Awolowo, a foremost Nigerian statesman and journalist.",
+       "method": "Match each denomination to one statesman: ₦100 = Awolowo, ₦200 = Ahmadu Bello, ₦500 = Azikiwe.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The ₦1,000 note, introduced in October 2005, carries the portraits of Aliyu Mai-Bornu and",
+       "o": {
+        "A": "Clement Isong",
+        "B": "Adamu Ciroma",
+        "C": "Ahmadu Bello",
+        "D": "Herbert Macaulay"
+       },
+       "a": "A",
+       "concept": "The ₦1,000 note honours two former Central Bank governors: Aliyu Mai-Bornu, Nigeria's first indigenous CBN governor, and Clement Isong, his successor.",
+       "method": "Both figures on the ₦1,000 note are past CBN governors, not politicians — a detail that distinguishes it from the lower denominations.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The Central Bank of Nigeria (CBN) was established by an Act of 1958 but only commenced operations on",
+       "o": {
+        "A": "1 October 1960",
+        "B": "1 January 1959",
+        "C": "1 July 1959",
+        "D": "1 April 1958"
+       },
+       "a": "C",
+       "concept": "The CBN Act was passed in 1958, but the bank formally began operating on 1 July 1959, ahead of independence.",
+       "method": "Separate the two dates: 1958 = the Act creating the bank on paper; 1 July 1959 = the bank actually opening for business.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Nigeria's first indigenous (Nigerian) Governor of the Central Bank was",
+       "o": {
+        "A": "Clement Isong",
+        "B": "Roy Pentelow Fenton",
+        "C": "Aliyu Mai-Bornu",
+        "D": "Adamu Ciroma"
+       },
+       "a": "C",
+       "concept": "Aliyu Mai-Bornu served as CBN Governor from 1963 to 1967, becoming the first Nigerian to hold the post.",
+       "method": "He succeeded the bank's first (British) governor and is honoured for this 'first' on the ₦1,000 note.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Before any Nigerian held the post, the Central Bank's first Governor (1958–1963) was a British appointee named",
+       "o": {
+        "A": "Roy Pentelow Fenton",
+        "B": "James Robertson",
+        "C": "John Macpherson",
+        "D": "Hugh Clifford"
+       },
+       "a": "A",
+       "concept": "Roy Pentelow Fenton was the CBN's first Governor, appointed by the colonial administration in 1958, and remains the only non-Nigerian to have held the post.",
+       "method": "He set up the bank's early monetary policy and currency system before handing over to Aliyu Mai-Bornu in 1963.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The Nigeria Immigration Service (NIS) traces its roots to 1958, when it was carved out of the",
+       "o": {
+        "A": "Nigerian Army",
+        "B": "Nigeria Police Force",
+        "C": "Federal Ministry of Interior",
+        "D": "Customs Service"
+       },
+       "a": "B",
+       "concept": "The NIS began as an Immigration Department within the Nigeria Police Force in 1958, before later becoming a fully separate service.",
+       "method": "Immigration control was originally a policing function before it was carved out as its own agency.",
+       "difficulty": "core"
+      },
+      {
+       "q": "In 2007, Nigeria became the first country in Africa (and among the first in the world) to introduce a",
+       "o": {
+        "A": "national identity card",
+        "B": "biometric e-passport",
+        "C": "electronic voting system",
+        "D": "digital currency"
+       },
+       "a": "B",
+       "concept": "On 17 May 2007, the Nigeria Immigration Service unveiled the biometric e-passport, making Nigeria the first African country to do so.",
+       "method": "It's specifically about the passport, not voting or currency — a common point of confusion in trivia questions.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The Western and Eastern Regions of colonial Nigeria attained internal self-government (autonomy in domestic affairs) in",
+       "o": {
+        "A": "1954",
+        "B": "1957",
+        "C": "1960",
+        "D": "1963"
+       },
+       "a": "B",
+       "concept": "The Western and Eastern Regions became self-governing in 1957, ahead of the Northern Region, which followed in 1959.",
+       "method": "Self-government came region by region, years before full national independence in 1960.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which military ruler was the first to formally adopt the title 'President' (rather than 'Head of State') while still in uniform?",
+       "o": {
+        "A": "Yakubu Gowon",
+        "B": "Murtala Mohammed",
+        "C": "Ibrahim Babangida",
+        "D": "Sani Abacha"
+       },
+       "a": "C",
+       "concept": "Ibrahim Babangida styled himself 'President' from 1985, unlike earlier and later military rulers who used the title 'Head of State'.",
+       "method": "Every other military ruler (Ironsi, Gowon, Mohammed, Obasanjo, Buhari, Abacha, Abubakar) used 'Head of State' — Babangida is the exception.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The National Youth Service Corps (NYSC) was established in",
+       "o": {
+        "A": "1970",
+        "B": "1973",
+        "C": "1979",
+        "D": "1983"
+       },
+       "a": "B",
+       "concept": "The NYSC scheme was established in 1973, in the aftermath of the civil war, to promote national unity among graduates.",
+       "method": "Link it to the post-war era — the scheme was designed to knit the country back together after 1967–70.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Nigeria's first Inspector-General of Police was",
+       "o": {
+        "A": "Louis Edet",
+        "B": "Teslim Balogun",
+        "C": "Kam Selem",
+        "D": "Muhammadu Gambo"
+       },
+       "a": "A",
+       "concept": "Louis Edet became Nigeria's first indigenous Inspector-General of Police, a post he held from 1964.",
+       "method": "Don't confuse him with Teslim Balogun, who is famous instead as a footballer and the namesake of a Lagos stadium.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The last colonial Governor-General of Nigeria, who handed over at independence in 1960, was",
+       "o": {
+        "A": "Sir Hugh Clifford",
+        "B": "Sir James Robertson",
+        "C": "Lord Lugard",
+        "D": "Sir John Macpherson"
+       },
+       "a": "B",
+       "concept": "Sir James Robertson served as Governor-General from 1955, presiding over independence in 1960, and continued briefly as Nigeria's first post-independence Governor-General.",
+       "method": "Lugard was the very first Governor-General (1914); Robertson was the last colonial one, at the other end of that era.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Nigeria's second military coup, which brought Yakubu Gowon to power, took place on",
+       "o": {
+        "A": "15 January 1966",
+        "B": "29 July 1966",
+        "C": "1 October 1966",
+        "D": "13 February 1976"
+       },
+       "a": "B",
+       "concept": "The countercoup of 29 July 1966 ended the Ironsi government and brought Yakubu Gowon to power.",
+       "method": "Distinguish it from the first coup (15 January 1966) that had earlier brought down the civilian government.",
+       "difficulty": "core"
+      },
+      {
+       "q": "ECOWAS was established through the Treaty of Lagos in 1975; its headquarters is now located in",
+       "o": {
+        "A": "Lagos",
+        "B": "Accra",
+        "C": "Abuja",
+        "D": "Dakar"
+       },
+       "a": "C",
+       "concept": "Although ECOWAS was founded and originally headquartered in Lagos, its secretariat relocated to Abuja in the late 1990s and remains there today.",
+       "method": "Don't assume 'founded in Lagos' still means 'headquartered in Lagos' today — the two facts diverged after the move to Abuja.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Nigeria's first Executive President, under the 1979 Constitution, was",
+       "o": {
+        "A": "Nnamdi Azikiwe",
+        "B": "Shehu Shagari",
+        "C": "Tafawa Balewa",
+        "D": "Olusegun Obasanjo"
+       },
+       "a": "B",
+       "concept": "Alhaji Shehu Shagari became Nigeria's first Executive President in 1979, combining the roles of head of state and head of government.",
+       "method": "Don't confuse this with Azikiwe, who was Nigeria's first President but only in a ceremonial role under the earlier parliamentary system.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Nigeria's first indigenous President, who held the largely ceremonial role from 1963 to 1966 under the parliamentary system, was",
+       "o": {
+        "A": "Shehu Shagari",
+        "B": "Tafawa Balewa",
+        "C": "Nnamdi Azikiwe",
+        "D": "Aguiyi-Ironsi"
+       },
+       "a": "C",
+       "concept": "Dr Nnamdi Azikiwe served as Nigeria's first President from 1963, but as a ceremonial head of state, with executive power held by Prime Minister Tafawa Balewa.",
+       "method": "Remember the split: Azikiwe held the ceremonial title, while Balewa (as Prime Minister) held the executive power.",
+       "difficulty": "core"
+      },
+      {
+       "q": "In Nigeria's coat of arms, the eagle standing above the shield represents",
+       "o": {
+        "A": "peace",
+        "B": "agriculture",
+        "C": "strength",
+        "D": "unity"
+       },
+       "a": "C",
+       "concept": "The eagle on Nigeria's coat of arms symbolises strength.",
+       "method": "Pair each coat-of-arms element with its meaning: black shield = fertile soil, eagle = strength, horses = dignity.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The black shield at the centre of Nigeria's coat of arms represents",
+       "o": {
+        "A": "the nation's mineral wealth",
+        "B": "the country's fertile soil",
+        "C": "mourning for the civil war",
+        "D": "the meeting of two rivers"
+       },
+       "a": "B",
+       "concept": "The black shield symbolises Nigeria's fertile soil, while its wavy white 'Y' shape represents the meeting of the Niger and Benue Rivers at Lokoja.",
+       "method": "The shield's colour (black) points to soil; its white wavy pattern points separately to the rivers.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Nigeria's national motto has been \"Unity and Faith, Peace and Progress\" since 1978. What was the motto before that change?",
+       "o": {
+        "A": "\"One Nation, One Destiny\"",
+        "B": "\"Peace, Unity, Freedom\"",
+        "C": "\"Arise, O Compatriots\"",
+        "D": "\"Faith and Labour\""
+       },
+       "a": "B",
+       "concept": "Nigeria's motto was changed in 1978 from 'Peace, Unity, Freedom' to the current 'Unity and Faith, Peace and Progress'.",
+       "method": "Note that 'Arise, O Compatriots' is the national anthem's opening line, not a motto — a common mix-up.",
+       "difficulty": "core"
       }
      ],
-     "freq": 56
+     "freq": 80
     },
     {
      "id": "world",
@@ -13633,9 +15102,139 @@ const QUIZ_DATA = {
        "concept": "West African capitals are frequently tested and easy to confuse with one another.",
        "method": "Bamako is Mali's capital; Niamey is Niger's, Conakry is Guinea's, and Dakar is Senegal's.",
        "difficulty": "core"
+      },
+      {
+       "q": "The Taj Mahal in India was built by the Mughal emperor",
+       "o": {
+        "A": "Akbar",
+        "B": "Humayun",
+        "C": "Aurangzeb",
+        "D": "Shah Jahan"
+       },
+       "a": "D",
+       "concept": "Shah Jahan built the Taj Mahal in the 17th century as a mausoleum for his wife, Mumtaz Mahal.",
+       "method": "Link the monument to its purpose — a tomb of love — built by the grieving husband, Shah Jahan.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The River Thames, which flows through London, is located in",
+       "o": {
+        "A": "England",
+        "B": "Scotland",
+        "C": "Ireland",
+        "D": "Finland"
+       },
+       "a": "A",
+       "concept": "The Thames is England's best-known river, flowing through London on its way to the North Sea.",
+       "method": "Since it runs directly through London, it must be in England.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The flag of the United Kingdom is popularly nicknamed the",
+       "o": {
+        "A": "Tricolour",
+        "B": "Stars and Stripes",
+        "C": "Union Jack",
+        "D": "Maple Leaf"
+       },
+       "a": "C",
+       "concept": "The Union Jack combines the crosses of England, Scotland, and Ireland into a single flag representing the United Kingdom.",
+       "method": "'Union' in the nickname reflects the flag's origin — a union of separate national crosses into one design.",
+       "difficulty": "core"
+      },
+      {
+       "q": "By some measures, the most populous city in the world (by metropolitan area) is",
+       "o": {
+        "A": "Beijing",
+        "B": "Shanghai",
+        "C": "Tokyo",
+        "D": "Buenos Aires"
+       },
+       "a": "C",
+       "concept": "Tokyo's greater metropolitan area is commonly cited as the world's most populous, though rankings vary depending on how city boundaries are defined.",
+       "method": "Tokyo consistently tops most 'largest metro area' lists, even though other cities may have bigger city-proper populations.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The capital of Ukraine is",
+       "o": {
+        "A": "Kazan",
+        "B": "Aden",
+        "C": "Crimea",
+        "D": "Kyiv (Kiev)"
+       },
+       "a": "D",
+       "concept": "Kyiv (traditionally spelled Kiev) is Ukraine's capital and largest city.",
+       "method": "Rule out Crimea (a peninsula/region, not a capital city) and Kazan (a Russian city).",
+       "difficulty": "core"
+      },
+      {
+       "q": "Queen Elizabeth II, Britain's longest-reigning monarch, died in 2022 after 70 years on the throne. She was succeeded as monarch by her son,",
+       "o": {
+        "A": "Prince William",
+        "B": "King Charles III",
+        "C": "Prince Harry",
+        "D": "King Edward VIII"
+       },
+       "a": "B",
+       "concept": "Following Queen Elizabeth II's death on 8 September 2022, her eldest son ascended the throne as King Charles III.",
+       "method": "The order of succession passed to the eldest child first — Charles, not his sons William or Harry.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The tallest mountain in the world, measured from sea level, is",
+       "o": {
+        "A": "Kilimanjaro",
+        "B": "Everest",
+        "C": "Elbrus",
+        "D": "Mont Blanc"
+       },
+       "a": "B",
+       "concept": "Mount Everest, on the Nepal–China border, is the world's tallest mountain above sea level.",
+       "method": "Don't confuse it with Kilimanjaro, which is only the tallest peak in Africa, not the world.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The world's tallest waterfall, located in Venezuela, is",
+       "o": {
+        "A": "Victoria Falls",
+        "B": "Niagara Falls",
+        "C": "Angel Falls",
+        "D": "Iguazu Falls"
+       },
+       "a": "C",
+       "concept": "Angel Falls in Venezuela is the world's tallest uninterrupted waterfall, with a total drop of about 979 metres.",
+       "method": "Rule out Victoria and Niagara, which are famous for volume rather than height.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The Mediterranean is widely cited as the world's largest inland (enclosed) sea.",
+       "o": {
+        "A": "True",
+        "B": "False",
+        "C": "Only in Africa",
+        "D": "Only in Europe"
+       },
+       "a": "A",
+       "concept": "The Mediterranean Sea, bordered by Europe, Africa, and Asia, is commonly described as the world's largest inland or enclosed sea.",
+       "method": "'Inland/enclosed' is the key qualifier — it distinguishes the Mediterranean from larger open oceans.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The first country to host (and win) the FIFA World Cup, in 1930, was",
+       "o": {
+        "A": "Brazil",
+        "B": "Uruguay",
+        "C": "Italy",
+        "D": "Argentina"
+       },
+       "a": "B",
+       "concept": "Uruguay hosted the inaugural FIFA World Cup in 1930 and also won the tournament on home soil.",
+       "method": "Remember it as a double 'first': first host AND first champion, both Uruguay.",
+       "difficulty": "core"
       }
      ],
-     "freq": 43
+     "freq": 53
     },
     {
      "id": "geo",
@@ -13802,9 +15401,35 @@ const QUIZ_DATA = {
        "concept": "A confluence is where two rivers join — Nigeria's most significant one defines a state's identity.",
        "method": "The River Benue joins the River Niger at Lokoja, in Kogi State.",
        "difficulty": "core"
+      },
+      {
+       "q": "Lake Chad, one of Africa's largest freshwater lakes, is situated mainly in which Nigerian state?",
+       "o": {
+        "A": "Adamawa",
+        "B": "Borno",
+        "C": "Taraba",
+        "D": "Sokoto"
+       },
+       "a": "B",
+       "concept": "Lake Chad borders Nigeria's Borno State in the north-east, along with Chad, Niger, and Cameroon.",
+       "method": "Link the lake's name to the country it's named after (Chad) — Borno State is Nigeria's north-eastern gateway to that border region.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Which of these Nigerian states does NOT share a border with the Republic of Niger?",
+       "o": {
+        "A": "Sokoto",
+        "B": "Katsina",
+        "C": "Kano",
+        "D": "Borno"
+       },
+       "a": "C",
+       "concept": "Seven Nigerian states border the Republic of Niger: Sokoto, Kebbi, Zamfara, Katsina, Jigawa, Yobe, and Borno. Kano is not among them.",
+       "method": "Kano sits just south of the actual border states, so despite being a major northern state, it doesn't touch Niger Republic directly.",
+       "difficulty": "core"
       }
      ],
-     "freq": 17
+     "freq": 19
     },
     {
      "id": "unilorin",
@@ -14425,9 +16050,22 @@ const QUIZ_DATA = {
        "concept": "Rusting is a chemical reaction (oxidation) that needs both water and oxygen to occur.",
        "method": "Iron left in a dry place, or underwater with no air, rusts far more slowly — it's the combination of moisture AND oxygen that drives it.",
        "difficulty": "core"
+      },
+      {
+       "q": "A private network similar to a company's internal intranet, but opened up to external parties such as business partners or key customers, is called an",
+       "o": {
+        "A": "Extranet",
+        "B": "Internet",
+        "C": "LAN",
+        "D": "VPN"
+       },
+       "a": "A",
+       "concept": "An extranet extends a private network to trusted outsiders, allowing controlled data exchange with partners or suppliers.",
+       "method": "Think 'extra' + 'net' — a network extended just beyond the organisation's own walls, unlike a fully public internet.",
+       "difficulty": "core"
       }
      ],
-     "freq": 42
+     "freq": 43
     },
     {
      "id": "biology",
@@ -14867,9 +16505,61 @@ const QUIZ_DATA = {
        "concept": "Expanding common health-related acronyms correctly is a recurring GK question type.",
        "method": "AIDS stands for Acquired Immune Deficiency Syndrome, caused by the HIV virus.",
        "difficulty": "core"
+      },
+      {
+       "q": "The first television station in Nigeria (and in tropical Africa) was",
+       "o": {
+        "A": "NTA",
+        "B": "WNTV",
+        "C": "STV",
+        "D": "ITV"
+       },
+       "a": "B",
+       "concept": "WNTV (Western Nigeria Television), launched in Ibadan in 1959 by the Western Region government, was the first TV station in Nigeria and tropical Africa.",
+       "method": "NTA came much later, as a national network formed after WNTV and other regional stations already existed.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The first woman to drive a car in Nigeria is widely credited as",
+       "o": {
+        "A": "Madam Efunroye Tinubu",
+        "B": "Funmilayo Ransome-Kuti",
+        "C": "Grace Alele-Williams",
+        "D": "Margaret Ekpo"
+       },
+       "a": "B",
+       "concept": "Funmilayo Ransome-Kuti is credited as the first woman to drive a car in Nigeria.",
+       "method": "Distinguish this from Efunroye Tinubu, who is credited as the first woman to buy a car, not drive one.",
+       "difficulty": "core"
+      },
+      {
+       "q": "The first person credited with buying (owning) a car in Nigeria, ahead of most men of her era, was",
+       "o": {
+        "A": "Funmilayo Ransome-Kuti",
+        "B": "Madam Efunroye Tinubu",
+        "C": "Flora Shaw",
+        "D": "Margaret Ekpo"
+       },
+       "a": "B",
+       "concept": "Madam Efunroye Tinubu, a powerful 19th-century Lagos merchant and political figure, is credited as the first person to buy a car in Nigeria.",
+       "method": "Separate 'first to buy/own' (Tinubu) from 'first to drive' (Ransome-Kuti) — they're commonly paired trivia facts.",
+       "difficulty": "core"
+      },
+      {
+       "q": "Nigeria's Golden Eaglets became the first country to win the FIFA U-16/U-17 World Championship, doing so in 1985 in",
+       "o": {
+        "A": "China",
+        "B": "Japan",
+        "C": "Nigeria",
+        "D": "Brazil"
+       },
+       "a": "A",
+       "concept": "Nigeria's Golden Eaglets won the inaugural FIFA U-16 World Championship in China in 1985.",
+       "method": "It was the very first edition of the tournament, held in China, with Nigeria as the first-ever champion.",
+       "difficulty": "core"
       }
      ],
-     "freq": 61
+     "freq": 65
     }
    ]
   }
