@@ -360,8 +360,8 @@ byId('ctaBrowse').addEventListener('click', function(){
   document.getElementById('view-dashboard').scrollIntoView({behavior:'smooth'});
 });
 function launchSimulation(){
-  var picks = weightedPick(50);
-  startQuiz(picks, 'simulate', 'Full CBT Simulation', 25*60);
+  var picks = weightedPick(100);
+  startQuiz(picks, 'simulate', 'Full CBT Simulation (Extended)', 50*60);
 }
 byId('ctaSimulate').addEventListener('click', launchSimulation);
 byId('ctaSimulate2').addEventListener('click', launchSimulation);
